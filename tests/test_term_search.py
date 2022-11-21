@@ -8,10 +8,7 @@ from pubextract import term_search
 
 # list of terms to search for
 terms_path = (
-    Path(__file__).resolve().parents[1]
-    / "src"
-    / "pubextract"
-    / "methods_terms.csv"
+    Path(__file__).resolve().parents[1] / "src" / "pubextract" / "methods_terms.csv"
 )
 TERMS = list(pd.read_csv(terms_path)["cluster_inference"])
 TERMS.sort()
@@ -42,6 +39,9 @@ def test_simple_term_search():
     assert simple_results.iloc[2]["minimum volume"]
 
 
+test_simple_term_search()
+
+
 def test_neuroquery_term_search():
     # NEUROQUERY TERM SEARCH - i.e., look for terms after preprocessing terms & text
     nq_term_search = term_search.NeuroQueryTermSearch(original_terms=TERMS)
@@ -68,21 +68,3 @@ def test_neuroquery_term_search():
 # anns = anns_dense.explode("annotations").reset_index(drop=True)
 # for index, row in anns.iterrows():
 #     anns.loc[index, "pmcid"] = row.metadata["pmcid"]
-
-# nq_answers = {
-#     1: {
-#         "n_participants": 50,
-#         "smoothing_kernel": 5,
-#         "cluster_inference_used": True,
-#     },
-#     2: {
-#         "n_participants": 15,
-#         "smoothing_kernel": 6,
-#         "cluster_inference_used": False,
-#     },
-#     3: {
-#         "n_participants": 395,
-#         "smoothing_kernel": 2,
-#         "cluster_inference_used": True,
-#     },
-# }

@@ -13,16 +13,21 @@ class SimpleTermSearch:
     def __init__(self, terms):
         self.terms = terms
 
-    def termsearch(self, docs):
-        results = pd.DataFrame(index=docs.index, columns=["pmcid"] + self.terms)
+    def termsearch(self, docs, return_positions=False):
+        positions = pd.DataFrame(index=docs.index, columns=["pmcid"] + self.terms)
         for index, row in docs.iterrows():
-            results.loc[index, "pmcid"] = row.pmcid
+            positions.loc[index, "pmcid"] = row.pmcid
             for term in self.terms:
                 if term in row.text:
-                    results.loc[index, term] = True
+                    # results.loc[index, term] = True
+                    positions.loc[index, term] = row.text.find(term)
 
+        positions.set_index("pmcid", drop=True, inplace=True)
+        if return_positions:
+            results = positions
+        else:
+            results = positions > 0
         results = results.fillna(value=False)
-        results = results.set_index("pmcid", drop=True)
         return results
 
 
@@ -39,9 +44,7 @@ class NeuroQueryTermSearch:
         texts = list(docs.text)
         results_ar = self.text_vectorizer.transform(docs=texts).toarray()
         pmcids = [int(pmcid) for pmcid in list(docs.pmcid)]
-        results = pd.DataFrame(
-            data=results_ar, index=pmcids, columns=self.terms
-        )
+        results = pd.DataFrame(data=results_ar, index=pmcids, columns=self.terms)
         results = results.replace(to_replace=0.0, value=False)
         results = results.replace(to_replace=1.0, value=True)
         return results

@@ -1,0 +1,30 @@
+"cluster_inference","nonparametric_cluster_threshold","spm","fsl","afni","smoothing_kernel"
+"cluster size","alphasim","statistical parametric mapping","fsl","afni","fwhm"
+"cluster level","nonparametric cluster threshold","spm",,,"kernel size"
+"contiguous voxels",,,,,"spatial smoothing"
+"cluster extent",,,,,"smoothed functional images"
+"spatial extent",,,,,
+"cluster corrected",,,,,
+"gaussian random field theory",,,,,
+"minimum cluster volume",,,,,
+"cluster voxels",,,,,
+"cluster significance",,,,,
+"tfce",,,,,
+"threshold free cluster enhancement",,,,,
+"voxel contiguity threshold",,,,,
+"3dclustsim",,,,,
+"volume greater",,,,,
+"cluster based correction",,,,,
+"cluster correction",,,,,
+"minimum size",,,,,
+"cluster wise correction",,,,,
+"cluster wise significance",,,,,
+"cluster extended",,,,,
+"volume least",,,,,
+"combined voxel cluster test",,,,,
+"cluster wise activation threshold",,,,,
+"cluster based thresholding",,,,,
+"combined voxel cluster tests",,,,,
+"cluster radius",,,,,
+"cluster defining threshold",,,,,
+"minimum volume",,,,,
