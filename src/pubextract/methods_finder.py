@@ -4,7 +4,6 @@ import re
 import pandas as pd
 
 from pubextract import term_search
-import IPython
 
 
 def method_yn_from_term_search(docs, methods_labels=[]):
@@ -58,7 +57,6 @@ def method_value_from_term_search(docs, methods_labels=[]):
 
     terms_path = Path(__file__).resolve().parent / "methods_terms.csv"
     terms_df = pd.read_csv(terms_path)
-    # IPython.embed()
 
     if len(methods_labels) < 1:
         methods_labels = list(terms_df.columns)
@@ -100,18 +98,3 @@ def method_value_from_term_search(docs, methods_labels=[]):
 # for match in re.finditer(r'\b\d+\b', sentence):
 #     locs.append(match.span()[0])
 #     vals.append(match.group())
-
-
-# docs_path = (
-#     Path(__file__).resolve().parents[1] / "tests"/"data" / "documents" / "test_documents.jsonl"
-# )
-# DOCS = pd.read_json(docs_path, lines=True)
-# for index, row in DOCS.iterrows():
-#     DOCS.loc[index, "pmcid"] = row.metadata["pmcid"]
-
-# answers = {"cluster_inference": [1, 0, 1], "smoothing_kernel": [5, 6, 2]}
-
-# ss_results = method_finder.method_value_from_term_search(docs=DOCS, methods_labels=["smoothing_snippet"])
-
-
-# assert list(SS_results.values) == answers['smoothing_kernel']
