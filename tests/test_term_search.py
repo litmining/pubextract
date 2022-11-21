@@ -11,10 +11,9 @@ terms_path = (
     Path(__file__).resolve().parents[1]
     / "src"
     / "pubextract"
-    / "cluster_inference"
-    / "cluster_inference_terms.csv"
+    / "methods_terms.csv"
 )
-TERMS = list(pd.read_csv(terms_path)["term"])
+TERMS = list(pd.read_csv(terms_path)["cluster_inference"])
 TERMS.sort()
 
 docs_path = (
@@ -27,8 +26,7 @@ for index, row in DOCS.iterrows():
 
 def test_simple_term_search():
     # SIMPLE TERM SEARCH - i.e., with no text preprocessing or vectorization
-    simple_term_search = term_search.SimpleTermSearch()
-    simple_term_search.fit(terms=TERMS)
+    simple_term_search = term_search.SimpleTermSearch(terms=TERMS)
     simple_results = simple_term_search.termsearch(docs=DOCS)
 
     # The first doc contains 'cluster-defining threshold'.
@@ -46,8 +44,7 @@ def test_simple_term_search():
 
 def test_neuroquery_term_search():
     # NEUROQUERY TERM SEARCH - i.e., look for terms after preprocessing terms & text
-    nq_term_search = term_search.NeuroQueryTermSearch()
-    nq_term_search.fit(original_terms=TERMS)
+    nq_term_search = term_search.NeuroQueryTermSearch(original_terms=TERMS)
     nq_results = nq_term_search.termsearch(docs=DOCS)
 
     # The first doc contains 'cluster-defining threshold'.

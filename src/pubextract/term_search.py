@@ -10,12 +10,8 @@ WORD_PATTERN = r"(?:(?:\p{L}|\p{N})+|[=<>]|\p{Math_Operators})"
 
 
 class SimpleTermSearch:
-    def __init__(self):
-        pass
-
-    def fit(self, terms):
+    def __init__(self, terms):
         self.terms = terms
-        # self.label = label
 
     def termsearch(self, docs):
         results = pd.DataFrame(index=docs.index, columns=["pmcid"] + self.terms)
@@ -31,23 +27,20 @@ class SimpleTermSearch:
 
 
 class NeuroQueryTermSearch:
-    def __init__(self):
-        pass
-
-    def fit(self, original_terms):
+    def __init__(self, original_terms):
         self.original_terms = original_terms
         self.text_vectorizer = TextVectorizer.from_vocabulary(
             self.original_terms, token_pattern=WORD_PATTERN
         )
+        self.text_vectorizer.tokenizer.keep_pos = True
         self.terms = self.text_vectorizer.get_vocabulary()
-        # self.text_vectorizer = TextVectorizer(self.original_terms)
-        # self.terms = self.text_vectorizer.from_vocabulary(voc=self.original_terms)
 
     def termsearch(self, docs):
         texts = list(docs.text)
         results_ar = self.text_vectorizer.transform(docs=texts).toarray()
+        pmcids = [int(pmcid) for pmcid in list(docs.pmcid)]
         results = pd.DataFrame(
-            data=results_ar, index=list(docs.pmcid), columns=self.terms
+            data=results_ar, index=pmcids, columns=self.terms
         )
         results = results.replace(to_replace=0.0, value=False)
         results = results.replace(to_replace=1.0, value=True)
