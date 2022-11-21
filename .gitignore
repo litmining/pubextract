@@ -1,3 +1,5 @@
+.vscode/
+
 doc_build/
 profile.svg
 flycheck__*
