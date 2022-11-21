@@ -1,0 +1,31 @@
+name: "build"
+
+on:
+  push:
+    branches:
+      - "main"
+  pull_request:
+    branches:
+      - "*"
+
+jobs:
+  run_tests:
+    name: ${{ matrix.os }} with Python ${{ matrix.python-version }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: ["ubuntu-latest", "windows-latest"]
+        python-version: ["3.7", "3.10"]
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python-version }}
+        name: "setup python"
+      - name: "install"
+        run: |
+          pip install -U pip
+          pip install .
+          pip install pytest
+      - name: "run tests"
+        run: pytest tests/
