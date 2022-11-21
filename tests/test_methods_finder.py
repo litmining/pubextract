@@ -28,5 +28,4 @@ def test_method_values_from_search_term():
     ss_results = methods_finder.method_value_from_term_search(
         docs=DOCS, methods_labels=[method]
     )
-
     assert list(ss_results[method].values) == answers[method]
