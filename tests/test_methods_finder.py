@@ -2,7 +2,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from pubextract import methods_finder
+from pubextract.methods_finder import methods_finder
 
 
 docs_path = (

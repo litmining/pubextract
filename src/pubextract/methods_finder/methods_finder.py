@@ -17,7 +17,7 @@ def method_yn_from_term_search(docs, methods_labels=[]):
         and the methods_labels as the columns.
         If the value in a cell is 1, that means we found at least one term for that method (column name) in the document with that pmcid (index).
     """
-    terms_path = Path(__file__).resolve().parent / "methods_terms.csv"
+    terms_path = Path(__file__).resolve().parent / "_data" / "methods_terms.csv"
     terms_df = pd.read_csv(terms_path)
 
     if len(methods_labels) < 1:
@@ -55,7 +55,7 @@ def method_value_from_term_search(docs, methods_labels=[]):
         The value in the cell is the last number found in the sentence where we found a term related to the given method (column name) in the document with that pmcid (index).
     """
 
-    terms_path = Path(__file__).resolve().parent / "methods_terms.csv"
+    terms_path = Path(__file__).resolve().parent / "_data" / "methods_terms.csv"
     terms_df = pd.read_csv(terms_path)
 
     if len(methods_labels) < 1:

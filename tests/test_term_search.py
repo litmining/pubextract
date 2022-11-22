@@ -8,7 +8,12 @@ from pubextract import term_search
 
 # list of terms to search for
 terms_path = (
-    Path(__file__).resolve().parents[1] / "src" / "pubextract" / "methods_terms.csv"
+    Path(__file__).resolve().parents[1]
+    / "src"
+    / "pubextract"
+    / "methods_finder"
+    / "_data"
+    / "methods_terms.csv"
 )
 TERMS = list(pd.read_csv(terms_path)["cluster_inference"])
 TERMS.sort()
