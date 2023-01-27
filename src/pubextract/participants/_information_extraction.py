@@ -38,7 +38,7 @@ def annotate_labelbuddy_docs(documents):
         del doc["display_title"]
         del doc["list_title"]
         del doc["text"]
-        yield doc
+        yield doc, extracted
     print()
 
 

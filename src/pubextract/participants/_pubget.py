@@ -1,8 +1,12 @@
+import json
 import logging
 from pathlib import Path
 
+import pandas as pd
+import pubget
+
 from pubextract import _utils
-from pubextract.participants import _information_extraction
+from pubextract.participants import _information_extraction, _summarization
 
 _STEP_NAME = "extract_participants_demographics"
 _STEP_DESCRIPTION = (
@@ -11,27 +15,66 @@ _STEP_DESCRIPTION = (
 _LOG = logging.getLogger(_STEP_NAME)
 
 
-def extract_from_pubget_data(extracted_data_dir, output_dir=None):
-    extracted_data_dir = Path(extracted_data_dir)
+def _iter_labelbuddy_docs(labelbuddy_dir):
+    for batch_file in sorted(labelbuddy_dir.glob("documents_*.jsonl")):
+        with open(batch_file, "r", encoding="UTF-8") as stream:
+            batch = list(map(json.loads, stream))
+        yield from batch
+
+
+def _extract_from_labelbuddy_dir(labelbuddy_dir, output_dir=None):
     if output_dir is None:
-        output_dir = extracted_data_dir.with_name(
-            extracted_data_dir.name.replace(
-                "_extractedData", "_participantsDemographics"
+        output_dir = labelbuddy_dir.with_name(
+            labelbuddy_dir.name.replace(
+                "_labelbuddyData", "_participantsDemographics"
             )
         )
     else:
         output_dir = Path(output_dir)
     output_dir.mkdir(exist_ok=True)
-    status = _utils.check_steps_status(
-        extracted_data_dir, output_dir, _STEP_NAME
-    )
+    status = _utils.check_steps_status(labelbuddy_dir, output_dir, _STEP_NAME)
     if not status["need_run"]:
         return output_dir, 0
     _LOG.info(f"Extracting participant demographics to {output_dir}")
-    _information_extraction.extract_from_dataset(
-        extracted_data_dir.joinpath("text.csv"),
-        output_dir.joinpath("demographics.jsonl"),
-    )
+    annotations, full_extractions, summaries = [], [], []
+    for (
+        doc_annotations,
+        participants_info,
+    ) in _information_extraction.annotate_labelbuddy_docs(
+        _iter_labelbuddy_docs(labelbuddy_dir)
+    ):
+        annotations.append(doc_annotations)
+        doc_extraction = json.loads(_summarization.to_json(participants_info))
+        full_extractions.append(doc_extraction)
+        summary = {
+            k: doc_extraction[k]
+            for k in (
+                "count",
+                "females_count",
+                "males_count",
+                "age_mean",
+                "age_range",
+            )
+        }
+        summary["pmcid"] = doc_annotations["metadata"]["pmcid"]
+        summaries.append(summary)
+    pd.DataFrame(summaries).to_csv(output_dir / "participants_summaries.csv")
+    with open(
+        output_dir / "participants_labelbuddy_annotations.jsonl",
+        "w",
+        encoding="UTF-8",
+    ) as stream:
+        for doc_annotations in annotations:
+            stream.write(json.dumps(doc_annotations))
+            stream.write("\n")
+    with open(
+        output_dir / "participants_full_extracted_info.jsonl",
+        "w",
+        encoding="UTF-8",
+    ) as stream:
+        for doc_extraction in full_extractions:
+            stream.write(json.dumps(doc_extraction))
+            stream.write("\n")
     is_complete = bool(status["previous_step_complete"])
     _utils.write_info(output_dir, name=_STEP_NAME, is_complete=is_complete)
     _LOG.info(f"Done extracting participant demographics to {output_dir}")
@@ -53,7 +96,12 @@ class DemographicsStep:
     def run(self, args, previous_steps_output):
         if not args.demographics:
             return None, 0
-        return extract_from_pubget_data(previous_steps_output["extract_data"])
+        labelbuddy_dir = previous_steps_output.get("extract_labelbuddy_data")
+        if labelbuddy_dir is None:
+            labelbuddy_dir, _ = pubget.make_labelbuddy_documents(
+                previous_steps_output["extract_data"]
+            )
+        return _extract_from_labelbuddy_dir(labelbuddy_dir)
 
 
 class DemographicsCommand:
@@ -62,14 +110,14 @@ class DemographicsCommand:
 
     def edit_argument_parser(self, argument_parser) -> None:
         argument_parser.add_argument(
-            "extracted_data_dir",
-            help="Directory containing extracted data CSV files."
-            "It is a directory created by pubget whose name ends "
-            "with 'extractedData'.",
+            "labelbuddy_dir",
+            help="Directory containing articles in labelbuddy format."
+            "It is a directory created by pubget with the '--labelbuddy' "
+            "option, whose name ends with 'labelbuddyData'.",
         )
 
     def run(self, args):
-        return extract_from_pubget_data(args.extracted_data_dir)[1]
+        return _extract_from_labelbuddy_dir(Path(args.labelbuddy_dir))[1]
 
 
 def get_pubget_actions():
