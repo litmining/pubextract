@@ -1,11 +1,14 @@
+import logging
 from pathlib import Path
 
+from pubextract import _utils
 from pubextract.participants import _information_extraction
 
 _STEP_NAME = "extract_participants_demographics"
 _STEP_DESCRIPTION = (
     "Extract participants count, sex and age from studies' text."
 )
+_LOG = logging.getLogger(_STEP_NAME)
 
 
 def extract_from_pubget_data(extracted_data_dir, output_dir=None):
@@ -19,10 +22,19 @@ def extract_from_pubget_data(extracted_data_dir, output_dir=None):
     else:
         output_dir = Path(output_dir)
     output_dir.mkdir(exist_ok=True)
+    status = _utils.check_steps_status(
+        extracted_data_dir, output_dir, _STEP_NAME
+    )
+    if not status["need_run"]:
+        return output_dir, 0
+    _LOG.info(f"Extracting participant demographics to {output_dir}")
     _information_extraction.extract_from_dataset(
         extracted_data_dir.joinpath("text.csv"),
         output_dir.joinpath("demographics.jsonl"),
     )
+    is_complete = bool(status["previous_step_complete"])
+    _utils.write_info(output_dir, name=_STEP_NAME, is_complete=is_complete)
+    _LOG.info(f"Done extracting participant demographics to {output_dir}")
     return output_dir, 0
 
 
