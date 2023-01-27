@@ -46,19 +46,28 @@ def _extract_from_labelbuddy_dir(labelbuddy_dir, output_dir=None):
         annotations.append(doc_annotations)
         doc_extraction = json.loads(_summarization.to_json(participants_info))
         full_extractions.append(doc_extraction)
-        summary = {
-            k: doc_extraction[k]
-            for k in (
-                "count",
-                "females_count",
-                "males_count",
-                "age_mean",
-                "age_range",
-            )
-        }
-        summary["pmcid"] = doc_annotations["metadata"]["pmcid"]
+        summary = {"pmcid": doc_annotations["metadata"]["pmcid"]}
+        summary.update(
+            {
+                k: doc_extraction[k]
+                for k in (
+                    "count",
+                    "females_count",
+                    "males_count",
+                    "age_mean",
+                )
+            }
+        )
+        if doc_extraction.get("age_range") is not None:
+            summary["age_range_start"] = doc_extraction["age_range"][0]
+            summary["age_range_end"] = doc_extraction["age_range"][1]
+        else:
+            summary["age_range_start"] = None
+            summary["age_range_end"] = None
         summaries.append(summary)
-    pd.DataFrame(summaries).to_csv(output_dir / "participants_summaries.csv")
+    pd.DataFrame(summaries).to_csv(
+        output_dir / "participants_summaries.csv", index=False
+    )
     with open(
         output_dir / "participants_labelbuddy_annotations.jsonl",
         "w",
