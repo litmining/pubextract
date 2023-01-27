@@ -3,12 +3,12 @@ from pathlib import Path
 import pandas as pd
 import numpy as np
 
-from pubextract import term_search
+from pubextract.methods_finder import term_search
 
 
 # list of terms to search for
 terms_path = (
-    Path(__file__).resolve().parents[1]
+    Path(__file__).resolve().parents[2]
     / "src"
     / "pubextract"
     / "methods_finder"
