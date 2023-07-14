@@ -3,7 +3,7 @@ import re
 
 import pandas as pd
 
-from pubextract import term_search
+from pubextract.methods_finder import term_search
 
 
 def method_yn_from_term_search(docs, methods_labels=[]):

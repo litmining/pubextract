@@ -51,7 +51,7 @@ def test_annotate_labelbuddy_docs(example_text):
         _information_extraction.annotate_labelbuddy_docs(all_docs)
     )
     assert len(annotated) == 2
-    assert annotated[0]["annotations"][0]["extra_data"].startswith(
+    assert annotated[0][0]["annotations"][0]["extra_data"].startswith(
         "<20 participants"
     )
     extracted_n = _information_extraction.n_participants_from_labelbuddy_docs(
