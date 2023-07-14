@@ -1,0 +1,25 @@
+Patients’ characteristics,Total Stroke (n = 23)???,No Stroke (n = 206)???,P-Value???
+Preoperative Condition,Preoperative Condition,Preoperative Condition,Preoperative Condition
+Age (year),61 (49–67),52.75 ± 0.84,0.052
+Gender (male/%),87 (20/23),76.2 (157/206),0.243
+Hemoglobin concentration (g/L),123.22 ± 3.96,130.37 ± 1.17,0.057
+Platelet count (10^9/L),132.83 ± 9.82,172 (135–220),0.001***
+Total bilirubin (μmol/L),15.5(11.6–24.9),15.9(11.8–22.2),0.526
+Albumin (g/L),36.48 ± 1.05,39 (37–43),0.007**
+Alanine aminotransferase (U/L),38 (27–67),26 (16–42),0.006**
+Aspartate aminotransferase (U/L),37 (26–57),24 (18–37),0.002**
+eGFR (ml/min/1.73m^2),61.00 ± 10.72,81 (64–98),0.092
+Serum creatinine (μmol/L),108 (78–157),80 (65–101),0.002**
+INR-international normalised ratio,1.21(1.10–1.86),1.10(1.05–1.17),0.002**
+Diabetic history (n/%),13 (3/23),2.9 (6/206),0.050*
+Stroke history (n/%),0 (0/23),2.4 (5/206),1.000
+Cardiac surgery history (n/%),4.3 (1/23),4.4 (9/206),1.000
+Left Ventricular Ejection Fraction (%),62.74 ± 0.81,64 (62–67),0.275
+Intraoperative Condition,Intraoperative Condition,Intraoperative Condition,Intraoperative Condition
+Cardiopulmonary bypass time (min),222 (201–308),172 (151–194),0.001***
+Aortic cross-clamp time (min),114.24 ± 8.88,102 (81–122),0.248
+Deep Hypothermic Circulatory Arrest (min),19 (16–23),19 (17–22),0.704
+Unilateral cerebral perfusion time (min),27.48 ± 1.66,27 (20–32),0.752
+Minimum nasopharyngeal temperature (°C),22.54 ± 0.20,22.2 (21.8–23.0),0.533
+50% Hematocrit blood products using (U),6 (4–8),4 (2–8),0.097
+Plasma infusion (ml),800 (600–1000),600 (400–1000),0.072

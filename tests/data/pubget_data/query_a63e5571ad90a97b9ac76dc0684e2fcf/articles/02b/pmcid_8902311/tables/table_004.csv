@@ -1,0 +1,10 @@
+Unnamed: 0,B,Std. error,β,P-value
+(Constart),9.663,3.308,,0.004
+Weight (kg),0.007,0.003,0.081,0.039
+Preoperative eGFR (ml/min/1.73m2),−0.003,0.001,−0.103,0.012
+Ln(Pre-op sMb) (ng/mL),0.227,0.031,0.292,<0.001
+Iliac artery involvement,0.260,0.076,0.129,0.001
+MHCA temperature (°C),0.247,0.047,0.203,<0.001
+Surgery duration (min),0.004,0.001,0.284,<0.001
+pRBC transfusion (U),0.023,0.004,0.216,<0.001
+pH on ICU admission (mmol/L),−1.694,0.396,−0.161,<0.001

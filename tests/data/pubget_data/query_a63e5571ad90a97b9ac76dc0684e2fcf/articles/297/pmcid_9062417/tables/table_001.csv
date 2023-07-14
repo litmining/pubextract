@@ -1,0 +1,6 @@
+Odds Ratio,Odds Ratio,Odds Ratio,Odds Ratio,Odds Ratio
+Unnamed: 0_level_1,Significance of unadjusted OR,unadjusted OR,Significance of adjusted OR,adjusted OR
+PLT_N???,0.002**,0.228,0.002**,0.115
+CPB_N???,0.001***,2.739,0.001***,3.811
+DMH,0.031*,5.0,0.014*,8.947
+INR,0.001***,11.095,0.005**,8.462

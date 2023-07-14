@@ -1,0 +1,1006 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.3">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">EClinicalMedicine</journal-id>
+      <journal-id journal-id-type="iso-abbrev">EClinicalMedicine</journal-id>
+      <journal-title-group>
+        <journal-title>EClinicalMedicine</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2589-5370</issn>
+      <publisher>
+        <publisher-name>Elsevier</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">35518120</article-id>
+      <article-id pub-id-type="pmc">9062417</article-id>
+      <article-id pub-id-type="pii">S2589-5370(22)00146-8</article-id>
+      <article-id pub-id-type="doi">10.1016/j.eclinm.2022.101416</article-id>
+      <article-id pub-id-type="publisher-id">101416</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Preoperative and intraoperative risk factors of postoperative stroke in total aortic arch replacement and stent elephant trunk implantation</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" id="au0001">
+          <name>
+            <surname>Jia</surname>
+            <given-names>Hao</given-names>
+          </name>
+          <xref rid="fn2" ref-type="fn">#</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au0002">
+          <name>
+            <surname>Huang</surname>
+            <given-names>Ben</given-names>
+          </name>
+          <xref rid="fn2" ref-type="fn">#</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au0003">
+          <name>
+            <surname>Kang</surname>
+            <given-names>Le</given-names>
+          </name>
+          <xref rid="fn2" ref-type="fn">#</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au0004">
+          <name>
+            <surname>Lai</surname>
+            <given-names>Hao</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author" id="au0005">
+          <name>
+            <surname>Li</surname>
+            <given-names>Jun</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author" id="au0006">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Chunsheng</given-names>
+          </name>
+          <email>wang.chunsheng@zs-hospital.sh.cn</email>
+          <xref rid="cor0001" ref-type="corresp">⁎</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au0007">
+          <name>
+            <surname>Sun</surname>
+            <given-names>Yongxin</given-names>
+          </name>
+          <email>sun.yongxin@zs-hospital.sh.cn</email>
+          <xref rid="cor0001" ref-type="corresp">⁎</xref>
+        </contrib>
+        <aff id="aff0001">Department of Cardiac Surgery, Zhongshan Hospital, Fudan University, 1069 Xietu Road, Shanghai 200032, China</aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="cor0001"><label>⁎</label>Corresponding authors. <email>wang.chunsheng@zs-hospital.sh.cn</email><email>sun.yongxin@zs-hospital.sh.cn</email></corresp>
+        <fn id="fn2">
+          <label>#</label>
+          <p id="notep01001">First author.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="pmc-release">
+        <day>28</day>
+        <month>4</month>
+        <year>2022</year>
+      </pub-date>
+      <!-- PMC Release delay is 0 months and 0 days and was based on <pub-date
+						pub-type="epub">.-->
+      <pub-date pub-type="collection">
+        <month>5</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>4</month>
+        <year>2022</year>
+      </pub-date>
+      <volume>47</volume>
+      <elocation-id>101416</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>2</day>
+          <month>2</month>
+          <year>2022</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>5</day>
+          <month>4</month>
+          <year>2022</year>
+        </date>
+        <date date-type="accepted">
+          <day>7</day>
+          <month>4</month>
+          <year>2022</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2022 The Author(s)</copyright-statement>
+        <copyright-year>2022</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref>
+          <license-p>This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).</license-p>
+        </license>
+      </permissions>
+      <abstract id="abs0001">
+        <title>Summary</title>
+        <sec>
+          <title>Background</title>
+          <p>Acute type A aortic dissection (AAAD) is a disease with high mortality, for which total aortic arch replacement (TAAR) combined with stent elephant implantation (SETI) is a reliable surgical treatment; however, it is associated with a high incidence of postoperative stroke. This retrospective study aimed to find preoperative and postoperative risk factors for postoperative stroke in patients with TAAR combined with SETI, and to provide predictive models and single-factor threshold suggestions.</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p>From October 2019 to March 2021, 229 AAAD patients who underwent TAAR and SETI were selected. Patients were divided into stroke group (<italic>n</italic> = 23) and non-stroke group (<italic>n</italic> = 206), and preoperative/intraoperative factors were evaluated by independent-samples T-test/ Mann-Whitney U test/Chi-Square test and odds ratio (OR) analysis. The Logistic regression equation and decision tree were used to construct the prediction model of the probability of postoperative stroke. Bayesian-learning model and 2-order derivation were used to calculate the inflection points of the continuous variables.</p>
+        </sec>
+        <sec>
+          <title>Findings</title>
+          <p>Platelet count (PLT), International normalised ratio (INR) value, presence of diabetic history, and cardiopulmonary bypass (CPB) time were independent predictors of postoperative stroke (<italic>P</italic>-value &lt; 0.05), and the above four factors were used to construct the Logistic regression equation. As for the decision-tree model, a radical model with higher accuracy in stroke predicting was chosen. Three inflection points for the effect of continuous variables (PLT count = 60 × 10^9/L; INR value = 1.82; CPB time = 300 min) on postoperative stroke were found by 2-order derivation.</p>
+        </sec>
+        <sec>
+          <title>Interpretation</title>
+          <p>PLT count, INR value, presence of diabetic history, and CPB time were significant preoperative and intraoperative risk factors for postoperative stroke, and the identification and modeling of these factors can help us to take more active brain protection measures in high-risk patients.</p>
+        </sec>
+        <sec>
+          <title>Funding</title>
+          <p>YS was funded by the <funding-source id="gs0001"><institution-wrap><institution-id institution-id-type="doi">10.13039/501100001809</institution-id><institution>National Natural Science Foundation of China</institution></institution-wrap></funding-source> (Grant ID 81671942).</p>
+        </sec>
+      </abstract>
+      <kwd-group id="keys0001">
+        <title>Keywords</title>
+        <kwd>Acute type A aortic dissection</kwd>
+        <kwd>Postoperative stroke</kwd>
+        <kwd>Predictive model</kwd>
+      </kwd-group>
+      <kwd-group id="keys0002">
+        <title>Abbreviations</title>
+        <kwd>AAAD, acute type A aortic dissection</kwd>
+        <kwd>TAAR, Total aortic arch replacement</kwd>
+        <kwd>SETI, stent elephant trunk implantation</kwd>
+        <kwd>CT, computed tomography</kwd>
+        <kwd>CTA, Computed tomographic angiography</kwd>
+        <kwd>CTP, computed tomographic perfusion imaging</kwd>
+        <kwd>δrso2min, the lowest relative regional cerebral oxygen saturation to base‐line</kwd>
+        <kwd>DHCA, deep hypothermic circulatory arrest</kwd>
+        <kwd>CABG, coronary artery bypass grafting</kwd>
+        <kwd>PLT, platelet count</kwd>
+        <kwd>CPB, cardiopulmonary bypass</kwd>
+        <kwd>OR, odds ratio</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <p id="para9001">
+<boxed-text id="tbox0002"><caption><title>Research in context</title></caption><sec id="sec01001"><title>Evidence before this study</title><p id="para0007">Acute type A aortic dissection (AAAD) is a disease with high mortality, and total aortic arch replacement (TAAR) combined with stent elephant implantation (SETI) is a reliable surgical treatment; however, it is associated with a high incidence of postoperative stroke. We identified a review of postoperative stroke in patients with TAAR combined with SETI following a PubMed search between 1982 and 10/19/2021, by using a combination of search terms for acute type A aortic dissection, postoperative stroke, total aortic arch replacement, stent elephant implantation. The authors reported that patients with TAAR with SETI had a high incidence of postoperative stroke (10–12%). There are few systematic studies on postoperative stroke in patients with TAAR combined with SETI.</p></sec><sec id="sec20002"><title>Added value of this study</title><p id="para0009">Our study identified 4 independent predictors of postoperative stroke in patients with TAAR combined with SETI surgery for AAAD, including platelet count (PLT), international normalised ratio (INR) value, cardiopulmonary bypass (CPB) time, and the presence of diabetic history. To provide more quantitative data for clinical reference, we built prediction models and calculated the thresholds of the above predictors. These results were compared with other previous AAAD studies and cardiac surgery studies, which confirmed the reliability and clinical value of our results.</p></sec><sec id="sec03003"><title>Implications of all the available evidence</title><p id="para0011">The developed predictions model could help to quickly identify and make decisions about the risk of postoperative stroke during TAAR combined with SETI surgery for AAAD, thus providing patients with more active monitoring and brain protection measures.</p></sec><notes notes-type="alt-text" specific-use="for-accessibility" id="alte1"><p>Alt-text: Unlabelled box</p></notes></boxed-text>
+</p>
+    <sec id="sec0001">
+      <title>Introduction</title>
+      <p id="para0012">Acute type A aortic dissection (AAAD) is an emergency disease with high mortality (16–19% surgery mortality and 25% in-hospital mortality),<xref rid="bib0001" ref-type="bibr">1</xref>, <xref rid="bib0002" ref-type="bibr">2</xref>, <xref rid="bib0003" ref-type="bibr">3</xref> with the natural course of AAAD, its mortality will increase over time (1% per hour).<xref rid="bib0004" ref-type="bibr"><sup>4</sup></xref></p>
+      <p id="para0013">For patients with extensive dissection of ascending aorta, aortic arch, and descending aorta, there is a possibility of the false lumen residual after traditional artificial vascular replacement. It is estimated that in only 10% of patients with acute type A dissection of the aorta, their false lumen can be completely eliminated.<xref rid="bib0005" ref-type="bibr"><sup>5</sup></xref> Total aortic arch replacement (TAAR) combined with stent elephant trunk implantation (SETI) is a reliable surgical method to solve the problem of secondary surgery for residual false lumen.<xref rid="bib0006" ref-type="bibr"><sup>6</sup></xref></p>
+      <p id="para0014">The incidence of perioperative stroke in cardiac surgery is about 1% to 4%,<xref rid="bib0007" ref-type="bibr"><sup>7</sup></xref> but for AAAD, the incidence is 10% to 12% in patients who underwent TAAR and SETI.<xref rid="bib0008" ref-type="bibr"><sup>8</sup></xref><sup>,</sup><xref rid="bib0009" ref-type="bibr"><sup>9</sup></xref> There lacks systematic study on risk factors of postoperative stroke in TAAR and SETI, but from other surgical studies, we can analogise some preoperative and intraoperative factors, such as disorders of coagulation system,<xref rid="bib0010" ref-type="bibr"><sup>10</sup></xref> diabetic history,<xref rid="bib0011" ref-type="bibr"><sup>11</sup></xref> and intraoperative blood transfusion<xref rid="bib0012" ref-type="bibr"><sup>12</sup></xref> that may cause or aggravate brain injury.</p>
+      <p id="para0015">Our study aimed to identify risk factors of AAAD treated by TAAR and SETI and to establish an effective predictive model and risk threshold, which can help us to make more active brain-protection interventions for patients at risk of postoperative stroke.</p>
+    </sec>
+    <sec id="sec0002">
+      <title>Methods</title>
+      <sec id="sec0003">
+        <title>Ethical statement</title>
+        <p id="para0016">This study was approved by the Ethics Committee of Zhongshan Hospital, Fudan University, and was conducted after written, informed consent of patients. All retrospective data included in this study did not disclose the personal privacy information of patients. (Ethical approval number: B2021-237)</p>
+      </sec>
+      <sec id="sec0004">
+        <title>Study subjects</title>
+        <p id="para0017">From October 2019 to March 2021, 229 subjects were selected from AAAD patients who underwent TAAR and SETI surgery at the Cardiac Surgery Center of Zhongshan Hospital.</p>
+        <p id="para0018">The diagnostic criteria for AAAD were the presence of intimal flap and double-lumen sign from thoracic and abdominal computed tomographic angiography (CTA), and the range of the dissected aorta met the Stanford classification criteria for type A, moreover, the time-span between the patient's acute onset and hospital admission was less than 2 weeks. All patients with AAAD who met the surgical indications were treated with active and timely surgical intervention in our center, and the indication of TAAR and SETI was the extensive dissection of ascending aorta, aortic arch (all patients had arch dissection involvement, and their bilateral carotid arteries remained unobstructed and radiographically indicated no significant interruption of blood flow), and descending aorta. Postoperative stroke was defined as a sudden, vasogenic loss of local or total cerebral nerve function during or after surgery, including both ischemic and hemorrhagic strokes.</p>
+        <p id="para0019">The diagnostic criteria for stroke were that the patients appeared persistent unconscious state (more than 6 h) or other neurological symptoms/signs (eg, seizure, aphasia, hemiplegic, sensory dysfunction, memory impairment) after surgery, after excluding anesthesia factors, head computed tomography (CT) plain scan and head CT perfusion imaging (CTP) would be implemented to diagnose stroke. Diagnosed strokes were classified, with ischemic stroke defined as diffuse brain hypoxia or area-specific cerebral perfusion impairment, and hemorrhagic stroke as intracranial, subarachnoid, or subdural hemorrhage. Then CTA examination of the aortic arch and intracranial artery was performed to provide radiological information for decision-making of the next treatment.</p>
+        <p id="para0020">To reduce bias factors, we selected the following exclusion criteria in this study: pregnancy, cancer comorbidities, organic mental disorders, preoperative stroke, and history of psychotropic or hallucinogenic drug use. In this study, 23 patients occurred postoperative stroke, with an incidence of 10.04% (23/229), including 19 patients with ischemic stroke (8.29%(19/229)) and 4 patients with hemorrhagic stroke (1.74% (4/229)).</p>
+      </sec>
+      <sec id="sec0005">
+        <title>Operative technique and brain-protection technique</title>
+        <p id="para0021">All patients with AAAD who were treated by TAAR and SETI underwent midline sternotomy and routine cardiopulmonary bypass (CPB) with femoral artery, right axillary artery, and right atrial appendage cannulation. The surgical procedures were as follows: <bold>1.</bold> Resection of the dissected aorta (The resection extent of the three branches of the arch was aimed at "eliminating the artery involved in the dissection". Preoperative CTA was used to determine the involvement extent of the dissection of the three branches, and intraoperative esophageal ultrasound was used to determine whether the three branches' dissection extent was consistent with the preoperative CTA.); <bold>2.</bold> Stent elephant trunk (MicroPort Medical Company, Shanghai, China) was implanted into the descending aorta (The proximal end of the stent elephant trunk landed between the opening of the left common carotid artery and the opening of the left subclavian artery at the original anatomical position.), and deep hypothermic circulatory arrest (DHCA) technique was used in this step; <bold>3.</bold> Anastomosis of the left common carotid artery was used to provide left cerebral perfusion, followed by anastomosis of the left subclavian artery. <bold>4.</bold> Different options for proximal anastomosis were based on different cases of aortic root dissection, in our center, Bentall (13.5%, 31/229), David I (10.5%, 24/229), and sandwich<xref rid="bib0013" ref-type="bibr"><sup>13</sup></xref> (76.0%, 174/229) methods were used to complete the proximal anastomosis. Additional coronary artery bypass grafting (CABG) was performed in patients with severe coronary hypoperfusion (6.1%, 14/229); <bold>5.</bold> Due to the presence of the right axillary artery cannulation, the innominate artery was anastomosed at the later step of the operation after the recovery of circulation.</p>
+        <p id="para0022">When the circulatory arrest is in progress, the strategy of our center is to perform unilateral selective cerebral perfusion through the right axillary artery for brain protection (with perfusion rate 10 ml/kg/min, nasopharyngeal temperature 22.3 ± 0.08 °C), and when patients had cerebral hypoxia, additional cannulation to the left common carotid artery was used to improve the perfusion. In terms of monitoring, transcutaneous cerebral oximetry monitoring and transesophageal echocardiography were used in all cases. When the lowest relative regional cerebral oxygen saturation to base‐line (ΔrSO2min) is lower than 80%, additional brain protection measures are taken, including intraoperative increased cerebral perfusion pressure, infusion of 50% hematocrit blood products, and lower brain temperature (monitored by nasopharyngeal temperature).<xref rid="bib0014" ref-type="bibr"><sup>14</sup></xref></p>
+      </sec>
+      <sec id="sec0006">
+        <title>Study parameters and statistical analysis method</title>
+        <sec id="sec0007">
+          <title>Preoperative and intraoperative conditions</title>
+          <p id="para0023">According to the occurrence of postoperative stroke, we divided patients into stroke group (<italic>n</italic> = 23) and non-stroke group (<italic>n</italic> = 206), in addition, considering variable types and their ensemble distribution, we used independent-samples T-test, Mann-Whitney U test, and Chi-Square test to statistically analyze the preoperative and intraoperative conditions of patients in this study (Normality and equality of variance of preoperative and intraoperative conditions were shown in Table S1). P values less than 0.05 were considered statistically significant. This statistical analysis part was performed by SPSS software (Version 23.0, IBM Corp., Armonk, NY, USA).</p>
+        </sec>
+        <sec id="sec0008">
+          <title>Independent predictors and logistic regression equation</title>
+          <p id="para0024">Odds ratio (OR) analysis was performed for these preoperative and intraoperative factors, in which a factor was defined as an independent predictor of postoperative stroke when the significance of either univariate-unadjusted OR analysis or multivariate-adjusted OR analysis was less than 0.05 (Odds ratios of preoperative and intraoperative factors were shown in Table S2). Among them, we adjusted the data span of PLT and CPB time (PLT_N= Platelet count/100; CPB_N= Cardiopulmonary bypass time/60), because these two factors would not have a significant impact on postoperative stroke under a span of 1 unit quantity, and this adjustment would not affect the statistical significance of OR analysis. These independent predictors were then used to construct a Logistic regression model (Enter method) for postoperative stroke. This statistical analysis part was performed by SPSS software (Version 23.0, IBM Corp., Armonk, NY, USA).</p>
+        </sec>
+        <sec id="sec0009">
+          <title>Decision-tree model</title>
+          <p id="para0025">MATLAB software was used to conduct decision-tree modeling for 229 patients in the study. The modeling principle was to randomly select 120 samples for the training of prediction-model construction and used the remaining 109 samples for validating to optimize the decision-tree model. The 50/50 split for training and testing was different from normal (70/30), which was aimed to show that this method applied to relatively small-sample learning problems, and it will achieve better performance when more training cases are provided, and as for the prediction efficiency of 50/50 split and 70/30 split testing, we constructed and validated the predictive efficiency of the two methods, with each method repeated 100 times, and there was no statistical difference in the prediction efficiency between the two construction methods (Figure S1). In the building of the model, we designed conservative prediction models and radical prediction models, and the programming language of construction was shown in Supplementary material - Method S1.</p>
+          <p id="para0026">There was no difference between conservative models and radical models before the generation of the decision tree, but the evaluation criterion of the conservative model for the decision-tree was that the model with a low false-positive rate was evaluated as a high-quality model, and the evaluation criterion of the radical model was a low false-negative rate in the stroke group.</p>
+          <p id="para0027">Moreover, we conducted 100 times random sampling repetitions for the 120-samples-training-sets and 109-samples-validation-sets and the random generation of decision-trees. The above steps were to obtain the ensemble distribution of prediction efficiency, which was used to prove that there were no dramatic efficiency fluctuations due to the randomness of the training-set generation and the decision-tree generation.</p>
+          <p id="para0028">This statistical analysis part was performed by MATLAB software (Version R2020b, Mathworks Corp., Natick, MA, USA).</p>
+        </sec>
+        <sec id="sec0010">
+          <title>Bayesian-learning model and threshold inflection point</title>
+          <p id="para0029">We used the Bayesian Learning model and Gaussian distribution to calculate the relationship between continuous variables (PLT, INR, and CPB time) and the probability of postoperative stroke. The derivation process was detailly described in Supplementary material - Method S2.1.</p>
+          <p id="para0030">In addition, we obtained the inflection point of the continuous variables by using the 2-order derivative method. The 2-order derivative method was detailly described in Supplementary material - Method S2.2. Moreover, we used Youden's statistical method (SPSS) to verify the threshold results, and the results were shown in Table S3.</p>
+          <p id="para0031">This statistical analysis part was performed by MATLAB software (Version R2020b, Mathworks Corp., Natick, MA, USA).</p>
+        </sec>
+        <sec id="sec0011">
+          <title>Prognosis after postoperative stroke</title>
+          <p id="para0032">Patients were grouped in the same way as in 2.4.1., after that, mechanical ventilation duration, ICU duration, and in-hospital duration were analysed by Mann-Whitney U test, meanwhile, in-hospital mortality was analysed by Fisher's exact test (Normality of postoperative conditions were shown in Table S4). <italic>P</italic> values less than 0.05 were considered statistically significant. This statistical analysis part was performed by SPSS software (Version 23.0, IBM Corp., Armonk, NY, USA).</p>
+        </sec>
+      </sec>
+      <sec id="sec0012">
+        <title>Role of the funding source</title>
+        <p id="para0033">The funder of this study had no role in study design, data collection, data analysis, data interpretation, decision to publish, or writing of the manuscript. All authors had full access to the data of this study and agreed with the decision to submit for publication.</p>
+      </sec>
+    </sec>
+    <sec id="sec0013">
+      <title>Results</title>
+      <sec id="sec0014">
+        <title>Differences in preoperative and intraoperative conditions between the stroke and non-stroke groups</title>
+        <p id="para0034">As shown in <xref rid="tbl0001" ref-type="table">Table 1</xref>, the analysis results of the stroke group and the non-stroke group indicated that there were statistical differences between the two groups in platelet count (PLT), serum albumin level, serum creatinine level, alanine aminotransferase (ALT) level, aspartate aminotransferase (AST) level, INR value, presence of diabetic history and length of CPB time.<table-wrap position="float" id="tbl0001"><label>Table 1</label><caption><p>Characteristics of preoperative and intraoperative conditions.</p></caption><alt-text id="alt0003">Table 1</alt-text><table frame="hsides" rules="groups"><thead><tr><th valign="top">Patients’ characteristics</th><th valign="top">Total Stroke (<italic>n</italic> = 23)<xref rid="tb1fn1" ref-type="table-fn">a</xref></th><th valign="top">No Stroke (<italic>n</italic> = 206)<xref rid="tb1fn1" ref-type="table-fn">a</xref></th><th valign="top"><italic>P</italic>-Value<xref rid="tb1fn2" ref-type="table-fn">b</xref></th></tr></thead><tbody><tr><td colspan="4" align="left" valign="top">Preoperative Condition</td></tr><tr><td valign="top">Age (year)</td><td valign="top">61 (49–67)</td><td valign="top">52.75 ± 0.84</td><td valign="top">0.052</td></tr><tr><td valign="top">Gender (male/%)</td><td valign="top">87 (20/23)</td><td valign="top">76.2 (157/206)</td><td valign="top">0.243</td></tr><tr><td valign="top">Hemoglobin concentration (g/L)</td><td valign="top">123.22 ± 3.96</td><td valign="top">130.37 ± 1.17</td><td valign="top">0.057</td></tr><tr><td valign="top">Platelet count (10^9/L)</td><td valign="top">132.83 ± 9.82</td><td valign="top">172 (135–220)</td><td valign="top">0.001***</td></tr><tr><td valign="top">Total bilirubin (μmol/L)</td><td valign="top">15.5(11.6–24.9)</td><td valign="top">15.9(11.8–22.2)</td><td valign="top">0.526</td></tr><tr><td valign="top">Albumin (g/L)</td><td valign="top">36.48 ± 1.05</td><td valign="top">39 (37–43)</td><td valign="top">0.007**</td></tr><tr><td valign="top">Alanine aminotransferase (U/L)</td><td valign="top">38 (27–67)</td><td valign="top">26 (16–42)</td><td valign="top">0.006**</td></tr><tr><td valign="top">Aspartate aminotransferase (U/L)</td><td valign="top">37 (26–57)</td><td valign="top">24 (18–37)</td><td valign="top">0.002**</td></tr><tr><td valign="top">eGFR (ml/min/1.73m^2)</td><td valign="top">61.00 ± 10.72</td><td valign="top">81 (64–98)</td><td valign="top">0.092</td></tr><tr><td valign="top">Serum creatinine (μmol/L)</td><td valign="top">108 (78–157)</td><td valign="top">80 (65–101)</td><td valign="top">0.002**</td></tr><tr><td valign="top">INR-international normalised ratio</td><td valign="top">1.21(1.10–1.86)</td><td valign="top">1.10(1.05–1.17)</td><td valign="top">0.002**</td></tr><tr><td valign="top">Diabetic history (n/%)</td><td valign="top">13 (3/23)</td><td valign="top">2.9 (6/206)</td><td valign="top">0.050*</td></tr><tr><td valign="top">Stroke history (n/%)</td><td valign="top">0 (0/23)</td><td valign="top">2.4 (5/206)</td><td valign="top">1.000</td></tr><tr><td valign="top">Cardiac surgery history (n/%)</td><td valign="top">4.3 (1/23)</td><td valign="top">4.4 (9/206)</td><td valign="top">1.000</td></tr><tr><td valign="top">Left Ventricular Ejection Fraction (%)</td><td valign="top">62.74 ± 0.81</td><td valign="top">64 (62–67)</td><td valign="top">0.275</td></tr><tr><td colspan="4" valign="top">Intraoperative Condition</td></tr><tr><td valign="top">Cardiopulmonary bypass time (min)</td><td valign="top">222 (201–308)</td><td valign="top">172 (151–194)</td><td valign="top">0.001***</td></tr><tr><td valign="top">Aortic cross-clamp time (min)</td><td valign="top">114.24 ± 8.88</td><td valign="top">102 (81–122)</td><td valign="top">0.248</td></tr><tr><td valign="top">Deep Hypothermic Circulatory Arrest (min)</td><td valign="top">19 (16–23)</td><td valign="top">19 (17–22)</td><td valign="top">0.704</td></tr><tr><td valign="top">Unilateral cerebral perfusion time (min)</td><td valign="top">27.48 ± 1.66</td><td valign="top">27 (20–32)</td><td valign="top">0.752</td></tr><tr><td valign="top">Minimum nasopharyngeal temperature (°C)</td><td valign="top">22.54 ± 0.20</td><td valign="top">22.2 (21.8–23.0)</td><td valign="top">0.533</td></tr><tr><td valign="top">50% Hematocrit blood products using (U)</td><td valign="top">6 (4–8)</td><td valign="top">4 (2–8)</td><td valign="top">0.097</td></tr><tr><td valign="top">Plasma infusion (ml)</td><td valign="top">800 (600–1000)</td><td valign="top">600 (400–1000)</td><td valign="top">0.072</td></tr></tbody></table><table-wrap-foot><fn id="tb1fn1"><label>a</label><p id="notep0001">Depending on the normality, characteristics of preoperative and intraoperative conditions for the total stroke and non-stroke groups were presented by <bold>Mean ± SE</bold> or <bold>Median (IQR)</bold>.</p></fn></table-wrap-foot><table-wrap-foot><fn id="tb1fn2"><label>b</label><p id="notep0002">In the significance analysis of the statistical differences between the two groups, * means P value less than 0.05 but greater than 0.01, ** means P value less than 0.01 but greater than 0.001, and *** means P value less than 0.001. (Gender factor was analysed by Pearson Chi-Square. Diabetic history and stroke history were analysed by Fisher's exact test. Cardiac surgery history was analysed by continuity correction. Other factors were analysed by independent-samples T-test and Mann-Whitney U test.).</p></fn></table-wrap-foot></table-wrap></p>
+      </sec>
+      <sec id="sec0015">
+        <title>Independent predictors of postoperative stroke</title>
+        <p id="para0035">PLT, CPB time, the presence of diabetic history, and INR value were all statistically significant in unadjusted OR analysis and adjusted OR analysis, and the significance test results and OR values were shown in <xref rid="tbl0002" ref-type="table">Table 2</xref>. Based on the above results, these four factors were independent predictors of postoperative stroke. After adjusting the span of PLT and CPB, we constructed the following Logistic regression equation.<disp-formula id="ueqn0001"><mml:math id="M1" altimg="si1.svg"><mml:mrow><mml:mi>y</mml:mi><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mn>2.159</mml:mn><mml:mo>*</mml:mo><mml:mi>P</mml:mi><mml:mi>L</mml:mi><mml:mi>T</mml:mi><mml:mo>_</mml:mo><mml:mi>N</mml:mi><mml:mo>−</mml:mo><mml:mn>2.136</mml:mn><mml:mo>*</mml:mo><mml:mi>I</mml:mi><mml:mi>N</mml:mi><mml:mi>R</mml:mi><mml:mo>−</mml:mo><mml:mn>2.191</mml:mn><mml:mo>*</mml:mo><mml:mi>D</mml:mi><mml:mi>M</mml:mi><mml:mo>−</mml:mo><mml:mn>1.338</mml:mn><mml:mo>*</mml:mo><mml:mi>C</mml:mi><mml:mi>P</mml:mi><mml:mi>B</mml:mi><mml:mo>_</mml:mo><mml:mi>N</mml:mi><mml:mo>+</mml:mo><mml:mn>6.320</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:mfrac></mml:mrow></mml:math></disp-formula><table-wrap position="float" id="tbl0002"><label>Table 2</label><caption><p>The odds ratio of independent predictors.</p></caption><alt-text id="alt0004">Table 2</alt-text><table frame="hsides" rules="groups"><thead><tr><th colspan="5" align="center" valign="top">Odds Ratio<hr/></th></tr><tr><th valign="top"/><th valign="top">Significance of unadjusted OR</th><th valign="top">unadjusted OR</th><th valign="top">Significance of adjusted OR</th><th valign="top">adjusted OR</th></tr></thead><tbody><tr><td valign="top">PLT_N<xref rid="tb2fn1" ref-type="table-fn">a</xref></td><td valign="top">0.002**</td><td valign="top">0.228</td><td valign="top">0.002**</td><td valign="top">0.115</td></tr><tr><td valign="top">CPB_N<xref rid="tb2fn1" ref-type="table-fn">a</xref></td><td valign="top">0.001***</td><td valign="top">2.739</td><td valign="top">0.001***</td><td valign="top">3.811</td></tr><tr><td valign="top">DMH</td><td valign="top">0.031*</td><td valign="top">5.000</td><td valign="top">0.014*</td><td valign="top">8.947</td></tr><tr><td valign="top">INR</td><td valign="top">0.001***</td><td valign="top">11.095</td><td valign="top">0.005**</td><td valign="top">8.462</td></tr></tbody></table><table-wrap-foot><fn id="tb2fn1"><label>a</label><p id="notep0003">PLT_<italic>N</italic>= Platelet count/100; CPB_N= Cardiopulmonary bypass time/60. The reason for this adjustment was that the PLT and CPB parameters did not have a significant effect on stroke over the short span (like 1 count for PLT or 1 min for CPB).</p><p id="notep0004">PLT - Platelet count; CPB - Cardiopulmonary bypass time; DMH - diabetic history; INR - international normalised ratio.</p></fn></table-wrap-foot></table-wrap></p>
+        <p id="para0036">In this Logistic regression model, y represents the probability of postoperative stroke for the determined value of PLT, CPB, INR, and the presence of diabetic history (0 or 1). The tests of the partial regression coefficients suggested that no factors in this equation should be removed.</p>
+      </sec>
+      <sec id="sec0016">
+        <title>The radical postoperative-stroke predictive model</title>
+        <p id="para0037">Firstly, we analysed the prediction efficiency of conservative models and radical prediction models in the validation set. As in <xref rid="fig0001" ref-type="fig">Figure 1</xref>A, in terms of ensemble prediction accuracy, conservative models (93.88 ± 0.26%) were higher than radical models (90.88 ± 0.37%), with a P value less than 0.001, which was statistically significant. However, for stroke-patients prediction accuracy, as shown in <xref rid="fig0001" ref-type="fig">Figure 1</xref>B, radical models (93.90 ± 0.30%) were higher than conservative models (92.85 ± 0.39%), with a <italic>P</italic> value less than 0.001. Since postoperative stroke was a life-threatening cerebrovascular event, we tended to choose a radical model with higher accuracy in stroke prediction.<fig id="fig0001"><label>Figure 1</label><caption><p><bold>Conservative and radical prediction models of total stroke</bold>.</p><p><bold>(A)</bold> As for total-patients prediction accuracy, conservative models (93.88 ± 0.26%) were higher than radical models (90.88 ± 0.37%), with a P value less than 0.001; <bold>(B)</bold> As for stroke-patients prediction accuracy, radical models (93.90 ± 0.30%) were higher than conservative models (92.85 ± 0.39%), with a P value less than 0.001; <bold>(C)</bold> In this model, 0 suggested that postoperative stroke would not occur while 1 suggested that postoperative stroke would occur.</p></caption><alt-text id="alt0001">Fig 1</alt-text><graphic xlink:href="gr1"/></fig></p>
+        <p id="para0038"><xref rid="fig0001" ref-type="fig">Figure 1</xref>C was representative of a radical model in which the false-positive rate was 3/99 and the false-negative rate was 1/10.</p>
+      </sec>
+      <sec id="sec0017">
+        <title>The threshold inflection point of postoperative stroke</title>
+        <p id="para0039">For PLT, the probability of stroke was <inline-formula><mml:math id="M2" altimg="si2.svg"><mml:mrow><mml:mi>y</mml:mi><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfrac><mml:mrow><mml:mo form="prefix">exp</mml:mo><mml:mo>(</mml:mo><mml:mo>−</mml:mo><mml:mn>6.3359</mml:mn><mml:mo>×</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mn>5</mml:mn></mml:mrow></mml:msup><mml:msup><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>+</mml:mo><mml:mn>0.0073</mml:mn><mml:mi>x</mml:mi><mml:mo>+</mml:mo><mml:mn>0.3987</mml:mn><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mn>6.9534</mml:mn><mml:mo>+</mml:mo><mml:mo form="prefix">exp</mml:mo><mml:mo>(</mml:mo><mml:mo>−</mml:mo><mml:mn>6.3359</mml:mn><mml:mo>×</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mn>5</mml:mn></mml:mrow></mml:msup><mml:msup><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>+</mml:mo><mml:mn>0.0073</mml:mn><mml:mi>x</mml:mi><mml:mo>+</mml:mo><mml:mn>0.3987</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:mfrac></mml:mrow></mml:math></inline-formula>; for INR, the probability of stroke was <inline-formula><mml:math id="M3" altimg="si3.svg"><mml:mrow><mml:mi>y</mml:mi><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfrac><mml:mrow><mml:mo form="prefix">exp</mml:mo><mml:mo>(</mml:mo><mml:mn>8</mml:mn><mml:mrow><mml:mo>.</mml:mo><mml:mn>2852</mml:mn></mml:mrow><mml:msup><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>−</mml:mo><mml:mn>17</mml:mn><mml:mrow><mml:mo>.</mml:mo><mml:mn>9942</mml:mn></mml:mrow><mml:mi>x</mml:mi><mml:mo>+</mml:mo><mml:mn>9.5946</mml:mn><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mn>21</mml:mn><mml:mrow><mml:mo>.</mml:mo><mml:mn>4547</mml:mn></mml:mrow><mml:mo>+</mml:mo><mml:mo form="prefix">exp</mml:mo><mml:mo>(</mml:mo><mml:mn>8</mml:mn><mml:mrow><mml:mo>.</mml:mo><mml:mn>2852</mml:mn></mml:mrow><mml:msup><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>−</mml:mo><mml:mn>17</mml:mn><mml:mrow><mml:mo>.</mml:mo><mml:mn>9942</mml:mn></mml:mrow><mml:mi>x</mml:mi><mml:mo>+</mml:mo><mml:mn>9.5946</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:mfrac></mml:mrow></mml:math></inline-formula>; for CPB time, the probability of stroke was <inline-formula><mml:math id="M4" altimg="si4.svg"><mml:mrow><mml:mi>y</mml:mi><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfrac><mml:mrow><mml:mo form="prefix">exp</mml:mo><mml:mo>(</mml:mo><mml:mn>1.7691</mml:mn><mml:mo>×</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mn>4</mml:mn></mml:mrow></mml:msup><mml:msup><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>−</mml:mo><mml:mn>0.0556</mml:mn><mml:mi>x</mml:mi><mml:mo>+</mml:mo><mml:mn>4.0333</mml:mn><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mn>19.9755</mml:mn><mml:mo>+</mml:mo><mml:mo form="prefix">exp</mml:mo><mml:mo>(</mml:mo><mml:mn>1.7691</mml:mn><mml:mo>×</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mn>4</mml:mn></mml:mrow></mml:msup><mml:msup><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>−</mml:mo><mml:mn>0.0556</mml:mn><mml:mi>x</mml:mi><mml:mo>+</mml:mo><mml:mn>4.0333</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:mfrac></mml:mrow></mml:math></inline-formula>. The distribution images of the above functions were shown in <xref rid="fig0002" ref-type="fig">Figure 2</xref>A, C, and E.<fig id="fig0002"><label>Figure 2</label><caption><p><bold>The threshold inflection point of postoperative stroke</bold>.</p><p><bold>(A)</bold> Functional relationship between Platelet count and probability of postoperative stroke; <bold>(B)</bold> 2-order derivative of the function in A; <bold>(C)</bold> Functional relationship between INR and probability of postoperative stroke; <bold>(D)</bold> 2-order derivative of the function in C; <bold>(E)</bold> Functional relationship between cardiopulmonary bypass time and probability of postoperative stroke; <bold>(F)</bold> 2-order derivative of the function in E.</p></caption><alt-text id="alt0002">Fig 2</alt-text><graphic xlink:href="gr2"/></fig></p>
+        <p id="para0040">By using 2-order derivative, as shown in <xref rid="fig0002" ref-type="fig">Figure 2</xref>B, D, and F, the inflection point of PLT value was 60, that is to say, when PLT was less than 60, as a protective factor, the probability of postoperative stroke was relatively high, and when PLT was greater than 60, the probability of stroke decreased rapidly. For relative risk factors, when INR was less than 1.82 or CPB time was less than 300, the risk of stroke was lower, and when INR was greater than 1.82 or CPB time was greater than 300, the incidence of stroke increased rapidly.</p>
+      </sec>
+      <sec id="sec0018">
+        <title>Differences in postoperative prognosis between the stroke and non-stroke groups</title>
+        <p id="para0041">As shown in <xref rid="tbl0003" ref-type="table">Table 3</xref>, the analysis results of the stroke group and the non-stroke group indicated that there were statistical differences between the two groups in mechanical ventilation duration, ICU duration, and in-hospital duration. Although there was no statistically significant difference in-hospital mortality between the two groups, the high in-hospital mortality in the stroke group deserved our attention. These results suggested that patients with postoperative stroke had a relatively poor prognosis.<table-wrap position="float" id="tbl0003"><label>Table 3</label><caption><p>Characteristics of postoperative conditions.</p></caption><alt-text id="alt0005">Table 3</alt-text><table frame="hsides" rules="groups"><thead><tr><th valign="top"/><th valign="top">Total Stroke (<italic>n</italic> = 23)<xref rid="tb3fn1" ref-type="table-fn">a</xref></th><th valign="top">No Stroke (<italic>n</italic> = 206)<xref rid="tb3fn1" ref-type="table-fn">a</xref></th><th valign="top"><italic>P</italic> Value<xref rid="tb3fn2" ref-type="table-fn">b</xref></th></tr></thead><tbody><tr><td colspan="4" align="left" valign="top">Postoperative Condition</td></tr><tr><td valign="top">Mechanical ventilation duration (days)</td><td valign="top">10 (5–26)</td><td valign="top">2 (2–3)</td><td valign="top">0.001***</td></tr><tr><td valign="top">ICU duration (days)</td><td valign="top">13 (7–31)</td><td valign="top">4 (3–6)</td><td valign="top">0.002**</td></tr><tr><td valign="top">In-hospital duration (days)</td><td valign="top">17 (8–39)</td><td valign="top">12 (10–16)</td><td valign="top">0.033*</td></tr><tr><td valign="top">In-hospital Mortality (%)</td><td valign="top">7.69% (2/23)</td><td valign="top">1.94% (4/206)</td><td valign="top">0.113</td></tr></tbody></table><table-wrap-foot><fn id="tb3fn1"><label>a</label><p id="notep0005">Characteristics of postoperative conditions for the postoperative stroke and non-stroke groups were presented by <bold>Mean ± SE</bold> or <bold>Median (IQR)</bold>.</p></fn></table-wrap-foot><table-wrap-foot><fn id="tb3fn2"><label>b</label><p id="notep0006">In the significance analysis of the statistical differences between the two groups, * means P value less than 0.05 but greater than 0.01, ** means P value less than 0.01 but greater than 0.001, and *** means P value less than 0.001.</p></fn></table-wrap-foot></table-wrap></p>
+      </sec>
+    </sec>
+    <sec id="sec0019">
+      <title>Discussion</title>
+      <p id="para0042">AAAD is a life-threatening cardiovascular emergency, and surgical treatment of dissected aorta has always been a top priority; however, the mortality and incidence of adverse circulatory events in emergency surgery in AAAD are relatively high, and how to improve the existing treatment strategy is an urgent issue. TAAR combined with SETI is an effective surgery mode for extensive AAAD, and it is a solution to the problem of secondary surgery for residual false lumen.</p>
+      <p id="para0043">Although TAAR combined with SETI has obvious advantages, current studies find that compared with other surgical procedures, the incidence of postoperative stroke of TAAR combined with SETI is relatively high. A large number of studies have shown that the occurrence of postoperative stroke has a significant adverse impact on the short-term and long-term prognosis of patients, including the length of in-hospital duration, survival time, and life quality after discharge.<xref rid="bib0015" ref-type="bibr"><sup>15</sup></xref><sup>,</sup><xref rid="bib0016" ref-type="bibr"><sup>16</sup></xref> To avoid postoperative stroke, the diagnostic tests and treatment measures mainly include cerebral CTA, cerebral computed tomographic perfusion imaging (CTP), deep hypothermia, transcutaneous cerebral oximetry monitoring, unilateral or bilateral selective cerebral perfusion, etc., but considering the consumption of time and medical burden, not all the measures can be applied. If patients at high risk of postoperative stroke can be effectively identified, we can take a more active brain protection strategy to make patients benefit from it.</p>
+      <p id="para0044">The objective of this study is to find the risk factors leading to postoperative stroke by analyzing the preoperative and intraoperative factors and to establish a mathematical model of postoperative stroke. In our study, PLT count (<italic>P</italic>-value = 0.002), INR value (<italic>P</italic>-value = 0.005), the presence of diabetic history (<italic>P</italic>-value = 0.014), and the length of CPB time (<italic>P</italic>-value &lt; 0.001) were the four key independent predictors.</p>
+      <p id="para0045">The relationship between PLT and stroke has been verified in previous basic and clinical studies,<xref rid="bib0017" ref-type="bibr"><sup>17</sup></xref><sup>,</sup><xref rid="bib0018" ref-type="bibr"><sup>18</sup></xref> and in our study, we found that PLT was a protective factor for postoperative stroke. However, because of the formation of false lumen and exposure of the aortic middle layer, PLT will be consumed,<xref rid="bib0019" ref-type="bibr"><sup>19</sup></xref> in addition, due to the activation of inflammation in the circulatory system after aortic dissection,<xref rid="bib0020" ref-type="bibr"><sup>20</sup></xref> the vascular integrity is damaged, which increases the consumption of PLT. Similarly, INR value, another indicator of the coagulation system, is closely related to stroke in previous studies.<xref rid="bib0021" ref-type="bibr"><sup>21</sup></xref> The outliers of INR value and PLT count suggest that the occurrence of postoperative stroke can be reasonably explained by the disorder of the coagulation system. Based on the above description, we believed that preoperative platelet transfusion could be beneficial to patients with preoperative PLT count below a threshold (60 × 10<sup>^</sup>9/L).</p>
+      <p id="para0046">Moreover, we found that if there was a previous diabetic history, there could be a higher risk of postoperative stroke. The circulatory system of diabetic patients is in a pathological state, and the comorbidities of diabetes are involved in the occurrence and development of a variety of vascular diseases, including stroke.<xref rid="bib0022" ref-type="bibr"><sup>22</sup></xref> In AAAD, patients are in a state of acute hemodynamic disorder, and the fragile-diabetic vascular system is more vulnerable. In our center, the blood glucose control of patients with diabetic history was determined by glycosylated hemoglobin (HbAlc) level, and almost all patients were able to meet glycemic control criteria with the HbAIc level of 4% to 7%, except for 1 patient in the stroke group who had the HbAIc level of 8.4%. The above description supported that comorbidities of diabetes were predictors of postoperative stroke<bold>.</bold></p>
+      <p id="para0047">As for CPB time, the study of Yi Shi et al. suggested that the length of CPB time (&gt;200 min) was a risk factor for stroke,<xref rid="bib0023" ref-type="bibr"><sup>23</sup></xref> and the clinical study of Antonio Salsano et al. also showed that CPB time was positively correlated with postoperative stroke.<xref rid="bib0024" ref-type="bibr"><sup>24</sup></xref> These studies, as well as the results of our statistical analysis, suggest a potential relationship between CPB time and postoperative stroke.</p>
+      <p id="para0048">In the statistical model of this study, we provided a Logistic regression model and decision-tree model, and we hoped these models could be used as a reference for other cardiac surgeons to make treatment decisions. In addition, we calculated the functional relationship between single factors (continuous variables) and postoperative stroke, providing three inflection points: PLT count = 60×10^9/L, INR value = 1.82, and CPB time = 300 min, and these more concise results could help facilitate rapid decision making.</p>
+      <p id="para0049">For patients at risk of postoperative stroke, we hope to use more active brain-protective measures, including intraoperative cerebral oximetry monitoring, increased cerebral perfusion pressure, infusion of 50% hematocrit blood products, maintenance of brain hypothermia, bilateral cerebral perfusion, and postoperative pharmacological interventions (e.g. glucocorticoids, barbiturates, etc.).</p>
+      <p id="para0050">In terms of limitations, this study is a single-center retrospective study, which may lead to bias due to the lack of random design. Compared with other relevant clinical consensus and research results, it can be found that our study has clinical value for a wider population. However, the prediction models in this study need to be optimised by multi-center and larger sample size studies. In addition, some other clinical characteristics of the patients involved in this study were described as follow: <bold>(1).</bold> As for ethnicity, multiracial comparisons were not involved in this study, and all the patients undergoing this type of surgery at our center were of yellow race. <bold>(2).</bold> As for BMI, due to the life risk of AAAD patients, patients were strictly confined to bed, and their weight could not be directly tested before surgery. Preoperative weight data were dictated by patients or their relatives, and these non-objective data were not included in the study. <bold>(3).</bold> As for comorbidities, we collected comorbidities information including diabetic history, stroke history, cardiac surgery history, and our exclusion criteria included pregnancy, cancer comorbidities, organic mental disorders, preoperative stroke, and history of psychotropic or hallucinogenic drug use.</p>
+      <p id="para0051">In conclusion, several preoperative factors, including PLT count, INR value, and the presence of diabetic history, as well as an intraoperative factor, CPB time, were independent predictors of postoperative stroke in TAAR combined with SETI surgery for AAAD. We construct a Logistic regression model and a radical decision-tree prediction model for these four factors. There were three inflection points for the effect of the three continuous variables on postoperative stroke: PLT count = 60 × 10^9/L, INR value = 1.82, and CPB time = 300 min.</p>
+    </sec>
+    <sec id="sec0021">
+      <title>Contributors</title>
+      <p id="para0053">HJ was responsible for data curation, formal analysis, investigation, methodology, validation, visualization, and writing - original draft. BH was responsible for data curation, investigation, and resources. LK was responsible for formal analysis, validation, and resources. HL and JL were responsible for resources. CW was responsible for conceptualisation, project administration, and supervision. YS was responsible for conceptualisation, funding acquisition, project administration, resources, supervision, and writing - review &amp; editing.</p>
+    </sec>
+    <sec id="sec0022">
+      <title>Data sharing statement</title>
+      <p id="para0054">Study data are available on request to the major corresponding author (YS).</p>
+    </sec>
+    <sec sec-type="COI-statement">
+      <title>Declaration of interests</title>
+      <p id="para0057">None declared.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list id="cebibl1">
+      <title>References</title>
+      <ref id="bib0001">
+        <label>1</label>
+        <element-citation publication-type="journal" id="sbref0001">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pape</surname>
+              <given-names>L.A.</given-names>
+            </name>
+            <name>
+              <surname>Awais</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Woznicki</surname>
+              <given-names>E.M.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Presentation, diagnosis, and outcomes of acute aortic dissection: 17-year trends from the international registry of acute aortic dissection</article-title>
+          <source>J Am Coll Cardiol</source>
+          <volume>66</volume>
+          <issue>4</issue>
+          <year>2015</year>
+          <fpage>350</fpage>
+          <lpage>358</lpage>
+          <pub-id pub-id-type="pmid">26205591</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0002">
+        <label>2</label>
+        <element-citation publication-type="journal" id="sbref0002">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Conzelmann</surname>
+              <given-names>L.O.</given-names>
+            </name>
+            <name>
+              <surname>Weigang</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Mehlhorn</surname>
+              <given-names>U.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Mortality in patients with acute aortic dissection type A: analysis of pre- and intraoperative risk factors from the German Registry for Acute Aortic Dissection Type A (GERAADA)</article-title>
+          <source>Eur J Cardiothorac Surg</source>
+          <volume>49</volume>
+          <issue>2</issue>
+          <year>2016</year>
+          <fpage>e44</fpage>
+          <lpage>e52</lpage>
+          <pub-id pub-id-type="pmid">26510701</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0003">
+        <label>3</label>
+        <element-citation publication-type="journal" id="sbref0003">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Inoue</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Matsuda</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Uchida</surname>
+              <given-names>K.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Analysis of Acute Type A Aortic Dissection in Japan Registry of Aortic Dissection (JRAD)</article-title>
+          <source>Ann Thorac Surg</source>
+          <volume>110</volume>
+          <issue>3</issue>
+          <year>2020</year>
+          <fpage>790</fpage>
+          <lpage>798</lpage>
+          <pub-id pub-id-type="pmid">32035913</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0004">
+        <label>4</label>
+        <element-citation publication-type="journal" id="sbref0004">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jassar</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Sundt</surname>
+              <given-names>T.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>How should we manage type A aortic dissection?</article-title>
+          <source>Gen Thorac Cardiovasc Surg</source>
+          <volume>67</volume>
+          <issue>1</issue>
+          <year>2019</year>
+          <fpage>137</fpage>
+          <lpage>145</lpage>
+          <pub-id pub-id-type="pmid">29926291</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0005">
+        <label>5</label>
+        <element-citation publication-type="journal" id="sbref0005">
+          <person-group person-group-type="author">
+            <name>
+              <surname>DeBakey</surname>
+              <given-names>M.E.</given-names>
+            </name>
+            <name>
+              <surname>McCollum</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Crawford</surname>
+              <given-names>E.S.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Dissection and dissecting aneurysms of the aorta: twenty-year follow-up of five hundred twenty-seven patients treated surgically</article-title>
+          <source>Surgery</source>
+          <volume>92</volume>
+          <issue>6</issue>
+          <year>1982</year>
+          <fpage>1118</fpage>
+          <lpage>1134</lpage>
+          <pub-id pub-id-type="pmid">7147190</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0006">
+        <label>6</label>
+        <element-citation publication-type="journal" id="sbref0006">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kato</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ohnishi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kaneko</surname>
+              <given-names>M.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>New graft-implanting method for thoracic aortic aneurysm or dissection with a stented graft</article-title>
+          <source>Circulation</source>
+          <volume>94</volume>
+          <issue>9 Suppl): Ii</issue>
+          <year>1996</year>
+          <fpage>188</fpage>
+          <lpage>193</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib0007">
+        <label>7</label>
+        <element-citation publication-type="journal" id="sbref0007">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ricotta</surname>
+              <given-names>J.J.</given-names>
+            </name>
+            <name>
+              <surname>Faggioli</surname>
+              <given-names>G.L.</given-names>
+            </name>
+            <name>
+              <surname>Castilone</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Hassett</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Risk factors for stroke after cardiac surgery: buffalo cardiac-cerebral study group</article-title>
+          <source>J Vasc Surg</source>
+          <volume>21</volume>
+          <issue>2</issue>
+          <year>1995</year>
+          <fpage>359</fpage>
+          <lpage>363</lpage>
+          <comment>discussion 64</comment>
+          <pub-id pub-id-type="pmid">7853607</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0008">
+        <label>8</label>
+        <element-citation publication-type="journal" id="sbref0008">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leontyev</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Misfeld</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Daviewala</surname>
+              <given-names>P.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Early- and medium-term results after aortic arch replacement with frozen elephant trunk techniques-a single center study</article-title>
+          <source>Ann Cardiothorac Surg</source>
+          <volume>2</volume>
+          <issue>5</issue>
+          <year>2013</year>
+          <fpage>606</fpage>
+          <lpage>611</lpage>
+          <pub-id pub-id-type="pmid">24109568</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0009">
+        <label>9</label>
+        <element-citation publication-type="journal" id="sbref0009">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pichlmaier</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Buech</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Tsilimparis</surname>
+              <given-names>N.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Routine stent-bridging to the supraaortic vessels in aortic arch replacement - 10 year-experience</article-title>
+          <source>Ann Thorac Surg</source>
+          <volume>113</volume>
+          <issue>5</issue>
+          <year>2021</year>
+          <fpage>1491</fpage>
+          <lpage>1497</lpage>
+          <pub-id pub-id-type="pmid">34186091</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0010">
+        <label>10</label>
+        <element-citation publication-type="journal" id="sbref0010">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shah</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Tantry</surname>
+              <given-names>U.S.</given-names>
+            </name>
+            <name>
+              <surname>Bliden</surname>
+              <given-names>K.P.</given-names>
+            </name>
+            <name>
+              <surname>Gurbel</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bleeding and thrombosis associated with ventricular assist device therapy</article-title>
+          <source>J Heart Lung Transplant</source>
+          <volume>36</volume>
+          <issue>11</issue>
+          <year>2017</year>
+          <fpage>1164</fpage>
+          <lpage>1173</lpage>
+          <pub-id pub-id-type="pmid">28579115</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0011">
+        <label>11</label>
+        <element-citation publication-type="journal" id="sbref0011">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Garg</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Schuman</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Bader</surname>
+              <given-names>A.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Effect of preoperative diabetes management on glycemic control and clinical outcomes after elective surgery</article-title>
+          <source>Ann Surg</source>
+          <volume>267</volume>
+          <issue>5</issue>
+          <year>2018</year>
+          <fpage>858</fpage>
+          <lpage>862</lpage>
+          <pub-id pub-id-type="pmid">28549013</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0012">
+        <label>12</label>
+        <element-citation publication-type="journal" id="sbref0012">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Benesch</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Glance</surname>
+              <given-names>L.G.</given-names>
+            </name>
+            <name>
+              <surname>Derdeyn</surname>
+              <given-names>C.P.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Perioperative neurological evaluation and management to lower the risk of acute stroke in patients undergoing noncardiac, nonneurological surgery: a scientific statement from the American Heart Association/American Stroke Association</article-title>
+          <source>Circulation</source>
+          <volume>143</volume>
+          <issue>19</issue>
+          <year>2021</year>
+          <fpage>e923</fpage>
+          <lpage>ee46</lpage>
+          <pub-id pub-id-type="pmid">33827230</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0013">
+        <label>13</label>
+        <element-citation publication-type="journal" id="sbref0013">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Floten</surname>
+              <given-names>H.S.</given-names>
+            </name>
+            <name>
+              <surname>Ravichandran</surname>
+              <given-names>P.S.</given-names>
+            </name>
+            <name>
+              <surname>Furnary</surname>
+              <given-names>A.P.</given-names>
+            </name>
+            <name>
+              <surname>Gately</surname>
+              <given-names>H.L.</given-names>
+            </name>
+            <name>
+              <surname>Starr</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Adventitial inversion technique in repair of aortic dissection</article-title>
+          <source>Ann Thorac Surg</source>
+          <volume>59</volume>
+          <issue>3</issue>
+          <year>1995</year>
+          <fpage>771</fpage>
+          <lpage>772</lpage>
+          <pub-id pub-id-type="pmid">7887736</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0014">
+        <label>14</label>
+        <element-citation publication-type="journal" id="sbref0014">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Lyu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Jin</surname>
+              <given-names>L.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Prognostic factors for permanent neurological dysfunction after total aortic arch replacement with regional cerebral oxygen saturation monitoring</article-title>
+          <source>Brain Behav</source>
+          <volume>9</volume>
+          <issue>7</issue>
+          <year>2019</year>
+          <fpage>e01309</fpage>
+          <pub-id pub-id-type="pmid">31144479</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0015">
+        <label>15</label>
+        <element-citation publication-type="journal" id="sbref0015">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Raman</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Al-Robaidi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Jadhav</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Thirumala</surname>
+              <given-names>P.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Perioperative stroke and readmissions rates in noncardiac non-neurologic surgery</article-title>
+          <source>J Stroke Cerebrovasc Dis</source>
+          <volume>29</volume>
+          <issue>6</issue>
+          <year>2020</year>
+          <object-id pub-id-type="publisher-id">104792</object-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0016">
+        <label>16</label>
+        <element-citation publication-type="journal" id="sbref0016">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hosaka</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Motoki</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kato</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sugai</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Okubo</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Quantification of aortic shagginess as a predictive factor of perioperative stroke and long-term prognosis after endovascular treatment of aortic arch disease</article-title>
+          <source>J Vasc Surg</source>
+          <volume>69</volume>
+          <issue>1</issue>
+          <year>2019</year>
+          <fpage>15</fpage>
+          <lpage>23</lpage>
+          <pub-id pub-id-type="pmid">29914832</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0017">
+        <label>17</label>
+        <element-citation publication-type="journal" id="sbref0017">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lasek-Bal</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Jedrzejowska-Szypulka</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Student</surname>
+              <given-names>S.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The importance of selected markers of inflammation and blood-brain barrier damage for short-term ischemic stroke prognosis</article-title>
+          <source>J Physiol Pharmacol</source>
+          <volume>70</volume>
+          <issue>2</issue>
+          <year>2019</year>
+          <fpage>209</fpage>
+          <lpage>217</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib0018">
+        <label>18</label>
+        <element-citation publication-type="journal" id="sbref0018">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schuhmann</surname>
+              <given-names>M.K.</given-names>
+            </name>
+            <name>
+              <surname>Stoll</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Bieber</surname>
+              <given-names>M.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>CD84 links T Cell and platelet activity in cerebral thrombo-inflammation in acute stroke</article-title>
+          <source>Circ Res</source>
+          <volume>127</volume>
+          <issue>8</issue>
+          <year>2020</year>
+          <fpage>1023</fpage>
+          <lpage>1035</lpage>
+          <pub-id pub-id-type="pmid">32762491</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0019">
+        <label>19</label>
+        <element-citation publication-type="journal" id="sbref0019">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guan</surname>
+              <given-names>X.L.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>X.L.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y.Y.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Changes in the hemostatic system of patients with acute aortic dissection undergoing aortic arch surgery</article-title>
+          <source>Ann Thorac Surg</source>
+          <volume>101</volume>
+          <issue>3</issue>
+          <year>2016</year>
+          <fpage>945</fpage>
+          <lpage>951</lpage>
+          <pub-id pub-id-type="pmid">26603023</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0020">
+        <label>20</label>
+        <element-citation publication-type="journal" id="sbref0020">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lian</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>L.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Macrophage metabolic reprogramming aggravates aortic dissection through the HIF1α-ADAM17 pathway(✰)</article-title>
+          <source>EBioMedicine</source>
+          <volume>49</volume>
+          <year>2019</year>
+          <fpage>291</fpage>
+          <lpage>304</lpage>
+          <pub-id pub-id-type="pmid">31640947</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0021">
+        <label>21</label>
+        <element-citation publication-type="journal" id="sbref0021">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Odén</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Fahlén</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hart</surname>
+              <given-names>R.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Optimal INR for prevention of stroke and death in atrial fibrillation: a critical appraisal</article-title>
+          <source>Thromb Res</source>
+          <volume>117</volume>
+          <issue>5</issue>
+          <year>2006</year>
+          <fpage>493</fpage>
+          <lpage>499</lpage>
+          <pub-id pub-id-type="pmid">16517250</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0022">
+        <label>22</label>
+        <element-citation publication-type="journal" id="sbref0022">
+          <person-group person-group-type="author">
+            <name>
+              <surname>van Sloten</surname>
+              <given-names>T.T.</given-names>
+            </name>
+            <name>
+              <surname>Sedaghat</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Carnethon</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Launer</surname>
+              <given-names>L.J.</given-names>
+            </name>
+            <name>
+              <surname>Stehouwer</surname>
+              <given-names>C.D.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cerebral microvascular complications of type 2 diabetes: stroke, cognitive dysfunction, and depression</article-title>
+          <source>Lancet Diabetes Endocrinol</source>
+          <volume>8</volume>
+          <issue>4</issue>
+          <year>2020</year>
+          <fpage>325</fpage>
+          <lpage>336</lpage>
+          <pub-id pub-id-type="pmid">32135131</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0023">
+        <label>23</label>
+        <element-citation publication-type="journal" id="sbref0023">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Dun</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>H.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Clinical features and surgical outcomes of type A intramural hematoma</article-title>
+          <source>J Thorac Dis</source>
+          <volume>12</volume>
+          <issue>8</issue>
+          <year>2020</year>
+          <fpage>3964</fpage>
+          <lpage>3975</lpage>
+          <pub-id pub-id-type="pmid">32944308</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0024">
+        <label>24</label>
+        <element-citation publication-type="journal" id="sbref0024">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Salsano</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Giacobbe</surname>
+              <given-names>D.R.</given-names>
+            </name>
+            <name>
+              <surname>Sportelli</surname>
+              <given-names>E.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Aortic cross-clamp time and cardiopulmonary bypass time: prognostic implications in patients operated on for infective endocarditis</article-title>
+          <source>Interact Cardiovasc Thorac Surg</source>
+          <volume>27</volume>
+          <issue>3</issue>
+          <year>2018</year>
+          <fpage>328</fpage>
+          <lpage>335</lpage>
+          <pub-id pub-id-type="pmid">29579243</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <sec id="sec0024" sec-type="supplementary-material">
+      <title>Supplementary materials</title>
+      <p id="para0055a">
+<supplementary-material content-type="local-data" id="ecom0001"><media xlink:href="mmc1.docx"><alt-text>Image, application 1</alt-text></media></supplementary-material>
+</p>
+    </sec>
+    <ack id="ack0001">
+      <title>Acknowledgments</title>
+      <p id="para0058">Thanks to Siheng Xiong (Ph.D. of Georgia Institute of Technology, USA) for his suggestions on mathematical model construction.</p>
+    </ack>
+    <fn-group>
+      <fn id="sec0023" fn-type="supplementary-material">
+        <p id="para0006a">Supplementary material associated with this article can be found in the online version at doi:<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.eclinm.2022.101416" id="interref0001">10.1016/j.eclinm.2022.101416</ext-link>.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

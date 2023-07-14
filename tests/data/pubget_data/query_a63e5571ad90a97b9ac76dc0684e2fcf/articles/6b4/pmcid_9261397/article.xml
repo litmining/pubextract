@@ -1,0 +1,897 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="review-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Aging</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Aging</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Aging</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Aging</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">2673-6217</issn>
+      <issn pub-type="epub">2673-6217</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">35822016</article-id>
+      <article-id pub-id-type="pmc">9261397</article-id>
+      <article-id pub-id-type="publisher-id">726714</article-id>
+      <article-id pub-id-type="doi">10.3389/fragi.2021.726714</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Aging</subject>
+          <subj-group>
+            <subject>Mini Review</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Aging: What We Can Learn From Elephants</article-title>
+        <alt-title alt-title-type="left-running-head">Chusyd et al.</alt-title>
+        <alt-title alt-title-type="right-running-head">Elephants and Aging</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Chusyd</surname>
+            <given-names>Daniella E.</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="c001" ref-type="corresp">*</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/1293642/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ackermans</surname>
+            <given-names>Nicole L.</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/1405021/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Austad</surname>
+            <given-names>Steven N.</given-names>
+          </name>
+          <xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref>
+          <xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/1435477/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hof</surname>
+            <given-names>Patrick R.</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/191/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mielke</surname>
+            <given-names>Michelle M.</given-names>
+          </name>
+          <xref rid="aff6" ref-type="aff">
+<sup>6</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/135249/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sherwood</surname>
+            <given-names>Chet C.</given-names>
+          </name>
+          <xref rid="aff7" ref-type="aff">
+<sup>7</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/1918/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Allison</surname>
+            <given-names>David B.</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/9309/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+<label>
+<sup>1</sup>
+</label>Department of Epidemiology and Biostatistics, Indiana University-Bloomington, <addr-line>Bloomington</addr-line>, <addr-line>IN</addr-line>, <country>United States</country>
+</aff>
+      <aff id="aff2">
+<label>
+<sup>2</sup>
+</label>Nash Family Department of Neuroscience and Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, <addr-line>New York</addr-line>, <addr-line>NY</addr-line>, <country>United States</country>
+</aff>
+      <aff id="aff3">
+<label>
+<sup>3</sup>
+</label>Center for Anatomy and Functional Morphology, Icahn School of Medicine at Mount Sinai, <addr-line>New York</addr-line>, <addr-line>NY</addr-line>, <country>United States</country>
+</aff>
+      <aff id="aff4">
+<label>
+<sup>4</sup>
+</label>Department of Biology, University of Alabama at Birmingham, <addr-line>Birmingham</addr-line>, <addr-line>AL</addr-line>, <country>United States</country>
+</aff>
+      <aff id="aff5">
+<label>
+<sup>5</sup>
+</label>Nathan Shock Center, University of Alabama at Birmingham, <addr-line>Birmingham</addr-line>, <addr-line>AL</addr-line>, <country>United States</country>
+</aff>
+      <aff id="aff6">
+<label>
+<sup>6</sup>
+</label>Division of Epidemiology, Department of Quantitative Health Sciences and Department of Neurology, Mayo Clinic, <addr-line>Rochester</addr-line>, <addr-line>MN</addr-line>, <country>United States</country>
+</aff>
+      <aff id="aff7">
+<label>
+<sup>7</sup>
+</label>Department of Anthropology and Center for the Advanced Study of Human Paleobiology, George Washington University, <addr-line>Washington</addr-line>, <addr-line>DC</addr-line>, <country>United States</country>
+</aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>
+<bold>Edited by:</bold>
+<ext-link xlink:href="https://loop.frontiersin.org/people/1068666/overview" ext-link-type="uri">Kim A. Caldwell</ext-link>, University of Alabama, United States</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>
+<bold>Reviewed by:</bold>
+<ext-link xlink:href="https://loop.frontiersin.org/people/1105607/overview" ext-link-type="uri">Lisa Suzanne Robison</ext-link>, Stetson University, United States</p>
+          <p>
+<ext-link xlink:href="https://loop.frontiersin.org/people/577106/overview" ext-link-type="uri">Naresh Chandra Bal</ext-link>, KIIT University, India</p>
+        </fn>
+        <corresp id="c001">*Correspondence: Daniella E. Chusyd, <email>dchusyd@iu.edu</email>
+</corresp>
+        <fn fn-type="other">
+          <p>This article was submitted to Aging, Metabolism and Redox Biology, a section of the journal Frontiers in Aging</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>8</month>
+        <year>2021</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2021</year>
+      </pub-date>
+      <volume>2</volume>
+      <elocation-id>726714</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>6</month>
+          <year>2021</year>
+        </date>
+        <date date-type="accepted">
+          <day>03</day>
+          <month>8</month>
+          <year>2021</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2021 Chusyd, Ackermans, Austad, Hof, Mielke, Sherwood and Allison.</copyright-statement>
+        <copyright-year>2021</copyright-year>
+        <copyright-holder>Chusyd, Ackermans, Austad, Hof, Mielke, Sherwood and Allison</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Elephants are large-brained, social mammals with a long lifespan. Studies of elephants can provide insight into the aging process, which may be relevant to understanding diseases that affect elderly humans because of their shared characteristics that have arisen through independent evolution. Elephants become sexually mature at 12 to 14 years of age and are known to live into, and past, their 7<sup>th</sup> decade of life. Because of their relatively long lifespans, elephants may have evolved mechanisms to counter age-associated morbidities, such as cancer and cognitive decline. Elephants rely heavily on their memory, and engage in multiple levels of competitive and collaborative relationships because they live in a fission-fusion system. Female matrilineal relatives and dependent offspring form tight family units led by an older-aged matriarch, who serves as the primary repository for social and ecological knowledge in the herd. Similar to humans, elephants demonstrate a dependence on social bonds, memory, and cognition to navigate their environment, behaviors that might be associated with specializations of brain anatomy. Compared with other mammals, the elephant hippocampus is proportionally smaller, whereas the temporal lobe is disproportionately large and expands laterally. The elephant cerebellum is also relatively enlarged, and the cerebral cortex is highly convoluted with numerous gyral folds, more than in humans. Last, an interesting characteristic unique to elephants is the presence of at least 20 copies of the <italic>TP53</italic> tumor suppressor gene<italic>.</italic> Humans have only a single copy. <italic>TP53</italic> encodes for the p53 protein, which is known to orchestrate cellular response to DNA damage. The effects of these multiple copies of <italic>TP53</italic> are still being investigated, but it may be to protect elephants against multiple age-related diseases. For these reasons, among others, studies of elephants would be highly informative for aging research. Elephants present an underappreciated opportunity to explore further common principles of aging in a large-brained mammal with extended longevity. Such research can contribute to contextualizing our knowledge of age-associated morbidities in humans.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>elephant</kwd>
+        <kwd>animal model</kwd>
+        <kwd>senescence</kwd>
+        <kwd>aging</kwd>
+        <kwd>comparative aging research</kwd>
+        <kwd>gerontology</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn001">
+            <institution-wrap>
+              <institution>National Institute on Aging
+</institution>
+              <institution-id institution-id-type="doi">10.13039/100000049</institution-id>
+            </institution-wrap>
+          </funding-source>
+          <award-id award-type="contract" rid="cn001">P30 AG050886</award-id>
+        </award-group>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Introduction</title>
+      <p>Aging is a complex and multifaceted process with species-specific characteristics. Differences among species can be informative, and have the potential to reveal the causes and consequences of aging across variation in life history, ecology, and phylogeny (<xref rid="B4" ref-type="bibr">Austad, 1997</xref>). Instructive species for comparative investigation include those that share relevant characteristics with humans (<xref rid="B5" ref-type="bibr">Austad, 2009</xref>). Elephants are particularly fascinating in this regard.</p>
+      <p>Like humans, elephants are K-selected animals: they generally give birth to single offspring, have slow maturation, and long lifespans. Elephants are the second longest living terrestrial mammal, behind only humans (<xref rid="B56" ref-type="bibr">Moss, 2001</xref>; <xref rid="B77" ref-type="bibr">Sukumar, 2003</xref>; <xref rid="B86" ref-type="bibr">Wittemyer et al., 2013</xref>; <xref rid="B82" ref-type="bibr">Turkalo et al., 2018</xref>). In fact, in a nearly 50 years study of wild elephants in East Africa, the life expectancy of female elephants at birth (mean, 46.7 years) was reported to exceed that of Hadza hunter-gatherers living nearby (35.6 years) (<xref rid="B54" ref-type="bibr">Moss et al., 2011</xref>; <xref rid="B10" ref-type="bibr">Blurton Jones, 2016</xref>). Elephants are one of the slowest reproducing terrestrial mammals, with the longest gestational period (<xref rid="B55" ref-type="bibr">Moss, 1983</xref>) and have an age of sexual maturity and an interbirth interval comparable to those of humans (<xref rid="B56" ref-type="bibr">Moss, 2001</xref>; <xref rid="B86" ref-type="bibr">Wittemyer et al., 2013</xref>) (<xref rid="T1" ref-type="table">Table 1</xref>). They have one of the largest proportional postmaturation to prematuration ratios, possibly surpassing that of humans. It is not only elephants’ general traits relative to aging, but their cognitive abilities, emotional complexity, and strong social ties that make them especially appealing for comparative investigation.</p>
+      <table-wrap position="float" id="T1">
+        <label>TABLE 1</label>
+        <caption>
+          <p>Comparative life history of the Amboseli, Kenya, African savanna elephants and Hadza hunter-gatherers.</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead valign="top">
+            <tr>
+              <th align="center" rowspan="1" colspan="1"/>
+              <th align="center" rowspan="1" colspan="1">African savanna elephant <xref rid="B54" ref-type="bibr">Moss et al. (2011)</xref>
+</th>
+              <th align="center" rowspan="1" colspan="1">Hadza hunter-gatherers <xref rid="B10" ref-type="bibr">Blurton Jones (2016)</xref>
+</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Age at first birth (mean in years) (range)</td>
+              <td align="left" rowspan="1" colspan="1">14 (9–22)</td>
+              <td align="left" rowspan="1" colspan="1">19 (14–27)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Age at last birth (mean in years)</td>
+              <td align="left" rowspan="1" colspan="1">Majority continue to reproduce throughout life</td>
+              <td align="left" rowspan="1" colspan="1">37</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Gestation (months)</td>
+              <td align="left" rowspan="1" colspan="1">22</td>
+              <td align="left" rowspan="1" colspan="1">9</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Interbirth interval (years)</td>
+              <td align="left" rowspan="1" colspan="1">4.5</td>
+              <td align="left" rowspan="1" colspan="1">3.5</td>
+            </tr>
+            <tr>
+              <td rowspan="2" align="left" colspan="1">Mean life expectancy at birth, natural mortality only years)<xref rid="Tfn1" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+              <td align="left" rowspan="1" colspan="1">Female: 46.7</td>
+              <td align="left" rowspan="1" colspan="1">Female: 35.55</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Male: 37.4</td>
+              <td align="left" rowspan="1" colspan="1">Male: 30.81</td>
+            </tr>
+            <tr>
+              <td rowspan="2" align="left" colspan="1">Mean life expectancy at age 20, natural mortality only (roughly sexual maturity; years)<xref rid="Tfn1" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+              <td align="left" rowspan="1" colspan="1">Female: 37.9</td>
+              <td align="left" rowspan="1" colspan="1">Female: 41.75</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Male: 31.1</td>
+              <td align="left" rowspan="1" colspan="1">Male: 36.27</td>
+            </tr>
+            <tr>
+              <td rowspan="2" align="left" colspan="1">Maximum lifespan (years)</td>
+              <td align="left" rowspan="1" colspan="1">Female: &gt;65</td>
+              <td align="left" rowspan="1" colspan="1">Female: 86</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Male: ∼ 60</td>
+              <td align="left" rowspan="1" colspan="1">Male: 83</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn id="Tfn1">
+            <label>a</label>
+            <p>The reason that elephants have a higher life expectancy compared to Hadza hunter-gathers at birth is because the Hadza experienced higher infant mortality.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>Although humans and elephants share many characteristics of interest, they are not evolutionarily closely related. The separate lineages leading to elephants and humans diverged approximately 100 million years ago (mya). Thus, studying elephant aging in a comparative perspective may reveal key physiologic mechanisms associated with aging. For example, it may prove beneficial to investigate whether elephants develop age-related diseases to the same extent as humans, when living to comparable ages. This is of particular relevance as age-associated diseases are a growing public health issue, and one major limitation of ongoing therapeutic research is the lack of animal models that accurately translate to people. To address this concern, newer, and possibly more appropriate models, like elephants, are needed. Thus, emphasizing the importance of the comparative perspective, the aim of this article is to highlight the unique properties of elephants and why studying them can push aging research forward.</p>
+    </sec>
+    <sec id="s1-1">
+      <title>Evolution and Longevity</title>
+      <p>The family Elephantidae was once a flourishing group of the order Proboscidea, living throughout much of Africa, Eurasia, and the Americas (<xref rid="B72" ref-type="bibr">Shoshani, 1998</xref>). Only three species still survive: the African savanna (<italic>Loxodonta africana</italic>), African forest (<italic>Loxodonta cyclotis</italic>), and Asian (<italic>Elephas maximus</italic>) elephants (<xref rid="B21" ref-type="bibr">Gobush et al., 2021</xref>). Elephants evolved from an ancestry within the afrotherian clade (which also includes manatees, hyraxes, aardvarks, tenrecs, elephant shrews, and golden moles) (<xref rid="B20" ref-type="bibr">Glickman et al., 2005</xref>). Mitochondrial DNA analyses suggest that elephants (as well as manatees and hyraxes) have a common aquatic ancestor (<xref rid="B16" ref-type="bibr">de Jong, 1998</xref>; <xref rid="B52" ref-type="bibr">Mirceta et al., 2013</xref>). African elephants diverged from the lineage leading to Asian elephants (and mammoths) approximately 7.6 mya, while African savanna and forest elephants diverged approximately 4.0 mya (<xref rid="B69" ref-type="bibr">Rohland et al., 2007</xref>).</p>
+      <p>One of the defining characteristics of all extant elephants is their longevity. Wild savanna and forest elephants, and zoo and semi-captive Asian elephants are known to live into their 7th decade of life (<xref rid="B42" ref-type="bibr">Lee et al., 2012</xref>; <xref rid="B35" ref-type="bibr">Keele, 2014</xref>; <xref rid="B37" ref-type="bibr">Lahdenperä et al., 2014</xref>; <xref rid="B15" ref-type="bibr">Chapman et al., 2019</xref>), with some Asian elephants documented to live into almost their 80s (<xref rid="B37" ref-type="bibr">Lahdenperä et al., 2014</xref>). Wild elephants have been living to advanced ages for millennia, without the aid of science or medicine. Such longevity is rare in any terrestrial mammal, which suggests that elephants have evolved mechanisms to protect against aging diseases.</p>
+      <p>In fact, it is possible that changes in gene expression due to DNA methylation can be used as a marker of longevity with potential mechanistic influence. This line of thinking has led to the recent development of various epigenetic clocks to measure biological age. One of the most commonly applied epigenetic clocks (the Horvath clock) was recently used to examine the rate of accumulation of DNA methylation marks in savanna and Asian elephants, and to create a dual human-elephant clock (<xref rid="B67" ref-type="bibr">Prado et al., 2021</xref>). Interestingly, most CpGs demonstrate opposite aging effects between humans and elephants, including genes associated with respiratory system processes, circadian rhythms, mitochondrial function, and some cancer-related signatures (<xref rid="B67" ref-type="bibr">Prado et al., 2021</xref>). Researchers have also conducted lifespan estimates of extinct Elephantidae species. For example, by using a lifespan clock, the lifespan of the woolly mammoth (<italic>Mammuthus primigenius</italic>) and that of the straight-tusked elephant (<italic>Palaeoloxodon antiquus</italic>) were estimated to be 60 years (<xref rid="B50" ref-type="bibr">Mayne et al., 2019</xref>), similar to what is observed in the extant elephant species.</p>
+      <p>Considering their long lifespan, the age at which female and male elephants start reproducing is relatively late. Savanna and Asian female elephants may start to conceive at 11–14 years of age and give birth every 3–4 years (<xref rid="B54" ref-type="bibr">Moss et al., 2011</xref>). Forest elephants appear to start reproducing later in life, at 20 years of age on average, with interbirth intervals of every 5–6 years (<xref rid="B83" ref-type="bibr">Turkalo et al., 2017</xref>). Because little is known about forest elephants, it is unclear whether their comparatively delayed primiparous age is representative of forest elephants in general or is specific to this particular population studied. Nevertheless, while some female Asian elephants may experience an extended post-reproductive stage (<xref rid="B15" ref-type="bibr">Chapman et al., 2019</xref>), females from all three species are capable of reproducing into their 60s (<xref rid="B56" ref-type="bibr">Moss, 2001</xref>; <xref rid="B37" ref-type="bibr">Lahdenperä et al., 2014</xref>; <xref rid="B82" ref-type="bibr">Turkalo et al., 2018</xref>).</p>
+      <p>Males have a unique combination of behavioral and physiologic traits that reflect the intense pressure to compete for access to estrous females [in general, females are in estrous for only 3–6 days every 3–9 years, see (<xref rid="B10" ref-type="bibr">Blurton Jones, 2016</xref>; <xref rid="B50" ref-type="bibr">Mayne et al., 2019</xref>) for review]. Males grow throughout much, or perhaps all, of their lifespan, in terms of stature, as well as body and tusk weight (<xref rid="B70" ref-type="bibr">Roth, 1984</xref>; <xref rid="B26" ref-type="bibr">Haynes, 1993</xref>; <xref rid="B44" ref-type="bibr">Lindeque and Jaarsveld, 1993</xref>; <xref rid="B40" ref-type="bibr">Lee and Moss, 1995</xref>). Males experience musth, unique to elephants, which is characterized by bouts of elevated testosterone and aggression, and heightened sexual activity. Females prefer larger males and those in musth, which may explain why paternity success steadily increases in males from the mid-20s until it peaks around early 50s, after which, it is comparable to a male in his early 40s (<xref rid="B29" ref-type="bibr">Hollister-Smith et al., 2007</xref>). This observation suggests male elephants may undergo sexual selection for longevity.</p>
+      <p>One mechanism allowing elephants to reach longer lifespans may be their multiple copies of the tumor suppressor gene <italic>TP53</italic> (<xref rid="B1" ref-type="bibr">Abegglen et al., 2015</xref>; <xref rid="B46" ref-type="bibr">Sulak et al., 2016</xref>), colloquially known as the “guardian of the genome.” Humans have one copy of <italic>TP53</italic>, whereas savanna, forest, and Asian elephants are estimated to have 19–23, 21–24, and 19–22 <italic>TP53</italic> copies, respectively (<xref rid="B79" ref-type="bibr">Tollis et al., 2020</xref>). This is compared to estimates of 19–28, and 22–25 <italic>TP53</italic> copies in the extinct woolly mammoth and straight-tusked elephant, respectively (<xref rid="B79" ref-type="bibr">Tollis et al., 2020</xref>). Other afrotherian species, such as the manatee and rock hyrax, have two copies of <italic>TP53</italic>, while Bowhead and Minke whales each have one, respectively (<xref rid="B46" ref-type="bibr">Sulak et al., 2016</xref>). Of the multiple elephant <italic>TP53</italic> genes, only one appears to have a comparable gene structure to other mammals, while the other copies appear to be retrogenes, as they lack true introns (<xref rid="B1" ref-type="bibr">Abegglen et al., 2015</xref>). Retrogenes can have functional biological roles (<xref rid="B62" ref-type="bibr">Pink et al., 2011</xref>). Indeed, genetic variation at some elephant <italic>TP53</italic> retrogenes is conserved across all three extant elephant species, providing evidence of the functionality of at least some <italic>TP53</italic> retrogenes (<xref rid="B84" ref-type="bibr">Vazquez et al., 2018</xref>; <xref rid="B79" ref-type="bibr">Tollis et al., 2020</xref>), and functional <italic>TP53</italic> duplicates appear to occur only in the elephant lineage (and possibly some bats) (<xref rid="B46" ref-type="bibr">Sulak et al., 2016</xref>). p53 (encoded by the <italic>TP53</italic> gene) is a transcription regulator [reviewed in (<xref rid="B38" ref-type="bibr">Laptenko and Prives, 2006</xref>)]. When DNA is damaged, p53 can cause cell-cycle arrest, senescence, or apoptosis and/or it can stimulate DNA repair, thereby promoting removal or repair of damaged cells [reviewed in (<xref rid="B85" ref-type="bibr">Williams and Schumacher, 2016</xref>)] and suppressing tumors.</p>
+      <p>As reported recently, <italic>TP53</italic> is activated in response to cellular stresses in addition to DNA damage (<xref rid="B25" ref-type="bibr">Haupt and Haupt, 2017</xref>). Thus, these multiple copies may have various effects in response to cell stress (<xref rid="B34" ref-type="bibr">Kastenhuber and Lowe, 2017</xref>). Elephants appear to have an enhanced apoptotic response to DNA damage owing to their extensive number of <italic>TP53</italic> (<italic>EP53</italic>) retrogenes (<xref rid="B1" ref-type="bibr">Abegglen et al., 2015</xref>; <xref rid="B46" ref-type="bibr">Sulak et al., 2016</xref>) and, as a result, develop cancer at lower rates than expected for their body size and lifespan (<xref rid="B1" ref-type="bibr">Abegglen et al., 2015</xref>; <xref rid="B79" ref-type="bibr">Tollis et al., 2020</xref>). Interestingly, Asian elephants appear to develop benign tumors and malignant cancer at higher rates than do savanna elephants (<xref rid="B79" ref-type="bibr">Tollis et al., 2020</xref>). Because cancer is an age-related disease, the prevalence is significant in the context of the evolution of extended longevity (<xref rid="B43" ref-type="bibr">Lemaître et al., 2020</xref>). Thus, long life requires a delay or decrease in cancer occurrence, in addition to a reduction of other aging pathologies (<xref rid="B45" ref-type="bibr">Lucas and Keller, 2020</xref>). In addition to its involvement in cancer, p53 has other relevant associations, including its association with Alzheimer’s disease (AD), and its central role in aging. Thus, elephants provide a unique opportunity to further investigate the potential protective effects of p53 in not only cancer, but aging in general.</p>
+    </sec>
+    <sec id="s1-2">
+      <title>Complex Social Bonds, Memory, and Cognitive Ability</title>
+      <p>Elephants societies are a fluid, fission-fusion system, such that group members change daily or seasonally (<xref rid="B57" ref-type="bibr">Moss and Poole, 1983</xref>; <xref rid="B87" ref-type="bibr">Wittemyer et al., 2005</xref>). At the center of elephant society is the family, comprised of female matrilineal relatives and dependent offspring. The tight-knit family members demonstrate remarkable cooperation, moving, foraging, and making decisions together. Families at times join together to form bond groups, and occasionally form an additional social tier termed clans (<xref rid="B87" ref-type="bibr">Wittemyer et al., 2005</xref>). Families are led by a matriarch, who is the primary repository for social and ecological knowledge. Matriarchs are largely responsible for the survival of their whole family. Families with older-aged matriarchs are overall more successful, in terms of both survival and reproduction. Calves are dependent on their mothers and other family members for social support, survival, and learning, constantly being touched, guided, and reassured throughout the first years of life. While females remain with their natal herd, usually for life, males depart at an average age of 14 years (<xref rid="B54" ref-type="bibr">Moss et al., 2011</xref>), after which they will join small, all-male groups, albeit with looser arrangements than the females (<xref rid="B59" ref-type="bibr">Murphy et al., 2020</xref>). Similar to other social species, such as humans and free-living populations of baboons (<xref rid="B31" ref-type="bibr">Holt-Lunstad et al., 2010</xref>; <xref rid="B73" ref-type="bibr">Silk et al., 2010</xref>), sociality and longevity appear to be positively related in elephants. In addition to being critical for family survival, the oldest females (the matriarchs) provide protection for calves, with higher calf survival in families with grandmothers, and they maintain the social cohesion within the herd (<xref rid="B54" ref-type="bibr">Moss et al., 2011</xref>). Behavioral aging, characterized by cognitive decline and social isolation, does not appear to be common in elephants (<xref rid="B39" ref-type="bibr">Lee et al., 2016</xref>).</p>
+      <p>Elephants have evolved to rely heavily on their cognitive abilities. Data support that living in socially intricate networks correlates with, and likely encourages, greater cognitive skills (<xref rid="B9" ref-type="bibr">Bates and Byrne, 2007</xref>). Unquestionably, elephants excel in long-term, spatiotemporal, and social memory. Evidence from both Asian and African elephant ethological research suggests that elephants likely have strong spatial and episodic memories. They appear to navigate complex physical and social environments over hundreds of miles using direct and indirect experience (<xref rid="B33" ref-type="bibr">Jacobson and Plotnik, 2020</xref>). Other research has shown that elephants retain long-term memory of reward stimuli (<xref rid="B48" ref-type="bibr">Markowitz et al., 1975</xref>), can identify and locate more than 100 out-of-view family members (<xref rid="B8" ref-type="bibr">Bates et al., 2008</xref>), and can spatially locate waterholes over 100 km distances and extended periods of time (more than 3 years) (<xref rid="B66" ref-type="bibr">Polansky et al., 2015</xref>). Elephants appear to have learned to discern between human ethnic groups that vary in their level of threat toward elephants (<xref rid="B7" ref-type="bibr">Bates et al., 2007</xref>; <xref rid="B51" ref-type="bibr">McComb et al., 2014</xref>). Elephants also seem to be unique among non-human animals in that they may exhibit behaviors related to “theory of mind”, demonstrating self-awareness (<xref rid="B64" ref-type="bibr">Plotnik et al., 2010</xref>), cooperation with one another (<xref rid="B65" ref-type="bibr">Plotnik et al., 2011</xref>), mourning-like behavior (<xref rid="B22" ref-type="bibr">Goldenberg and Wittemyer, 2020</xref>), empathy (<xref rid="B14" ref-type="bibr">Byrne et al., 2008</xref>), and consolation (<xref rid="B63" ref-type="bibr">Plotnik and de Waal, 2014</xref>).</p>
+      <p>Elephants’ remarkable long-term memory and strong social ties appear to leave them susceptible to psychological trauma. Wild elephant populations have experienced high levels of violence (i.e., poaching—elephants killed for their tusks). At the peak of poaching in Africa in 2011, approximately 40,000 elephants were illegally killed in just that year alone, equating to a possible species reduction of 3% (<xref rid="B88" ref-type="bibr">Wittemyer et al., 2014</xref>). Although elephants have processes, rituals, and social structures to respond to trauma, including behaviors that resemble grieving, mourning, and socializing, the magnitude and nature of human violence has disrupted elephants’ ability to use these practices, leading to what has been described as post-traumatic stress disorder (PTSD) (<xref rid="B11" ref-type="bibr">Bradshaw et al., 2005</xref>). In one example, in South Africa, teenaged orphaned male elephants were uncharacteristically violent, killing over 100 rhinoceroses (an aberrant behavior for elephants) (<xref rid="B11" ref-type="bibr">Bradshaw et al., 2005</xref>). In addition, male elephants with PTSD were responsible for 90% of all male elephant deaths in their community, compared with 6% in relatively unstressed communities (<xref rid="B11" ref-type="bibr">Bradshaw et al., 2005</xref>). Calves who survive witnessing their mother (and sometimes their entire families) being killed visually demonstrate an emotion akin to despair. It is possible, and something we are currently investigating, that these traumatized orphaned elephants develop health issues later in life and have accelerated aging, similar to children and wild baboons with higher adverse early life experiences (<xref rid="B18" ref-type="bibr">Felitti et al., 1998</xref>; <xref rid="B13" ref-type="bibr">Brown et al., 2009</xref>; <xref rid="B12" ref-type="bibr">Brown et al., 2010</xref>; <xref rid="B81" ref-type="bibr">Tung et al., 2016</xref>). Elephants’ dependence on social bonds, memory, and cognition highlights their potential in studying age-related cognitive decline, which may uncover specific adaptations in the wider context of the evolution of cognition.</p>
+    </sec>
+    <sec id="s1-3">
+      <title>Brain Size and Composition</title>
+      <p>Brain size has been shown to be related to body size, sociality, and lifespan in certain groups of mammals (<xref rid="B76" ref-type="bibr">Street et al., 2017</xref>). Species with larger brains (in absolute size and also relative to body size), on average, demonstrate a greater ability to process and use complex information (<xref rid="B30" ref-type="bibr">Holloway et al., 1979</xref>; <xref rid="B17" ref-type="bibr">Deaner et al., 2007</xref>). Over the course of evolution, the encephalization quotient (EQ, which is a measure of how much larger a species’ brain is than expected by general allometric scaling for a given body size) of <italic>Proboscidea</italic> has increased by 10-fold, to about 2.0 for extant elephants. Thus, the elephant brain is twice as large as would be expected for an average mammal of the same body size (<xref rid="B71" ref-type="bibr">Shoshani et al., 2006</xref>). The adult elephant brain averages around 5 kg (<xref rid="B71" ref-type="bibr">Shoshani et al., 2006</xref>; <xref rid="B27" ref-type="bibr">Herculano-Houzel et al., 2014</xref>), which is the largest among living and extinct terrestrial mammals, and three times the absolute size of the human brain. For large-brained, long-lived species, there is a need to develop improved aerobic energy production to fuel neuronal activity. When comparing protein evolution associated with brain, lifespan, and metabolism between humans and elephants, a convergent pattern is observed (<xref rid="B23" ref-type="bibr">Goodman et al., 2009</xref>). Specifically, in comparison to their phylogenetic relatives, elephants and humans have independently evolved and share increased nonsynonymous amino acid substitution rates among nuclear genes that code for mitochondrial proteins that function in aerobic energy metabolism (<xref rid="B23" ref-type="bibr">Goodman et al., 2009</xref>). This adaptive evolution of protein structure in elephants and humans likely minimizes reactive oxidative species, helping to reduce DNA damage and preserve long-lived neurons (<xref rid="B23" ref-type="bibr">Goodman et al., 2009</xref>).</p>
+      <p>Because elephants have extensive memory abilities, appearing to exceed those of great apes and possibly even humans, it is important to examine specific anatomical brain structures. For example, the elephant brain’s cerebral gyral pattern is more complex with more gyri than in primates, including humans, and carnivores, but is less complex than in cetaceans (<xref rid="B71" ref-type="bibr">Shoshani et al., 2006</xref>), which is a predictable pattern given the cortical surface area and thickness (<xref rid="B58" ref-type="bibr">Mota and Herculano-Houzel, 2015</xref>). Elephants have the greatest volume of cerebral cortex, with large, nonprimary areas thought to be involved in higher-order brain functions (<xref rid="B24" ref-type="bibr">Hart and Hart, 2010</xref>). The hippocampus, which is crucial for the formation and retention of cognitive maps that code for unfamiliar spatiotemporal relationships (<xref rid="B78" ref-type="bibr">Sweatt, 2004</xref>), is comparable in absolute size between elephants and humans, albeit proportionally smaller in elephants (<xref rid="B27" ref-type="bibr">Herculano-Houzel et al., 2014</xref>) and has the expected architecture for a mammalian hippocampus (<xref rid="B61" ref-type="bibr">Patzke et al., 2014</xref>). The elephant temporal lobe is disproportionately large compared with that of humans and expands laterally (<xref rid="B71" ref-type="bibr">Shoshani et al., 2006</xref>). Lastly, the elephant’s cerebellum has deviated markedly in evolution. It is the relatively largest compared to the rest of the brain size of all other mammals, and the lateral cerebellar hemispheres are expanded compared to the vermis (<xref rid="B49" ref-type="bibr">Maseko et al., 2012</xref>), although there are mammals that have greater lateral cerebellar relative enlargement (<xref rid="B74" ref-type="bibr">Smaers et al., 2018</xref>). The elephant cerebellum is specialized such that it has increased neurons relative to the cerebral cortex [97.5% of the 257 billion neurons in the elephant brain are found in the cerebellum (<xref rid="B27" ref-type="bibr">Herculano-Houzel et al., 2014</xref>)], and the neurons are packed more compactly than in other afrotherians (<xref rid="B27" ref-type="bibr">Herculano-Houzel et al., 2014</xref>).</p>
+      <p>Cortical pyramidal neuron morphology also differs between humans and elephants. Human neurons have basal dendritic trees with a greater number of short branches and a vertical apical dendrite, whereas elephants appear to have longer basal dendritic segments and a V-shaped bifurcating apical dendritic arrangement (<xref rid="B32" ref-type="bibr">Jacobs et al., 2011</xref>). This suggests potential differences in cortical information processing, possibly what allows elephants to have such an extraordinary long-term, spatiotemporal, and social memory abilities (<xref rid="B24" ref-type="bibr">Hart and Hart, 2010</xref>).</p>
+      <p>In this regard, elephants appear to be quite attractive in the study of AD and neurodegeneration. As alluded to earlier, families with older-aged matriarchs are more successful than families with young matriarchs because they rely on the matriarch’s ability to remember critical spatiotemporal and social information. Thus, it is possible that elephants evolved protective mechanisms to slow neurodegeneration. To our knowledge, however, no published reports address whether elephants develop neuropathologic changes similar to AD or related dementias or even the amount of neurodegeneration that occurs with normal aging in the absence of disease. We have therefore begun to examine and quantify age-related brain changes in elephants.</p>
+      <p>In our preliminary work, we sampled brain tissue from the prefrontal cortex of a 51-year-old female Asian zoo elephant for immunohistochemistry and immunofluorescence. The tissue was stained with ionized binding adaptor molecule-1 (Iba-1), a calcium binding protein specific to microglia and macrophages to detect any differences in microglia morphology. Microglia can clump together and change shape to become less ramified when activated in response to neurodegeneration (<xref rid="B28" ref-type="bibr">Hickman et al., 2018</xref>). In this specimen, the microglia showed no activated forms and were evenly distributed, indicating a normal state (<xref rid="F1" ref-type="fig">Figure 1A</xref>). CP13, a phospho-tau antibody that stains against the Serine 202 epitope, was applied to this specimen as well. Tau accumulates in dying neurons and can be found in pathological structures such as neurofibrillary tangles and neuritic clusters in cases of neurodegeneration, including AD (<xref rid="B75" ref-type="bibr">Spillantini and Goedert, 2013</xref>). This specimen did not show any neurofibrillary tangles or neuritic clusters, however, some neurons located at the lower margin of the cortical layer III stained positively for tau, as did some pretangles in layer II (<xref rid="F1" ref-type="fig">Figure 1B</xref>). This distribution is similar to what would be expected in a middle-aged human, as age-related tau accumulation begins in layers II and III and progresses towards the deeper layers as neurodegeneration progresses (<xref rid="B53" ref-type="bibr">Moloney et al., 2021</xref>). The tissue was also stained with a combination of CP13 and glial fibrillary acidic protein (GFAP) using immunofluorescence. GFAP is expressed by astrocytes and the combination of activated astrocytes and tau-stained neurons is an indicator of neurodegeneration. In this specimen there were no activated astrocyte forms and no clumping around the tau-positive neurons. The tau “speckling” throughout the cortex (<xref rid="F1" ref-type="fig">Figures 1B–F</xref>) may reflect axonal damage, or it may be a species-specific artifact. It could also be representative of early aging, and some similar (albeit less widespread) patterns appear in early-aging humans (<xref rid="B19" ref-type="bibr">Giannakopoulos et al., 2007</xref>; <xref rid="B80" ref-type="bibr">Tsartsalis et al., 2018</xref>). Investigations regarding signs of neurodegeneration are ongoing in other elephant specimens and species for a better understanding of how the elephant brain changes with age.</p>
+      <fig position="float" id="F1">
+        <label>FIGURE 1</label>
+        <caption>
+          <p>Microglia and phospho-tau detected in brain tissue collected from the cortex of a 51-year-old female Asian zoo elephant (<italic>Elephas maximus</italic>). Tissue stained using immunohistochemistry and counterstained with cresyl violet, <bold>(A)</bold> IBA1 (brown, 1:1,000, Fujifilm, 019–19,741), <bold>(B–D)</bold> CP13 (brown, 1:1,000, Gift from Dr. P. Davies). Images <bold>(A–D)</bold> were taken on an Axiophot brightfield microscope (Carl Zeiss Microscopy, Jena, Germany), with a 10x/0.32 Plan-Apochromat objective. <bold>(E–F)</bold> Tissue was stained with CP13 (red) and GFAP (green, 1:1,000, Abcam., ab68428) using immunofluorescence (note that blood vessels appear in green due to autofluorescence). Images <bold>(E–F)</bold> were taken on a CLSM 780 confocal microscope (Carl Zeiss Microscopy, Jena, Germany), using a 20x/0.8 DICII objective and DPSS 561–10 diode and Argon lasers at excitation wavelengths of 555 and 488 nm. Confocal stacks in layers II and III of the cerebral cortex were imaged at 512 × 512 pixel resolution with a z-step of 1 µm for a pinhole setting of 1 Airy unit. Images are presented as maximum intensity projections of the Z-stack, made using ZenBlue (version 3.3, Carl Zeiss Microscopy, Jena, Germany). All scale bars are 50 μm. In <bold>(A)</bold>, microglia are evenly distributed and ramified without any activated (ameboid) forms. In <bold>(B, C)</bold>, neurons stained with tau were found in layers III and II, respectively. In <bold>(D)</bold> tau “speckling” is visible in brown throughout layer III, and it is also visible in <bold>(E–F)</bold> in red. Images <bold>(E–F)</bold> show tau-positive neurons (thick arrowheads), and fibrils in red, and astrocytes in green (as well as autofluorescent blood vessels which are much thicker). Astrocytic end feet are visible around some blood vessels (thin arrows). In <bold>(F)</bold>, astrocytes are indicated with stars, note their presence around the tau-positive neuron.</p>
+        </caption>
+        <graphic xlink:href="fragi-02-726714-g001" position="float"/>
+      </fig>
+      <p>Neurofilament light (NfL) is a highly phosphorylated neuronal structural protein that upon neuro-axonal damage is released into the extracellular space, and subsequently into the cerebrospinal fluid and blood (<xref rid="B31" ref-type="bibr">Holt-Lunstad et al., 2010</xref>). Numerous reports have been made of the association between serum and plasma NfL and the severity of acute central nervous system injury, as well as the presence and state of neurodegenerative disease, including AD in humans (<xref rid="B68" ref-type="bibr">Preische et al., 2019</xref>; <xref rid="B3" ref-type="bibr">Ashton et al., 2019</xref>), AD rodent models (<xref rid="B6" ref-type="bibr">Bacioglu et al., 2016</xref>; <xref rid="B2" ref-type="bibr">Andersson et al., 2020</xref>), and cognitive dysfunction in dogs (<xref rid="B60" ref-type="bibr">Panek et al., 2020</xref>). To our knowledge we are the first to measure NfL, or any neurodegenerative biomarker, in elephants. We measured serum NfL in 21 zoo Asian elephants (20 females, 1 male; 39.6 ± 16.1 years of age, range 9–72 years of age) and plasma NfL in 9 zoo Asian elephants (7 females, 2 males; 33.2 ± 11.3 years of age, range 13–47 years of age). NfL was analyzed using the Simoa NF-light digital immunoassay (103,186, Quanterix, Billerica, MA). Serum and plasma NfL concentrations averaged 5.6 ± 3.3 and 3.2 ± 2.7 pg/ml, respectively (<xref rid="F2" ref-type="fig">Figures 2A,B</xref>). In one elephant, for which we had repeated serum samples collected at ages 45, 65, 68, and 72 years (<xref rid="F2" ref-type="fig">Figure 2A</xref>), we did not observe a general increase in NfL concentrations over time. Using R statistical software (R version, 3.5.2), based on a linear mixed model for the serum samples and a linear regression model for the plasma samples, we did not find a significant relationship between NfL concentrations and age (<italic>p</italic> = 0.275; 0.341, respectively; significance level was determined at <italic>p</italic> &lt; 0.05, 2-tailed). It is difficult to directly compare blood NfL concentrations across species as peripheral factors, such as body mass index, which can affect blood volume and reduce NfL levels, and kidney function, which affects protein clearance, can differ across species. Regardless, NfL concentrations obtained from zoo Asian elephants in either plasma or serum are lower than humans [e.g., see (<xref rid="B36" ref-type="bibr">Khalil et al., 2020</xref>)] and dogs (<xref rid="B60" ref-type="bibr">Panek et al., 2020</xref>). Further data are needed to determine whether elephants are protected to a certain degree against neurodegeneration.</p>
+      <fig position="float" id="F2">
+        <label>FIGURE 2</label>
+        <caption>
+          <p>
+<bold>(A)</bold> Serum and <bold>(B)</bold> plasma NfL concentrations in zoo Asian elephants (<italic>Elephas maximus</italic>, n = 21; n = 9, respectively). The four brown data points represent samples collected from the same elephant.</p>
+        </caption>
+        <graphic xlink:href="fragi-02-726714-g002" position="float"/>
+      </fig>
+    </sec>
+    <sec sec-type="conclusion" id="s2">
+      <title>Conclusion</title>
+      <p>Despite the phylogenetic distance between elephants and humans, convergence in the evolution of longevity, sociality, cognition, and memory makes elephants an intriguing species for comparative investigation. Yet elephants have largely been overlooked as an animal model that could shed light on the diseases of aging, including cancer, AD, and comorbidities associated with adverse early life experiences. Developing these resources offers great potential for future research. Comprehensive life history and medical records exist for elephants living under human care, either in zoological institutions or in semi-captive conditions in range countries [e.g., records for ∼9,600 Myanmar timber elephants captured or born after 1875 (<xref rid="B47" ref-type="bibr">Mar et al., 2001</xref>)]. This allows for retrospective analyses and adjustment for differences in life experiences and health status. An intriguing opportunity also exists to compare species living in different environments, e.g., captive versus semi-captive versus wild populations. Zoological institutions are not as controlled like a traditional laboratory setting, yet they are more artificial than in the wild. Semi-captive populations fall in the middle, such that semi-captive elephants have access to veterinary care and diet supplementation but can also roam and interact with wild elephant herds. These differences in environment and social access allow for a range of comparative studies within species to examine the possible effects of external factors on the biology of aging. Study of elephants offers a novel and valuable perspective to aging research.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank Merina Varghese and Nicholas Grimaldi for assistance with immunohistochemistry and immunofluorescence. We want to thank Jennifer Holmes from Medical Editing Services for language editing, and Janine Brown for her constructive comments on an earlier draft of this manuscript. We thank M. Noonan of the Buffalo Zoo for the donation of the elephant brain sample. The authors also sincerely thank the following zoos for providing serum and/or plasma samples: African Lion Safari, Cincinnati Zoo and Botanical Garden, Columbus Zoo and Aquarium, Fort Worth Zoo, Little Rock Zoo, National Zoo, Oklahoma City Zoo, Oregon Zoo, Santa Barbara Zoo, and Saint Louis Zoo.</p>
+    </ack>
+    <sec id="s3">
+      <title>Author Contributions</title>
+      <p>DC conceived of the work and review. CS contributed tissue samples. NA and PH analyzed and interpreted immunohistology. MM contributed to NfL interpretation. DC drafted the review. All authors participated in editing and writing the review.</p>
+    </sec>
+    <sec id="s4">
+      <title>Funding</title>
+      <p>This work was supported in part by the National Institute on Aging (grant number P30 AG050886 to SA and DC) and Indiana University Institute for Advanced Study (to DC).</p>
+    </sec>
+    <sec sec-type="COI-statement" id="s5">
+      <title>Conflict of Interest</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+    <sec sec-type="disclaimer" id="s6">
+      <title>Publisher’s Note</title>
+      <p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abegglen</surname><given-names>L. M.</given-names></name><name><surname>Caulin</surname><given-names>A. F.</given-names></name><name><surname>Chan</surname><given-names>A.</given-names></name><name><surname>Lee</surname><given-names>K.</given-names></name><name><surname>Robinson</surname><given-names>R.</given-names></name><name><surname>Campbell</surname><given-names>M. S.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>Potential Mechanisms for Cancer Resistance in Elephants and Comparative Cellular Response to DNA Damage in Humans</article-title>. <source>JAMA</source>
+<volume>314</volume>, <fpage>1850</fpage>–<lpage>1860</lpage>. <pub-id pub-id-type="doi">10.1001/jama.2015.13134</pub-id>
+<pub-id pub-id-type="pmid">26447779</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Andersson</surname><given-names>E.</given-names></name><name><surname>Janelidze</surname><given-names>S.</given-names></name><name><surname>Lampinen</surname><given-names>B.</given-names></name><name><surname>Nilsson</surname><given-names>M.</given-names></name><name><surname>Leuzy</surname><given-names>A.</given-names></name><name><surname>Stomrud</surname><given-names>E.</given-names></name><etal/></person-group> (<year>2020</year>). <article-title>Blood and Cerebrospinal Fluid Neurofilament Light Differentially Detect Neurodegeneration in Early Alzheimer's Disease</article-title>. <source>Neurobiol. Aging.</source>
+<volume>95</volume>, <fpage>143</fpage>–<lpage>153</lpage>. <pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2020.07.018</pub-id>
+<pub-id pub-id-type="pmid">32810755</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ashton</surname><given-names>N. J.</given-names></name><name><surname>Leuzy</surname><given-names>A.</given-names></name><name><surname>Lim</surname><given-names>Y. M.</given-names></name><name><surname>Troakes</surname><given-names>C.</given-names></name><name><surname>Hortobágyi</surname><given-names>T.</given-names></name><name><surname>Höglund</surname><given-names>K.</given-names></name><etal/></person-group> (<year>2019</year>). <article-title>Increased Plasma Neurofilament Light Chain Concentration Correlates with Severity of post-mortem Neurofibrillary Tangle Pathology and Neurodegeneration</article-title>. <source>Acta neuropathologica Commun.</source>
+<volume>7</volume>, <fpage>1</fpage>–<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1186/s40478-018-0649-3</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Austad</surname><given-names>S.</given-names></name></person-group> (<year>1997</year>). <article-title>Comparative Aging and Life Histories in Mammals</article-title>. <source>Exp. Gerontol.</source>
+<volume>32</volume>, <fpage>23</fpage>–<lpage>38</lpage>. <pub-id pub-id-type="doi">10.1016/s0531-5565(96)00059-9</pub-id>
+<pub-id pub-id-type="pmid">9088899</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Austad</surname><given-names>S. N.</given-names></name></person-group> (<year>2009</year>). <article-title>Comparative Biology of Aging</article-title>. <source>Journals Gerontol. Ser. A: Biol. Sci. Med. Sci.</source>
+<volume>64A</volume>, <fpage>199</fpage>–<lpage>201</lpage>. <pub-id pub-id-type="doi">10.1093/gerona/gln060</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bacioglu</surname><given-names>M.</given-names></name><name><surname>Maia</surname><given-names>L. F.</given-names></name><name><surname>Preische</surname><given-names>O.</given-names></name><name><surname>Schelle</surname><given-names>J.</given-names></name><name><surname>Apel</surname><given-names>A.</given-names></name><name><surname>Kaeser</surname><given-names>S. A.</given-names></name><etal/></person-group> (<year>2016</year>). <article-title>Neurofilament Light Chain in Blood and CSF as Marker of Disease Progression in Mouse Models and in Neurodegenerative Diseases</article-title>. <source>Neuron</source>
+<volume>91</volume>, <fpage>56</fpage>–<lpage>66</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2016.05.018</pub-id>
+<pub-id pub-id-type="pmid">27292537</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bates</surname><given-names>L. A.</given-names></name><name><surname>Sayialel</surname><given-names>K. N.</given-names></name><name><surname>Njiraini</surname><given-names>N. W.</given-names></name><name><surname>Moss</surname><given-names>C. J.</given-names></name><name><surname>Poole</surname><given-names>J. H.</given-names></name><name><surname>Byrne</surname><given-names>R. W.</given-names></name></person-group> (<year>2007</year>). <article-title>Elephants Classify Human Ethnic Groups by Odor and Garment Color</article-title>. <source>Curr. Biol.</source>
+<volume>17</volume>, <fpage>1938</fpage>–<lpage>1942</lpage>. <pub-id pub-id-type="doi">10.1016/j.cub.2007.09.060</pub-id>
+<pub-id pub-id-type="pmid">17949977</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bates</surname><given-names>L. A.</given-names></name><name><surname>Sayialel</surname><given-names>K. N.</given-names></name><name><surname>Njiraini</surname><given-names>N. W.</given-names></name><name><surname>Poole</surname><given-names>J. H.</given-names></name><name><surname>Moss</surname><given-names>C. J.</given-names></name><name><surname>Byrne</surname><given-names>R. W.</given-names></name></person-group> (<year>2008</year>). <article-title>African Elephants Have Expectations about the Locations of Out-Of-Sight Family Members</article-title>. <source>Biol. Lett.</source>
+<volume>4</volume>, <fpage>34</fpage>–<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1098/rsbl.2007.0529</pub-id>
+<pub-id pub-id-type="pmid">18055407</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bates</surname><given-names>L.</given-names></name><name><surname>Byrne</surname><given-names>R.</given-names></name></person-group> (<year>2007</year>). <article-title>Creative or Created: Using Anecdotes to Investigate Animal Cognition</article-title>. <source>Methods</source>
+<volume>42</volume>, <fpage>12</fpage>–<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1016/j.ymeth.2006.11.006</pub-id>
+<pub-id pub-id-type="pmid">17434411</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Blurton Jones</surname><given-names>N.</given-names></name></person-group> (<year>2016</year>). <source>Demography and Evolutionary Ecology of Hadza Hunter-Gatherers</source>. <publisher-loc>Cambridge</publisher-loc>: <publisher-name>Cambridge University Press</publisher-name>. <pub-id pub-id-type="doi">10.1017/cbo9781107707030</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bradshaw</surname><given-names>G. A.</given-names></name><name><surname>Schore</surname><given-names>A. N.</given-names></name><name><surname>Brown</surname><given-names>J. L.</given-names></name><name><surname>Poole</surname><given-names>J. H.</given-names></name><name><surname>Moss</surname><given-names>C. J.</given-names></name></person-group> (<year>2005</year>). <article-title>Elephant Breakdown</article-title>. <source>Nature</source>
+<volume>433</volume>, <fpage>807</fpage>. <pub-id pub-id-type="doi">10.1038/433807a</pub-id>
+<pub-id pub-id-type="pmid">15729320</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brown</surname><given-names>D. W.</given-names></name><name><surname>Anda</surname><given-names>R. F.</given-names></name><name><surname>Felitti</surname><given-names>V. J.</given-names></name><name><surname>Edwards</surname><given-names>V. J.</given-names></name><name><surname>Malarcher</surname><given-names>A. M.</given-names></name><name><surname>Croft</surname><given-names>J. B.</given-names></name><etal/></person-group> (<year>2010</year>). <article-title>Adverse Childhood Experiences Are Associated with the Risk of Lung Cancer: a Prospective Cohort Study</article-title>. <source>BMC public health.</source>
+<volume>10</volume>, <fpage>20</fpage>. <pub-id pub-id-type="doi">10.1186/1471-2458-10-311</pub-id>
+<pub-id pub-id-type="pmid">20085623</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brown</surname><given-names>D. W.</given-names></name><name><surname>Anda</surname><given-names>R. F.</given-names></name><name><surname>Tiemeier</surname><given-names>H.</given-names></name><name><surname>Felitti</surname><given-names>V. J.</given-names></name><name><surname>Edwards</surname><given-names>V. J.</given-names></name><name><surname>Croft</surname><given-names>J. B.</given-names></name><etal/></person-group> (<year>2009</year>). <article-title>Adverse Childhood Experiences and the Risk of Premature Mortality</article-title>. <source>Am. J. Prev. Med.</source>
+<volume>37</volume>, <fpage>389</fpage>–<lpage>396</lpage>. <pub-id pub-id-type="doi">10.1016/j.amepre.2009.06.021</pub-id>
+<pub-id pub-id-type="pmid">19840693</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Byrne</surname><given-names>R.</given-names></name><name><surname>Lee</surname><given-names>P. C.</given-names></name><name><surname>Njiraini</surname><given-names>N.</given-names></name><name><surname>Poole</surname><given-names>J. H.</given-names></name><name><surname>Sayialel</surname><given-names>K.</given-names></name><name><surname>Bates</surname><given-names>L. A.</given-names></name><etal/></person-group> (<year>2008</year>). <article-title>Do elephants Show Empathy?</article-title>
+<source>J. Conscious. Stud.</source>
+<volume>15</volume>, <fpage>204</fpage>–<lpage>225</lpage>. </mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chapman</surname><given-names>S. N.</given-names></name><name><surname>Jackson</surname><given-names>J.</given-names></name><name><surname>Htut</surname><given-names>W.</given-names></name><name><surname>Lummaa</surname><given-names>V.</given-names></name><name><surname>Lahdenperä</surname><given-names>M.</given-names></name></person-group> (<year>2019</year>). <article-title>Asian Elephants Exhibit post-reproductive Lifespans</article-title>. <source>BMC Evol. Biol.</source>
+<volume>19</volume>, <fpage>193</fpage>. <pub-id pub-id-type="doi">10.1186/s12862-019-1513-1</pub-id>
+<pub-id pub-id-type="pmid">31638893</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Jong</surname><given-names>W. W.</given-names></name></person-group> (<year>1998</year>). <article-title>Molecules Remodel the Mammalian Tree</article-title>. <source>Trends Ecol. Evol.</source>
+<volume>13</volume>, <fpage>270</fpage>–<lpage>275</lpage>. <pub-id pub-id-type="doi">10.1016/s0169-5347(98)01335-4</pub-id>
+<pub-id pub-id-type="pmid">21238296</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Deaner</surname><given-names>R. O.</given-names></name><name><surname>Isler</surname><given-names>K.</given-names></name><name><surname>Burkart</surname><given-names>J.</given-names></name><name><surname>Van Schaik</surname><given-names>C.</given-names></name></person-group> (<year>2007</year>). <article-title>Overall Brain Size, and Not Encephalization Quotient, Best Predicts Cognitive Ability across Non-human Primates</article-title>. <source>Brain Behav. Evol.</source>
+<volume>70</volume>, <fpage>115</fpage>–<lpage>124</lpage>. <pub-id pub-id-type="doi">10.1159/000102973</pub-id>
+<pub-id pub-id-type="pmid">17510549</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Felitti</surname><given-names>V. J.</given-names></name><name><surname>Anda</surname><given-names>R. F.</given-names></name><name><surname>Nordenberg</surname><given-names>D.</given-names></name><name><surname>WilliamsonSpitz</surname><given-names>D. F. A. M.</given-names></name><name><surname>Spitz</surname><given-names>A. M.</given-names></name><name><surname>Edwards</surname><given-names>V.</given-names></name><etal/></person-group> (<year>1998</year>). <article-title>Relationship of Childhood Abuse and Household Dysfunction to Many of the Leading Causes of Death in Adults</article-title>. <source>Am. J. Prev. Med.</source>
+<volume>14</volume>, <fpage>245</fpage>–<lpage>258</lpage>. <pub-id pub-id-type="doi">10.1016/s0749-3797(98)00017-8</pub-id>
+<pub-id pub-id-type="pmid">9635069</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Giannakopoulos</surname><given-names>P.</given-names></name><name><surname>Von Gunten</surname><given-names>A.</given-names></name><name><surname>Kövari</surname><given-names>E.</given-names></name><name><surname>Gold</surname><given-names>G.</given-names></name><name><surname>Herrmann</surname><given-names>F. R.</given-names></name><name><surname>Hof</surname><given-names>P. R.</given-names></name><etal/></person-group> (<year>2007</year>). <article-title>Stereological Analysis of Neuropil Threads in the Hippocampal Formation: Relationships with Alzheimer's Disease Neuronal Pathology and Cognition</article-title>. <source>Neuropathol. Appl. Neurobiol.</source>
+<volume>33</volume>, <fpage>334</fpage>–<lpage>343</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2990.2007.00827.x</pub-id>
+<pub-id pub-id-type="pmid">17442063</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Glickman</surname><given-names>S. E.</given-names></name><name><surname>Short</surname><given-names>R. V.</given-names></name><name><surname>Renfree</surname><given-names>M. B.</given-names></name></person-group> (<year>2005</year>). <article-title>Sexual Differentiation in Three Unconventional Mammals: Spotted Hyenas, Elephants and Tammar Wallabies</article-title>. <source>Horm. Behav.</source>
+<volume>48</volume>, <fpage>403</fpage>–<lpage>417</lpage>. <pub-id pub-id-type="doi">10.1016/j.yhbeh.2005.07.013</pub-id>
+<pub-id pub-id-type="pmid">16197946</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gobush</surname><given-names>K. S.</given-names></name><name><surname>Edwards</surname><given-names>C. T. T.</given-names></name><name><surname>Balfour</surname><given-names>D.</given-names></name><name><surname>Wittemyer</surname><given-names>G.</given-names></name><name><surname>Maisels</surname><given-names>F.</given-names></name><name><surname>Taylor</surname><given-names>R. D.</given-names></name></person-group> (<year>2021</year>). <article-title>
+<italic>Loxodonta africana</italic>. The IUCN Red List of Threatened Species</article-title>. <comment>e.T181008073A181022663</comment>. </mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Goldenberg</surname><given-names>S. Z.</given-names></name><name><surname>Wittemyer</surname><given-names>G.</given-names></name></person-group> (<year>2020</year>). <article-title>Elephant Behavior toward the Dead: A Review and Insights from Field Observations</article-title>. <source>Primates</source>
+<volume>61</volume>, <fpage>119</fpage>–<lpage>128</lpage>. <pub-id pub-id-type="doi">10.1007/s10329-019-00766-5</pub-id>
+<pub-id pub-id-type="pmid">31713106</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Goodman</surname><given-names>M.</given-names></name><name><surname>Sterner</surname><given-names>K. N.</given-names></name><name><surname>Islam</surname><given-names>M.</given-names></name><name><surname>Uddin</surname><given-names>M.</given-names></name><name><surname>Sherwood</surname><given-names>C. C.</given-names></name><name><surname>Hof</surname><given-names>P. R.</given-names></name><etal/></person-group> (<year>2009</year>). <article-title>Phylogenomic Analyses Reveal Convergent Patterns of Adaptive Evolution in Elephant and Human Ancestries</article-title>. <source>Proc. Natl. Acad. Sci.</source>
+<volume>106</volume>, <fpage>20824</fpage>–<lpage>20829</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0911239106</pub-id>
+<pub-id pub-id-type="pmid">19926857</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Hart</surname><given-names>B.</given-names></name><name><surname>Hart</surname><given-names>L. A.</given-names></name></person-group> (<year>2010</year>). “<article-title>Evolution of the Elephant Brain: A Paradox between Brain Size and Cognitive Behavior</article-title>,” in <source>Evolution of Nervous Systems</source>. <publisher-loc>New York</publisher-loc>: <publisher-name>Elsevier</publisher-name>, <fpage>491</fpage>–<lpage>497</lpage>. </mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Haupt</surname><given-names>S.</given-names></name><name><surname>Haupt</surname><given-names>Y.</given-names></name></person-group> (<year>2017</year>). <article-title>P53 at the Start of the 21st century: Lessons from Elephants</article-title>. <source>F1000Res</source>
+<volume>6</volume>, <fpage>2041</fpage>. <pub-id pub-id-type="doi">10.12688/f1000research.12682.1</pub-id>
+<pub-id pub-id-type="pmid">29250320</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Haynes</surname><given-names>G.</given-names></name></person-group> (<year>1993</year>). <source>Mammoths, Mastodonts, and Elephants: Biology, Behavior and the Fossil Record</source>. <publisher-loc>Cambridge</publisher-loc>: <publisher-name>Cambridge University Press</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Herculano-Houzel</surname><given-names>S.</given-names></name><name><surname>Avelino-de-Souza</surname><given-names>K.</given-names></name><name><surname>Neves</surname><given-names>K.</given-names></name><name><surname>Porfirio</surname><given-names>J.</given-names></name><name><surname>Messeder</surname><given-names>D.</given-names></name><name><surname>Feijo</surname><given-names>L. M.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>The Elephant Brain in Numbers</article-title>. <source>Front. Neuroanat.</source>
+<volume>8</volume>, <fpage>46</fpage>. <pub-id pub-id-type="doi">10.3389/fnana.2014.00046</pub-id>
+<pub-id pub-id-type="pmid">24971054</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hickman</surname><given-names>S.</given-names></name><name><surname>Izzy</surname><given-names>S.</given-names></name><name><surname>Sen</surname><given-names>P.</given-names></name><name><surname>Morsett</surname><given-names>L.</given-names></name><name><surname>El Khoury</surname><given-names>J.</given-names></name></person-group> (<year>2018</year>). <article-title>Microglia in Neurodegeneration</article-title>. <source>Nat. Neurosci.</source>
+<volume>21</volume>, <fpage>1359</fpage>–<lpage>1369</lpage>. <pub-id pub-id-type="doi">10.1038/s41593-018-0242-x</pub-id>
+<pub-id pub-id-type="pmid">30258234</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hollister-Smith</surname><given-names>J. A.</given-names></name><name><surname>Poole</surname><given-names>J. H.</given-names></name><name><surname>Archie</surname><given-names>E. A.</given-names></name><name><surname>Vance</surname><given-names>E. A.</given-names></name><name><surname>Georgiadis</surname><given-names>N. J.</given-names></name><name><surname>Moss</surname><given-names>C. J.</given-names></name><etal/></person-group> (<year>2007</year>). <article-title>Age, Musth and Paternity success in Wild Male African Elephants, <italic>Loxodonta africana</italic>
+</article-title>. <source>Anim. Behav.</source>
+<volume>74</volume>, <fpage>287</fpage>–<lpage>296</lpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2006.12.008</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Holloway</surname><given-names>R. L.</given-names></name></person-group> (<year>1979</year>). “<article-title>Brain Size, Allometry, and Reorganization: Toward a Synthesis</article-title>,” in <source>
+<italic>Development And Evolution of Brain Size: Behavioral</italic> Implicatons</source>. Editors <person-group person-group-type="editor"><name><surname>Hahn</surname><given-names>M. E.</given-names></name><name><surname>Jensen</surname><given-names>C.</given-names></name><name><surname>Dudek</surname><given-names>B. C.</given-names></name></person-group> (<publisher-loc>New York</publisher-loc>: <publisher-name>Elsevier</publisher-name>). </mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Holt-Lunstad</surname><given-names>J.</given-names></name><name><surname>Smith</surname><given-names>T. B.</given-names></name><name><surname>Layton</surname><given-names>J. B.</given-names></name></person-group> (<year>2010</year>). <article-title>Social Relationships and Mortality Risk: a Meta-Analytic Review</article-title>. <source>PLoS Med.</source>
+<volume>7</volume>, <fpage>e1000316</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pmed.1000316</pub-id>
+<pub-id pub-id-type="pmid">20668659</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jacobs</surname><given-names>B.</given-names></name><name><surname>Lubs</surname><given-names>J.</given-names></name><name><surname>Hannan</surname><given-names>M.</given-names></name><name><surname>Anderson</surname><given-names>K.</given-names></name><name><surname>Butti</surname><given-names>C.</given-names></name><name><surname>Sherwood</surname><given-names>C. C.</given-names></name><etal/></person-group> (<year>2011</year>). <article-title>Neuronal Morphology in the African Elephant (<italic>Loxodonta africana</italic>) Neocortex</article-title>. <source>Brain Struct. Funct.</source>
+<volume>215</volume>, <fpage>273</fpage>–<lpage>298</lpage>. <pub-id pub-id-type="doi">10.1007/s00429-010-0288-3</pub-id>
+<pub-id pub-id-type="pmid">21079992</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jacobson</surname><given-names>S. L.</given-names></name><name><surname>Plotnik</surname><given-names>J. M.</given-names></name></person-group> (<year>2020</year>). <article-title>The Importance of Sensory Perception in an Elephant's Cognitive World</article-title>. <source>Comp. Cogn. Behav. Rev.</source>
+<volume>15</volume>, <fpage>1</fpage>–<lpage>18</lpage>. <pub-id pub-id-type="doi">10.3819/CCBR.2020.150006E</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kastenhuber</surname><given-names>E. R.</given-names></name><name><surname>Lowe</surname><given-names>S. W.</given-names></name></person-group> (<year>2017</year>). <article-title>Putting P53 in Context</article-title>. <source>Cell</source>
+<volume>170</volume>, <fpage>1062</fpage>–<lpage>1078</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2017.08.028</pub-id>
+<pub-id pub-id-type="pmid">28886379</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Keele</surname><given-names>M.</given-names></name></person-group> (<year>2014</year>). <source>Asian Elephant (<italic>Elephas maximus</italic>) North American Studbook.</source>
+<publisher-loc>Oregon</publisher-loc>: <publisher-name>Oregon Zoo. A Service of Metro</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Khalil</surname><given-names>M.</given-names></name><name><surname>Pirpamer</surname><given-names>L.</given-names></name><name><surname>Hofer</surname><given-names>E.</given-names></name><name><surname>Voortman</surname><given-names>M. M.</given-names></name><name><surname>Barro</surname><given-names>C.</given-names></name><name><surname>Leppert</surname><given-names>D.</given-names></name><etal/></person-group> (<year>2020</year>). <article-title>Serum Neurofilament Light Levels in normal Aging and Their Association with Morphologic Brain Changes</article-title>. <source>Nat. Commun.</source>
+<volume>11</volume> (<issue>1</issue>), <fpage>1</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1038/s41467-020-14612-6</pub-id>
+<pub-id pub-id-type="pmid">31911652</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lahdenperä</surname><given-names>M.</given-names></name><name><surname>Mar</surname><given-names>K. U.</given-names></name><name><surname>Lummaa</surname><given-names>V.</given-names></name></person-group> (<year>2014</year>). <article-title>Reproductive Cessation and post-reproductive Lifespan in Asian Elephants and Pre-industrial Humans</article-title>. <source>Front. Zoolog.</source>
+<volume>11</volume>, <fpage>54</fpage>. <pub-id pub-id-type="doi">10.1186/s12983-014-0054-0</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Laptenko</surname><given-names>O.</given-names></name><name><surname>Prives</surname><given-names>C.</given-names></name></person-group> (<year>2006</year>). <article-title>Transcriptional Regulation by P53: One Protein, many Possibilities</article-title>. <source>Cell Death Differ.</source>
+<volume>13</volume>, <fpage>951</fpage>–<lpage>961</lpage>. <pub-id pub-id-type="doi">10.1038/sj.cdd.4401916</pub-id>
+<pub-id pub-id-type="pmid">16575405</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>P. C.</given-names></name><name><surname>Fishlock</surname><given-names>V.</given-names></name><name><surname>Webber</surname><given-names>C. E.</given-names></name><name><surname>Moss</surname><given-names>C. J.</given-names></name></person-group> (<year>2016</year>). <article-title>The Reproductive Advantages of a Long Life: Longevity and Senescence in Wild Female African Elephants</article-title>. <source>Behav. Ecol. Sociobiol.</source>
+<volume>70</volume>, <fpage>337</fpage>–<lpage>345</lpage>. <pub-id pub-id-type="doi">10.1007/s00265-015-2051-5</pub-id>
+<pub-id pub-id-type="pmid">26900212</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>P. C.</given-names></name><name><surname>Moss</surname><given-names>C. J.</given-names></name></person-group> (<year>1995</year>). <article-title>Statural Growth in Known-Age African Elephants (<italic>Loxodonta africana</italic>)</article-title>. <source>J. Zoolog.</source>
+<volume>236</volume>, <fpage>29</fpage>–<lpage>41</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-7998.1995.tb01782.x</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>P. C.</given-names></name><name><surname>Poole</surname><given-names>J. H.</given-names></name><name><surname>Njiraini</surname><given-names>N.</given-names></name><name><surname>Sayialel</surname><given-names>C. N.</given-names></name><name><surname>Moss</surname><given-names>C. J.</given-names></name></person-group> (<year>2011</year>). <source>
+<italic>The Amboseli Elephants</italic> 260-271</source>. <publisher-name>University of Chicago Press</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>P. C.</given-names></name><name><surname>Sayialel</surname><given-names>S.</given-names></name><name><surname>Lindsay</surname><given-names>W. K.</given-names></name><name><surname>Moss</surname><given-names>C. J.</given-names></name></person-group> (<year>2012</year>). <article-title>African Elephant Age Determination from Teeth: Validation from Known Individuals</article-title>. <source>Afr. J. Ecol.</source>
+<volume>50</volume>, <fpage>9</fpage>–<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2028.2011.01286.x</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lemaître</surname><given-names>J. F.</given-names></name><name><surname>Pavard</surname><given-names>S.</given-names></name><name><surname>Giraudeau</surname><given-names>M.</given-names></name><name><surname>Vincze</surname><given-names>O.</given-names></name><name><surname>Jennings</surname><given-names>G.</given-names></name><name><surname>Hamede</surname><given-names>R.</given-names></name><etal/></person-group> (<year>2020</year>). <article-title>Eco‐evolutionary Perspectives of the Dynamic Relationships Linking Senescence and Cancer</article-title>. <source>Funct. Ecol.</source>
+<volume>34</volume>, <fpage>141</fpage>–<lpage>152</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2435.13394</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B44">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lindeque</surname><given-names>M.</given-names></name><name><surname>Jaarsveld</surname><given-names>A. S. v.</given-names></name></person-group> (<year>1993</year>). <article-title>Post-natal Growth of elephantsLoxodonta Africanain Etosha National Park, Namibia</article-title>. <source>J. Zoolog.</source>
+<volume>229</volume>, <fpage>319</fpage>–<lpage>330</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-7998.1993.tb02639.x</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B45">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lucas</surname><given-names>E. R.</given-names></name><name><surname>Keller</surname><given-names>L.</given-names></name></person-group> (<year>2020</year>). <article-title>The Co‐evolution of Longevity and Social Life</article-title>. <source>Funct. Ecol.</source>
+<volume>34</volume>, <fpage>76</fpage>–<lpage>87</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2435.13445</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B47">
+        <mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Mar</surname><given-names>K. U.</given-names></name></person-group> (<year>2001</year>). “<article-title>The Studbook of Timber Elephants of Myanmar with Special Reference to Survivorship Analysis</article-title>,” in <source>Giants on Our Hands: Proceedings of the International Workshop on the Domesticated Asian Elephant</source>. Editors <person-group person-group-type="editor"><name><surname>Baker</surname><given-names>I.</given-names></name><name><surname>Kashio</surname><given-names>M.</given-names></name></person-group> (<publisher-loc>Bangkok</publisher-loc>: <publisher-name>FAO Regional Office for Asia and the Pacific</publisher-name>), <fpage>195</fpage>–<lpage>211</lpage>. </mixed-citation>
+      </ref>
+      <ref id="B48">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Markowitz</surname><given-names>H.</given-names></name><name><surname>Schmidt</surname><given-names>M.</given-names></name><name><surname>Nadal</surname><given-names>L.</given-names></name><name><surname>Squier</surname><given-names>L.</given-names></name></person-group> (<year>1975</year>). <article-title>Do elephants Ever Forget?</article-title>
+<source>J. Appl. Behav. Anal.</source>
+<volume>8</volume>, <fpage>333</fpage>–<lpage>335</lpage>. <pub-id pub-id-type="doi">10.1901/jaba.1975.8-333</pub-id>
+<pub-id pub-id-type="pmid">1184496</pub-id></mixed-citation>
+      </ref>
+      <ref id="B49">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maseko</surname><given-names>B. C.</given-names></name><name><surname>Spocter</surname><given-names>M. A.</given-names></name><name><surname>Haagensen</surname><given-names>M.</given-names></name><name><surname>Manger</surname><given-names>P. R.</given-names></name></person-group> (<year>2012</year>). <article-title>Elephants Have Relatively the Largest Cerebellum Size of Mammals</article-title>. <source>Anat. Rec.</source>
+<volume>295</volume>, <fpage>661</fpage>–<lpage>672</lpage>. <pub-id pub-id-type="doi">10.1002/ar.22425</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B50">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mayne</surname><given-names>B.</given-names></name><name><surname>Berry</surname><given-names>O.</given-names></name><name><surname>Davies</surname><given-names>C.</given-names></name><name><surname>Farley</surname><given-names>J.</given-names></name><name><surname>Jarman</surname><given-names>S.</given-names></name></person-group> (<year>2019</year>). <article-title>A Genomic Predictor of Lifespan in Vertebrates</article-title>. <source>Scientific Rep.</source>
+<volume>9</volume>, <fpage>1</fpage>–<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1038/s41598-019-54447-w</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B51">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McComb</surname><given-names>K.</given-names></name><name><surname>Shannon</surname><given-names>G.</given-names></name><name><surname>Sayialel</surname><given-names>K. N.</given-names></name><name><surname>Moss</surname><given-names>C.</given-names></name></person-group> (<year>2014</year>). <article-title>Elephants Can Determine Ethnicity, Gender, and Age from Acoustic Cues in Human Voices</article-title>. <source>Proc. Natl. Acad. Sci.</source>
+<volume>111</volume>, <fpage>5433</fpage>–<lpage>5438</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1321543111</pub-id>
+<pub-id pub-id-type="pmid">24616492</pub-id></mixed-citation>
+      </ref>
+      <ref id="B52">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mirceta</surname><given-names>S.</given-names></name><name><surname>Signore</surname><given-names>A. V.</given-names></name><name><surname>Burns</surname><given-names>J. M.</given-names></name><name><surname>Cossins</surname><given-names>A. R.</given-names></name><name><surname>Campbell</surname><given-names>K. L.</given-names></name><name><surname>Berenbrink</surname><given-names>M.</given-names></name></person-group> (<year>2013</year>). <article-title>Evolution of Mammalian Diving Capacity Traced by Myoglobin Net Surface Charge</article-title>. <source>Science</source>
+<volume>340</volume>, <fpage>1234192</fpage>. <pub-id pub-id-type="doi">10.1126/science.1234192</pub-id>
+<pub-id pub-id-type="pmid">23766330</pub-id></mixed-citation>
+      </ref>
+      <ref id="B53">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moloney</surname><given-names>C. M.</given-names></name><name><surname>Lowe</surname><given-names>V. J.</given-names></name><name><surname>Murray</surname><given-names>M. E.</given-names></name></person-group> (<year>2021</year>). <article-title>Visualization of Neurofibrillary Tangle Maturity in Alzheimer's Disease: A Clinicopathologic Perspective for Biomarker Research</article-title>. <source>Alzheimer's Demen.</source>, <fpage>1</fpage>–<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1002/alz.12321</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B54">
+        <mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Moss</surname><given-names>C. J.</given-names></name><name><surname>Croze</surname><given-names>H.</given-names></name><name><surname>Lee</surname><given-names>P. C.</given-names></name></person-group> (<year>2011</year>). <source>The Amboseli Elephants: A Long-Term Perspective on a Long-Lived Mammal</source>. <publisher-name>University of Chicago Press</publisher-name>. <pub-id pub-id-type="doi">10.7208/chicago/9780226542263.001.0001</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B55">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moss</surname><given-names>C. J.</given-names></name></person-group> (<year>1983</year>). <article-title>Oestrous Behaviour and Female Choice in the African Elephant</article-title>. <source>Behav.</source>
+<volume>86</volume>, <fpage>167</fpage>–<lpage>195</lpage>. <pub-id pub-id-type="doi">10.1163/156853983x00354</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B56">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moss</surname><given-names>C. J.</given-names></name></person-group> (<year>2001</year>). <article-title>The Demography of an African Elephant (<italic>Loxodonta africana</italic>) Population in Amboseli, Kenya</article-title>. <source>J. Zoolog.</source>
+<volume>255</volume>, <fpage>145</fpage>–<lpage>156</lpage>. <pub-id pub-id-type="doi">10.1017/s0952836901001212</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B57">
+        <mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Moss</surname><given-names>C.</given-names></name><name><surname>Poole</surname><given-names>J.</given-names></name></person-group> (<year>1983</year>). “<article-title>Relationships and Social Structure of African Elephants</article-title>,” in <source>Primate Social Relationships: an Integrated Approach</source>
+<publisher-loc>Oxford</publisher-loc>: <publisher-name>Blackwell Scientific Publications</publisher-name>, <fpage>315</fpage>–<lpage>325</lpage>. </mixed-citation>
+      </ref>
+      <ref id="B58">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mota</surname><given-names>B.</given-names></name><name><surname>Herculano-Houzel</surname><given-names>S.</given-names></name></person-group> (<year>2015</year>). <article-title>Cortical Folding Scales Universally with Surface Area and Thickness, Not Number of Neurons</article-title>. <source>Science</source>
+<volume>349</volume>, <fpage>74</fpage>–<lpage>77</lpage>. <pub-id pub-id-type="doi">10.1126/science.aaa9101</pub-id>
+<pub-id pub-id-type="pmid">26138976</pub-id></mixed-citation>
+      </ref>
+      <ref id="B59">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Murphy</surname><given-names>D.</given-names></name><name><surname>Mumby</surname><given-names>H. S.</given-names></name><name><surname>Henley</surname><given-names>M. D.</given-names></name></person-group> (<year>2020</year>). <article-title>Age Differences in the Temporal Stability of a Male African Elephant (<italic>Loxodonta africana</italic>) Social Network</article-title>. <source>Behav. Ecol.</source>
+<volume>31</volume>, <fpage>21</fpage>–<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1093/beheco/arz152</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B60">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Panek</surname><given-names>W. K.</given-names></name><name><surname>Gruen</surname><given-names>M. E.</given-names></name><name><surname>Murdoch</surname><given-names>D. M.</given-names></name><name><surname>Marek</surname><given-names>R. D.</given-names></name><name><surname>Stachel</surname><given-names>A. F.</given-names></name><name><surname>Mowat</surname><given-names>F. M.</given-names></name><etal/></person-group> (<year>2020</year>). <article-title>Plasma Neurofilament Light Chain as a Translational Biomarker of Aging and Neurodegeneration in Dogs</article-title>. <source>Mol. Neurobiol.</source>
+<volume>57</volume>, <fpage>3143</fpage>–<lpage>3149</lpage>. <pub-id pub-id-type="doi">10.1007/s12035-020-01951-0</pub-id>
+<pub-id pub-id-type="pmid">32472519</pub-id></mixed-citation>
+      </ref>
+      <ref id="B61">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Patzke</surname><given-names>N.</given-names></name><name><surname>Olaleye</surname><given-names>O.</given-names></name><name><surname>Haagensen</surname><given-names>M.</given-names></name><name><surname>Hof</surname><given-names>P. R.</given-names></name><name><surname>Ihunwo</surname><given-names>A. O.</given-names></name><name><surname>Manger</surname><given-names>P. R.</given-names></name></person-group> (<year>2014</year>). <article-title>Organization and Chemical Neuroanatomy of the African Elephant (<italic>Loxodonta africana</italic>) hippocampus</article-title>. <source>Brain Struct. Funct.</source>
+<volume>219</volume>, <fpage>1587</fpage>–<lpage>1601</lpage>. <pub-id pub-id-type="doi">10.1007/s00429-013-0587-6</pub-id>
+<pub-id pub-id-type="pmid">23728481</pub-id></mixed-citation>
+      </ref>
+      <ref id="B62">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pink</surname><given-names>R. C.</given-names></name><name><surname>Wicks</surname><given-names>K.</given-names></name><name><surname>Caley</surname><given-names>D. P.</given-names></name><name><surname>Punch</surname><given-names>E. K.</given-names></name><name><surname>Jacobs</surname><given-names>L.</given-names></name><name><surname>Francisco Carter</surname><given-names>D. R.</given-names></name></person-group> (<year>2011</year>). <article-title>Pseudogenes: Pseudo-functional or Key Regulators in Health and Disease?</article-title>
+<source>Rna</source>
+<volume>17</volume>, <fpage>792</fpage>–<lpage>798</lpage>. <pub-id pub-id-type="doi">10.1261/rna.2658311</pub-id>
+<pub-id pub-id-type="pmid">21398401</pub-id></mixed-citation>
+      </ref>
+      <ref id="B63">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Plotnik</surname><given-names>J. M.</given-names></name><name><surname>de Waal</surname><given-names>F. B. M.</given-names></name></person-group> (<year>2014</year>). <article-title>Asian Elephants (<italic>Elephas maximus</italic>) Reassure Others in Distress</article-title>. <source>PeerJ</source>
+<volume>2</volume>, <fpage>e278</fpage>. <pub-id pub-id-type="doi">10.7717/peerj.278</pub-id>
+<pub-id pub-id-type="pmid">24688856</pub-id></mixed-citation>
+      </ref>
+      <ref id="B64">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Plotnik</surname><given-names>J. M.</given-names></name><name><surname>de Waal</surname><given-names>F. B. M.</given-names></name><name><surname>Moore</surname><given-names>D.</given-names><suffix>III</suffix></name><name><surname>Reiss</surname><given-names>D.</given-names></name></person-group> (<year>2010</year>). <article-title>Self-recognition in the Asian Elephant and Future Directions for Cognitive Research with Elephants in Zoological Settings</article-title>. <source>Zoo Biol.</source>
+<volume>29</volume>, <fpage>179</fpage>–<lpage>191</lpage>. <pub-id pub-id-type="doi">10.1002/zoo.20257</pub-id>
+<pub-id pub-id-type="pmid">19514017</pub-id></mixed-citation>
+      </ref>
+      <ref id="B65">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Plotnik</surname><given-names>J. M.</given-names></name><name><surname>Lair</surname><given-names>R.</given-names></name><name><surname>Suphachoksahakun</surname><given-names>W.</given-names></name><name><surname>De Waal</surname><given-names>F. B. M.</given-names></name></person-group> (<year>2011</year>). <article-title>Elephants Know when They Need a Helping Trunk in a Cooperative Task</article-title>. <source>Proc. Natl. Acad. Sci.</source>
+<volume>108</volume>, <fpage>5116</fpage>–<lpage>5121</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1101765108</pub-id>
+<pub-id pub-id-type="pmid">21383191</pub-id></mixed-citation>
+      </ref>
+      <ref id="B66">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Polansky</surname><given-names>L.</given-names></name><name><surname>Kilian</surname><given-names>W.</given-names></name><name><surname>Wittemyer</surname><given-names>G.</given-names></name></person-group> (<year>2015</year>). <article-title>Elucidating the Significance of Spatial Memory on Movement Decisions by African savannah Elephants Using State-Space Models</article-title>. <source>Proc. R. Soc. B.</source>
+<volume>282</volume>, <fpage>20143042</fpage>. <pub-id pub-id-type="doi">10.1098/rspb.2014.3042</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B67">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Prado</surname><given-names>N. A.</given-names></name><name><surname>Brown</surname><given-names>J. L.</given-names></name><name><surname>Zoller</surname><given-names>J. A.</given-names></name><name><surname>Haghani</surname><given-names>A.</given-names></name><name><surname>Yao</surname><given-names>M.</given-names></name><name><surname>Bagryanova</surname><given-names>L. R.</given-names></name><etal/></person-group> (<year>2021</year>). <article-title>Epigenetic Clock and Methylation Studies in Elephants</article-title>. <source>Aging Cell.</source>
+<volume>20</volume>, <fpage>e13414</fpage>. <pub-id pub-id-type="doi">10.1111/acel.13414</pub-id>
+<pub-id pub-id-type="pmid">34118182</pub-id></mixed-citation>
+      </ref>
+      <ref id="B68">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Preische</surname><given-names>O.</given-names></name><name><surname>Schultz</surname><given-names>S. A.</given-names></name><name><surname>Schultz</surname><given-names>S. A.</given-names></name><name><surname>Apel</surname><given-names>A.</given-names></name><name><surname>Kuhle</surname><given-names>J.</given-names></name><name><surname>Kaeser</surname><given-names>S. A.</given-names></name><etal/></person-group> (<year>2019</year>). <article-title>Serum Neurofilament Dynamics Predicts Neurodegeneration and Clinical Progression in Presymptomatic Alzheimer's Disease</article-title>. <source>Nat. Med.</source>
+<volume>25</volume>, <fpage>277</fpage>–<lpage>283</lpage>. <pub-id pub-id-type="doi">10.1038/s41591-018-0304-3</pub-id>
+<pub-id pub-id-type="pmid">30664784</pub-id></mixed-citation>
+      </ref>
+      <ref id="B69">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rohland</surname><given-names>N.</given-names></name><name><surname>Malaspinas</surname><given-names>A.-S.</given-names></name><name><surname>Pollack</surname><given-names>J. L.</given-names></name><name><surname>Slatkin</surname><given-names>M.</given-names></name><name><surname>Matheus</surname><given-names>P.</given-names></name><name><surname>Hofreiter</surname><given-names>M.</given-names></name></person-group> (<year>2007</year>). <article-title>Proboscidean Mitogenomics: Chronology and Mode of Elephant Evolution Using Mastodon as Outgroup</article-title>. <source>Plos Biol.</source>
+<volume>5</volume>, <fpage>e207</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pbio.0050207</pub-id>
+<pub-id pub-id-type="pmid">17676977</pub-id></mixed-citation>
+      </ref>
+      <ref id="B70">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Roth</surname><given-names>V. L.</given-names></name></person-group> (<year>1984</year>). <article-title>How Elephants Grow: Heterochrony and the Calibration of Developmental Stages in Some Living and Fossil Species</article-title>. <source>J. Vertebr. Paleontol.</source>
+<volume>4</volume>, <fpage>126</fpage>–<lpage>145</lpage>. <pub-id pub-id-type="doi">10.1080/02724634.1984.10011993</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B71">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shoshani</surname><given-names>J.</given-names></name><name><surname>Kupsky</surname><given-names>W. J.</given-names></name><name><surname>Marchant</surname><given-names>G. H.</given-names></name></person-group> (<year>2006</year>). <article-title>Elephant Brain</article-title>. <source>Brain Res. Bull.</source>
+<volume>70</volume>, <fpage>124</fpage>–<lpage>157</lpage>. <pub-id pub-id-type="doi">10.1016/j.brainresbull.2006.03.016</pub-id>
+<pub-id pub-id-type="pmid">16782503</pub-id></mixed-citation>
+      </ref>
+      <ref id="B72">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shoshani</surname><given-names>J.</given-names></name></person-group> (<year>1998</year>). <article-title>Understanding Proboscidean Evolution: a Formidable Task</article-title>. <source>Trends Ecol. Evol.</source>
+<volume>13</volume>, <fpage>480</fpage>–<lpage>487</lpage>. <pub-id pub-id-type="doi">10.1016/s0169-5347(98)01491-8</pub-id>
+<pub-id pub-id-type="pmid">21238404</pub-id></mixed-citation>
+      </ref>
+      <ref id="B73">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Silk</surname><given-names>J. B.</given-names></name><name><surname>Beehner</surname><given-names>J. C.</given-names></name><name><surname>Bergman</surname><given-names>T. J.</given-names></name><name><surname>Crockford</surname><given-names>C.</given-names></name><name><surname>Engh</surname><given-names>A. L.</given-names></name><name><surname>Moscovice</surname><given-names>L. R.</given-names></name><etal/></person-group> (<year>2010</year>). <article-title>Strong and Consistent Social Bonds Enhance the Longevity of Female Baboons</article-title>. <source>Curr. Biol.</source>
+<volume>20</volume>, <fpage>1359</fpage>–<lpage>1361</lpage>. <pub-id pub-id-type="doi">10.1016/j.cub.2010.05.067</pub-id>
+<pub-id pub-id-type="pmid">20598541</pub-id></mixed-citation>
+      </ref>
+      <ref id="B74">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Smaers</surname><given-names>J. B.</given-names></name><name><surname>Turner</surname><given-names>A. H.</given-names></name><name><surname>Gómez-Robles</surname><given-names>A.</given-names></name><name><surname>Sherwood</surname><given-names>C. C.</given-names></name></person-group> (<year>2018</year>). <article-title>A Cerebellar Substrate for Cognition Evolved Multiple Times Independently in Mammals</article-title>. <source>Elife</source>
+<volume>7</volume>, <fpage>e35696</fpage>. <pub-id pub-id-type="doi">10.7554/elife.35696</pub-id>
+<pub-id pub-id-type="pmid">29809137</pub-id></mixed-citation>
+      </ref>
+      <ref id="B75">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Spillantini</surname><given-names>M. G.</given-names></name><name><surname>Goedert</surname><given-names>M.</given-names></name></person-group> (<year>2013</year>). <article-title>Tau Pathology and Neurodegeneration</article-title>. <source>Lancet Neurol.</source>
+<volume>12</volume>, <fpage>609</fpage>–<lpage>622</lpage>. <pub-id pub-id-type="doi">10.1016/s1474-4422(13)70090-5</pub-id>
+<pub-id pub-id-type="pmid">23684085</pub-id></mixed-citation>
+      </ref>
+      <ref id="B76">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Street</surname><given-names>S. E.</given-names></name><name><surname>Navarrete</surname><given-names>A. F.</given-names></name><name><surname>Reader</surname><given-names>S. M.</given-names></name><name><surname>Laland</surname><given-names>K. N.</given-names></name></person-group> (<year>2017</year>). <article-title>Coevolution of Cultural Intelligence, Extended Life History, Sociality, and Brain Size in Primates</article-title>. <source>Proc. Natl. Acad. Sci. USA.</source>
+<volume>114</volume>, <fpage>7908</fpage>–<lpage>7914</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1620734114</pub-id>
+<pub-id pub-id-type="pmid">28739950</pub-id></mixed-citation>
+      </ref>
+      <ref id="B77">
+        <mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Sukumar</surname><given-names>R.</given-names></name></person-group> (<year>2003</year>). <source>The Living Elephants: Evolutionary Ecology, Behaviour, and Conservation</source>. <publisher-loc>New York</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B78">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sweatt</surname><given-names>J. D.</given-names></name></person-group> (<year>2004</year>). <article-title>Hippocampal Function in Cognition</article-title>. <source>Psychopharmacology</source>
+<volume>174</volume>, <fpage>99</fpage>–<lpage>110</lpage>. <pub-id pub-id-type="doi">10.1007/s00213-004-1795-9</pub-id>
+<pub-id pub-id-type="pmid">15205881</pub-id></mixed-citation>
+      </ref>
+      <ref id="B46">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sulak</surname><given-names>M.</given-names></name><name><surname>Fong</surname><given-names>L.</given-names></name><name><surname>Mika</surname><given-names>K.</given-names></name><name><surname>Chigurupati</surname><given-names>S.</given-names></name><name><surname>Yon</surname><given-names>L.</given-names></name><name><surname>Mongan</surname><given-names>N. P.</given-names></name><etal/></person-group> (<year>2016</year>). <article-title>TP53 Copy Number Expansion Is Associated with the Evolution of Increased Body Size and an Enhanced DNA Damage Response in Elephants</article-title>. <source>elife</source>
+<volume>5</volume>, <fpage>e11994</fpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2006.12.008</pub-id>
+<pub-id pub-id-type="pmid">27642012</pub-id></mixed-citation>
+      </ref>
+      <ref id="B79">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tollis</surname><given-names>M.</given-names></name><name><surname>Ferris</surname><given-names>E.</given-names></name><name><surname>Campbell</surname><given-names>M. S.</given-names></name><name><surname>Harris</surname><given-names>V. K.</given-names></name><name><surname>Rupp</surname><given-names>S. M.</given-names></name><name><surname>Harrison</surname><given-names>T. M.</given-names></name><etal/></person-group> (<year>2020</year>). <article-title>Elephant Genomes Reveal Accelerated Evolution in Mechanisms Underlying Disease Defenses</article-title>. <source>Mol. Biol. Evol.</source>
+<volume>2021</volume>, <fpage>msab127</fpage>. <pub-id pub-id-type="doi">10.1093/molbev/msab127</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B80">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tsartsalis</surname><given-names>S.</given-names></name><name><surname>Xekardaki</surname><given-names>A.</given-names></name><name><surname>Hof</surname><given-names>P. R.</given-names></name><name><surname>Kövari</surname><given-names>E.</given-names></name><name><surname>Bouras</surname><given-names>C.</given-names></name></person-group> (<year>2018</year>). <article-title>Early Alzheimer-type Lesions in Cognitively normal Subjects</article-title>. <source>Neurobiol. Aging.</source>
+<volume>62</volume>, <fpage>34</fpage>–<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2017.10.002</pub-id>
+<pub-id pub-id-type="pmid">29107845</pub-id></mixed-citation>
+      </ref>
+      <ref id="B81">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tung</surname><given-names>J.</given-names></name><name><surname>Archie</surname><given-names>E. A.</given-names></name><name><surname>Altmann</surname><given-names>J.</given-names></name><name><surname>Alberts</surname><given-names>S. C.</given-names></name></person-group> (<year>2016</year>). <article-title>Cumulative Early Life Adversity Predicts Longevity in Wild Baboons</article-title>. <source>Nat. Commun.</source>
+<volume>7</volume>, <fpage>1</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1038/ncomms11181</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B82">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Turkalo</surname><given-names>A. K.</given-names></name><name><surname>Wrege</surname><given-names>P. H.</given-names></name><name><surname>Wittemyer</surname><given-names>G.</given-names></name></person-group> (<year>2018</year>). <article-title>Demography of a forest Elephant Population</article-title>. <source>PloS one</source>
+<volume>13</volume>, <fpage>e0192777</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0192777</pub-id>
+<pub-id pub-id-type="pmid">29447207</pub-id></mixed-citation>
+      </ref>
+      <ref id="B83">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Turkalo</surname><given-names>A. K.</given-names></name><name><surname>Wrege</surname><given-names>P. H.</given-names></name><name><surname>Wittemyer</surname><given-names>G.</given-names></name></person-group> (<year>2017</year>). <article-title>Slow Intrinsic Growth Rate in forest Elephants Indicates Recovery from Poaching Will Require Decades</article-title>. <source>J. Appl. Ecol.</source>
+<volume>54</volume>, <fpage>153</fpage>–<lpage>159</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2664.12764</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B84">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vazquez</surname><given-names>J. M.</given-names></name><name><surname>Sulak</surname><given-names>M.</given-names></name><name><surname>Chigurupati</surname><given-names>S.</given-names></name><name><surname>Lynch</surname><given-names>V. J.</given-names></name></person-group> (<year>2018</year>). <article-title>A Zombie LIF Gene in Elephants Is Upregulated by TP53 to Induce Apoptosis in Response to DNA Damage</article-title>. <source>Cel Rep.</source>
+<volume>24</volume>, <fpage>1765</fpage>–<lpage>1776</lpage>. <pub-id pub-id-type="doi">10.1016/j.celrep.2018.07.042</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B85">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Williams</surname><given-names>A. B.</given-names></name><name><surname>Schumacher</surname><given-names>B.</given-names></name></person-group> (<year>2016</year>). <article-title>p53 in the DNA-Damage-Repair Process</article-title>. <source>Cold Spring Harb Perspect. Med.</source>
+<volume>6</volume>, <fpage>a026070</fpage>. <pub-id pub-id-type="doi">10.1101/cshperspect.a026070</pub-id>
+<pub-id pub-id-type="pmid">27048304</pub-id></mixed-citation>
+      </ref>
+      <ref id="B86">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wittemyer</surname><given-names>G.</given-names></name><name><surname>Daballen</surname><given-names>D.</given-names></name><name><surname>Douglas-Hamilton</surname><given-names>I.</given-names></name></person-group> (<year>2013</year>). <article-title>Comparative Demography of an At-Risk African Elephant Population</article-title>. <source>PloS one</source>
+<volume>8</volume>, <fpage>e53726</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0053726</pub-id>
+<pub-id pub-id-type="pmid">23341984</pub-id></mixed-citation>
+      </ref>
+      <ref id="B87">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wittemyer</surname><given-names>G.</given-names></name><name><surname>Douglas-Hamilton</surname><given-names>I.</given-names></name><name><surname>Getz</surname><given-names>W. M.</given-names></name></person-group> (<year>2005</year>). <article-title>The Socioecology of Elephants: Analysis of the Processes Creating Multitiered Social Structures</article-title>. <source>Anim. Behav.</source>
+<volume>69</volume>, <fpage>1357</fpage>–<lpage>1371</lpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2004.08.018</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B88">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wittemyer</surname><given-names>G.</given-names></name><name><surname>Northrup</surname><given-names>J. M.</given-names></name><name><surname>Blanc</surname><given-names>J.</given-names></name><name><surname>Douglas-Hamilton</surname><given-names>I.</given-names></name><name><surname>Omondi</surname><given-names>P.</given-names></name><name><surname>Burnham</surname><given-names>K. P.</given-names></name></person-group> (<year>2014</year>). <article-title>Illegal Killing for Ivory Drives Global Decline in African Elephants</article-title>. <source>Proc. Natl. Acad. Sci.</source>
+<volume>111</volume>, <fpage>13117</fpage>–<lpage>13121</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1403984111</pub-id>
+<pub-id pub-id-type="pmid">25136107</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

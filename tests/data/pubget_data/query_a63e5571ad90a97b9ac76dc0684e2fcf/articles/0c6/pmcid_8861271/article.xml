@@ -1,0 +1,862 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Cardiovasc Med</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Cardiovasc Med</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Cardiovasc. Med.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Cardiovascular Medicine</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2297-055X</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">35211524</article-id>
+      <article-id pub-id-type="pmc">8861271</article-id>
+      <article-id pub-id-type="doi">10.3389/fcvm.2022.806822</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Cardiovascular Medicine</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Total Arch Replacement With Frozen Elephant Trunk Using a NEW “Brain-Heart-First” Strategy for Acute DeBakey Type I Aortic Dissection Can Be Performed Under Mild Hypothermia (≥30°C) With Satisfactory Outcomes</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shen</surname>
+            <given-names>Kangjun</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="fn002" ref-type="author-notes">
+<sup>†</sup>
+</xref>
+          <uri xlink:href="http://loop.frontiersin.org/people/1540130/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tan</surname>
+            <given-names>Ling</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="fn002" ref-type="author-notes">
+<sup>†</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Tang</surname>
+            <given-names>Hao</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="c001" ref-type="corresp">
+<sup>*</sup>
+</xref>
+          <uri xlink:href="http://loop.frontiersin.org/people/1606417/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhou</surname>
+            <given-names>Xinmin</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Xiao</surname>
+            <given-names>Jun</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Xie</surname>
+            <given-names>Dongshu</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Jingyu</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Yichuan</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1"><sup>1</sup><institution>Department of Cardiovascular Surgery, The Second Xiangya Hospital of Central South University</institution>, <addr-line>Changsha</addr-line>, <country>China</country></aff>
+      <aff id="aff2"><sup>2</sup><institution>Department of Cardiac Surgery, Union Hospital, Fujian Medical University</institution>, <addr-line>Fuzhou</addr-line>, <country>China</country></aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: Robert Jeenchen Chen, Stanford University, United States</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: Shaojung Li, Taipei Muncipal Wan Fang Hospital, Taiwan; Michael Hofmann, University of Zurich, Switzerland</p>
+        </fn>
+        <corresp id="c001">*Correspondence: Hao Tang <email>dr.tanghao@csu.edu.cn</email></corresp>
+        <fn fn-type="other" id="fn001">
+          <p>This article was submitted to Heart Surgery, a section of the journal Frontiers in Cardiovascular Medicine</p>
+        </fn>
+        <fn fn-type="equal" id="fn002">
+          <p>†These authors have contributed equally to this work and share first authorship</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>08</day>
+        <month>2</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2022</year>
+      </pub-date>
+      <volume>9</volume>
+      <elocation-id>806822</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>01</day>
+          <month>11</month>
+          <year>2021</year>
+        </date>
+        <date date-type="accepted">
+          <day>17</day>
+          <month>1</month>
+          <year>2022</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2022 Shen, Tan, Tang, Zhou, Xiao, Xie, Li and Chen.</copyright-statement>
+        <copyright-year>2022</copyright-year>
+        <copyright-holder>Shen, Tan, Tang, Zhou, Xiao, Xie, Li and Chen</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Background</title>
+          <p>Total arch replacement (TAR) with Frozen elephant trunk (FET) treatment of acute DeBakey type I aortic dissection (ADIAD) is complicated, carries a high complication/mortality risk and remains controversial on the optimal hypothermic level, cerebral perfusion and visceral organ protection strategy. We developed a new strategy named “Brain-Heart-first” in which the surgical procedures and the management of cardiac perfusion/cerebral protection during Cardiopulmonary bypass (CPB) were redesigned, and TAR with FET technique can be performed under mild hypothermia with satisfactory outcomes.</p>
+        </sec>
+        <sec>
+          <title>Objective</title>
+          <p>Our aims were to describe a new surgical strategy under mild hypothermia (≥30°C) for the treatment of ADIAD and to report the operative outcomes of 215 patients.</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p>We conducted a retrospective analysis of 215 consecutive cases of ADIAD treated with our new strategy.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>The durations of CPB, aortic cross-clamping, antegrade cerebral perfusion, operation, mechanical ventilation support, and Intensive Care Unit stay were 139.7 ± 52.3 min, 55.6 ± 27.4 min, 14.1 ± 3.1 min, 6.0 ± 1.7 h, 40.0 h and 4.0 d, respectively. The 30-day mortality was 9.8%, with cerebral stroke occurring in nine patients (4.2%), paraplegia in one patient (0.5%) and postoperative renal injury requiring dialysis in 21 patients (9.8%). The blood transfusion of red blood cells and fresh frozen plasma during surgery and the first 24 h after surgery was 4.0 u and 200.0 ml, respectively.</p>
+        </sec>
+        <sec>
+          <title>Conclusions</title>
+          <p>The Brain-Heart-first strategy can be widely used with low technical and resource requirements and provides a safe alternative for conventional TAR with FET technique in ADIAD patients with satisfactory operative results.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>total arch replacement</kwd>
+        <kwd>frozen elephant trunk</kwd>
+        <kwd>mild hypothermia</kwd>
+        <kwd>heart-brain-first</kwd>
+        <kwd>acute DeBakey type I aortic dissection</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn001">
+            <institution-wrap>
+              <institution>Key Research and Development Program of Hunan Province of China</institution>
+              <institution-id institution-id-type="doi">10.13039/501100019091</institution-id>
+            </institution-wrap>
+          </funding-source>
+          <award-id award-type="contract" rid="cn001">2019SK2022</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="4"/>
+        <equation-count count="0"/>
+        <ref-count count="26"/>
+        <page-count count="7"/>
+        <word-count count="5415"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="s1">
+      <title>Introduction</title>
+      <p>Although the application of total arch replacement (TAR) combined with frozen elephant trunk (FET) technique in acute DeBakey type I aortic dissection (ADIAD) still remains controversial, it has evolved as an accepted choice for patients with aortic disease involving the aortic arch and supra-arch branches (including ADIAD) (<xref rid="B1" ref-type="bibr">1</xref>–<xref rid="B5" ref-type="bibr">5</xref>). However, this technique is an extended, complex, time-consuming and skill-demanding surgical strategy (<xref rid="B1" ref-type="bibr">1</xref>–<xref rid="B5" ref-type="bibr">5</xref>). Deep hypothermic circulatory arrest (DHCA) seems to be necessary, and therefore different strategies of cerebral perfusion (unilateral/bilateral and antegrade/retrograde cerebral perfusion) are developed (<xref rid="B2" ref-type="bibr">2</xref>–<xref rid="B6" ref-type="bibr">6</xref>). There is no consensus on the optimal hypothermia level (mild, moderate, or deep), cerebral perfusion, and visceral organ protection currently. Various modifications of the technique [hybrid procedures or new devices, such as triple-branched stent graft (<xref rid="B7" ref-type="bibr">7</xref>) and custom-made E-Vita graft (<xref rid="B8" ref-type="bibr">8</xref>)] have been reported to dispense the constraint of DHCA, decrease the operative invasiveness, and increase safety by optimizing or simplifying the procedures (<xref rid="B6" ref-type="bibr">6</xref>–<xref rid="B13" ref-type="bibr">13</xref>). However, the application of these modified techniques is limited due to their inherent deficiencies, e.g., restricted surgical indications, requirement for well-equipped hybrid surgical units, and necessity of validation through long-term clinical trials (<xref rid="B6" ref-type="bibr">6</xref>–<xref rid="B13" ref-type="bibr">13</xref>). Conventional TAR with FET technique is still the mainstream choice for ADIAD. Based on our preliminary improvement on the conventional technique (the Arch-first strategy) (<xref rid="B14" ref-type="bibr">14</xref>), we further optimized and redesigned the conventional TAR with FET procedure to decrease the difficulty in operation, shorten operation time, reduce postoperative complications and 30-day mortality. This optimized procedure can be performed under mild hypothermia (≥30°C) and was designated as the “Brain-Heart-first” strategy. In the present study, we described the modifications and surgical outcomes retrospectively.</p>
+    </sec>
+    <sec sec-type="materials and methods" id="s2">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Patient Enrollment</title>
+        <p>A total of 215 consecutive patients with ADIAD who underwent treatment using our new Brain-Heart-first strategy under mild hypothermia (≥30°C) by a single surgical team were enrolled between May 1, 2017 and December 31, 2020. The preoperative characteristics of patients are listed in <xref rid="T1" ref-type="table">Table 1</xref>.</p>
+        <table-wrap position="float" id="T1">
+          <label>Table 1</label>
+          <caption>
+            <p>Characteristics of 215 consecutive patients with ADIAD who underwent treatment using the Brain-Heart-first strategy.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Variable</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>The whole cohort</bold>
+</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Male gender [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">168 (78.1)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Age (years)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">50.5 ± 11.5</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hypertension [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">153 (71.2)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Diabetes [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4 (1.9)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Marfan syndrome [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7 (3.3)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Bicuspid aortic valve [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2 (0.9)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Coronary heart disease [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">30 (14.0)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cardiac valve surgery [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3 (1.4)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Thoracic endovascular repair [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5 (2.3)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Percutaneous coronary intervention [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5 (2.3)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Preoperative renal injury [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">39 (18.1)</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>Preoperative renal injury was defined with a creatinine clearance rate &lt; 50 ml/min</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Surgical Procedures</title>
+        <p>General anesthesia was administered. Two atrial pressure lines (1 left radial and 1 left/right pedal) and a transesophageal echocardiographic monitoring probe were placed routinely. Bilateral regional cerebral oxygen saturation was monitored using near-infrared spectroscopy (NIRS) (CAS Medical systems, Inc., Branford, CT, USA). Cardiopulmonary bypass (CPB) was instituted through the right atria to the right axillary artery by cannulation (one end of the Y-shaped arterial perfusion cannula is inserted into the right axillary artery). Femoral artery cannulation was performed if necessary, e.g., when the pumping pressure was &gt;250 mmHg. CPB was initiated with a flow rate of 2.0-2.4 L/m<sup>2</sup>/min, and systemic cooling was commenced to induce mild hypothermia. During the cooling phase, the ascending aorta was replaced using a 4-branched graft, and the aorta root/valve/coronary was reconstructed or replaced if necessary. Approximately 4-5cm length was reserved at the proximal end of the 4-branched graft to cross-clamping during the potential reoperation (<xref rid="F1" ref-type="fig">Figure 1A</xref>).</p>
+        <fig position="float" id="F1">
+          <label>Figure 1</label>
+          <caption>
+            <p>The surgical procedures of the Brain-Heart-first strategy. <bold>(A)</bold> One end of the Y-shaped arterial perfusion cannula (a) is inserted into the right axillary artery to supply the body. The ascending aorta is replaced using a 4-branched graft, and the aortic root/valve/coronary is reconstructed or replaced if necessary. <bold>(B)</bold> The LCCA is anastomosed with the 2nd branch of the 4-branched graft, and the IA and LSA supply the cerebral circulation system temporarily. <bold>(C)</bold> The other end of the Y-shaped arterial perfusion cannula (b) is connected with the 1st branch of the 4-branched graft, and the trunk of the graft is cross-clamped between the 2nd and the 3rd branches after de-airing adequately. Continuous perfusion to the heart and LCCA is achieved. The blood pressure of the LCCA is monitored by an arterial pressure catheter (c) and adjusted by partially clamping the perfusion tube in the 1st branch (d). <bold>(D)</bold> The stented graft is inserted into the true lumen of the descending aorta and anastomosed with the 4-branched graft. <bold>(E)</bold> The perfusion in the lower body is resumed, and the LSA is anastomosed with the 3rd branch of the 4-branched graft. <bold>(F)</bold> The perfusion tube is transferred from the first branch to the 4th branch of the 4-branched graft, and the IA is anastomosed with the 1st branch. LCCA, left common carotid artery; IA, innominate artery; LSA, left subclavian artery.</p>
+          </caption>
+          <graphic xlink:href="fcvm-09-806822-g0001" position="float"/>
+        </fig>
+        <p>After reconstruction of the ascending aorta and/or aortic root, the left common carotid artery (LCCA) was anastomosed with the second branch of the 4-branched graft, and the innominate artery (IA) and the left subclavian artery (LSA) supplied the cerebral circulation system temporarily (<xref rid="F1" ref-type="fig">Figure 1B</xref>). Then, the other end of the Y-shaped arterial perfusion cannula was connected with the first branch of the 4-branched graft, and the trunk of the 4-branched graft was cross-clamped between the second and the third branches to obtain enough operation space to complete the distal anastomosis between the trunk of 4-branched graft and the stented graft. The LCCA was then de-clamped after de-airing, and continuous perfusion to the heart and the LCCA was achieved (<xref rid="F1" ref-type="fig">Figure 1C</xref>). The blood pressure of the LCCA was monitored by an arterial pressure catheter in the second branch. Then the pressure of LCCA was adjusted to be equal to the blood pressure of the left radial artery by partially clamping the perfusion tube in the first branch to balance the cerebral flow rate and avoid excessive irrigation (<xref rid="F1" ref-type="fig">Figure 1C</xref>). After that, the LSA was cross-clamped, ligatured, and cut off. The perfusion flow rate was decreased to 1.0-1.2 L/m<sup>2</sup>/min and the IA was cross-clamped, ligatured, and cut off. Meanwhile, the perfusion flow rate was regulated based on pump pressure and NIRS monitoring to ensure the fluctuation of rSO<sub>2</sub> and the blood pressure in the LCCA of &lt;10% above or below the baseline. Then, the circulatory arrest of the lower body was instituted. The aorta arch was transected at the end part of zone-0 or the initial part of zone-1 (<xref rid="B15" ref-type="bibr">15</xref>) (<xref rid="F1" ref-type="fig">Figure 1C</xref>). After clarifying the true and false lumen carefully, a 12-cm CRONUS stented graft (Microport Scientific Corp, Shanghai, China) was inserted into the true lumen of the descending aorta under direct vision, and the stented graft was anastomosed to the adventitia end-to-end with the 4-branched graft (<xref rid="F1" ref-type="fig">Figure 1D</xref>). After anastomosis and de-airing, the clamps on the trunk of 4-branched graft and the clamp on the perfusion tube in the first branch were removed, and the perfusion in the lower body was resumed, the CPB flow rate was returned to 2.0-2.4 L/m<sup>2</sup>/min, then the LSA was anastomosed with the third branch of the 4-branche graft (<xref rid="F1" ref-type="fig">Figure 1E</xref>). Rewarming was initiated when the SvO<sub>2</sub> (oxygen saturation of mixed venous blood) reached &gt;70%. After the LSA was anastomosed, the blood pressure of the left radial artery was recovered, and then the arterial pressure catheter in the second branch could be removed. The perfusion tube was transferred from the first branch to the fourth branch of the 4-branched graft (reducing the perfusion flow rate to 8 ml/kg.min within 10 s), and the IA was anastomosed with the first branch finally (<xref rid="F1" ref-type="fig">Figure 1F</xref>). After rewarming, the patient was weaned from CPB, and the remainder of the procedures, including securing hemostasis and sternal closure, was routinely performed.</p>
+      </sec>
+      <sec>
+        <title>Follow-Up</title>
+        <p>All survivors were contacted by telephone or direct interviews. They were followed up by means of general examination, computed tomography angiography and/or echocardiography before discharge, at 3 months after surgery, and annually thereafter.</p>
+      </sec>
+      <sec>
+        <title>Data Collection</title>
+        <p>The data were collected from hospital records at the Department of Cardiovascular Surgery of The Second Xiangya Hospital of Central South University (Changsha, Hunan, China). The informed consent was signed by all patients to allow the use of their data for research, and this study was approved by the Ethics Committee of the Second Xiangya Hospital (Ethics Committee approval number: K066).</p>
+      </sec>
+      <sec>
+        <title>Statistical Analysis</title>
+        <p>Data were statistically analyzed using SPSS 22.0 software (IBM Corp., Armonk, NY, USA). Continuous, normally distributed variables are presented as mean ± standard deviation. Continuous, non-normally distributed variables were shown as the median (quartile; Q<sub>25</sub>, Q<sub>75</sub>). Categorical variables are presented as absolute numbers and percentages.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="s3">
+      <title>Results</title>
+      <sec>
+        <title>Operative Characteristics</title>
+        <p>There were no intraoperative deaths, and no aortic root wrapping or right atrium shunting was required. The operative data and concomitant procedures are summarized in <xref rid="T2" ref-type="table">Table 2</xref>. The lowest nasopharyngeal and rectal temperatures during surgery were 30.3 ± 0.9°C and 31.4 ± 0.9°C, respectively. The durations of CPB, aortic cross-clamping (ACC), LCCA cross-clamping, antegrade cerebral perfusion (ACP)/lower body arrest (LBA), and operation were 139.7 ± 52.3 min, 55.6 ± 27.4 min, 10.3 ± 2.9 min, 14.1 ± 3.1 min, and 6.0 ± 1.7 h, respectively.</p>
+        <table-wrap position="float" id="T2">
+          <label>Table 2</label>
+          <caption>
+            <p>Operative characteristics of 215 consecutive patients with ADIAD who underwent treatment using the Brain-Heart-first strategy.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Variable</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>The whole cohort</bold>
+</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Concomitant procedure</bold>
+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Aortic sinus/valve plasty [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">70 (32.6)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Uni-Yacoub procedure [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">25 (11.6)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Bentall/David procedure [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">22 (10.2)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Wheat procedure [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5 (2.3)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CABG [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">20 (9.3)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+<bold>CPB characteristic</bold>
+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Nasopharyngeal temperature (°C)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">30.3 ± 0.9</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Rectal temperature (°C)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">31.4 ± 0.9</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CPB time (min)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">139.7 ± 52.3</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cross-clamping time (min)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">55.6 ± 27.4</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">LCCA cross-clamping time (min)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">10.3 ± 2.9</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">ACP/LBA time (min)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">14.1 ± 3.1</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Flow rate during LBA (L/m<sup>2</sup>/min)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.1 ± 0.2</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Pressure of LCCA (mmHg)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">70.2 ± 8.0</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Operation time (h)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.0 ± 1.7</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>CABG, coronary artery bypass grafting; CPB, cardiopulmonary bypass; LCCA, left common carotid artery; ACP, antegrade cerebral perfusion; LBA, lower body arrest</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Postoperative Outcomes</title>
+        <p>The median duration of mechanical ventilation support (MVS), Intensive Care Unit (ICU) stay, and hospitalization were 40.0 h, 4.0 days, and 16.0 days, respectively. The median amounts of red blood cells (RBC) and fresh frozen plasma (FFP) transfusion during surgery and the first 24 h after surgery were 4.0 u and 200.0 ml, respectively. The drainage within the first 24 h after surgery was 640.0 ml. Of the 215 patients, 88 (40.9%) had postoperative acute kidney injury (AKI, using Kidney Disease Improving Global Outcomes classification, KDIGO): 41 (19.1%) in stage 1, 15 (7.0%) in stage 2, and 32 (14.9%) in stage 3. Renal injury requiring dialysis occurred in 21 patients (9.8%). For the 39 patients with preoperative renal injury (creatinine clearance rate &lt; 50 ml/min), 20 (51.3%) had their renal function recovered to normal, 3 (7.7%), 3 (7.7%), and 13 (33.3%) had stage 1, 2, 3 postoperative AKI, respectively. Postoperative cerebral stroke occurred in nine patients (4.2%), and paraplegia in one patient (0.5%). The 30-day mortality was 9.8% (21/215 patients) (<xref rid="T3" ref-type="table">Tables 3</xref>, <xref rid="T4" ref-type="table">4</xref>).</p>
+        <table-wrap position="float" id="T3">
+          <label>Table 3</label>
+          <caption>
+            <p>Operative outcomes of 215 consecutive patients with ADIAD who underwent treatment using the Brain-Heart-first strategy.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Variable</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>The whole cohort</bold>
+</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Awaken time (h)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">8.0 (4.0-18.0)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">MVS (h)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">40.0 (20.0-68.0)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">ICU stay (days)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.0 (2.0-7.0)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Duration of hospitalization (days)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">16.0 (13.0-21.0)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">RBC transfusion (u)<xref rid="TN1" ref-type="table-fn"><sup>a</sup></xref></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.0 (1.5-8.0)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">FFP transfusion (ml)<xref rid="TN1" ref-type="table-fn"><sup>a</sup></xref></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">200.0 (0.0-550.0)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Drainage in 24 h (ml)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">640.0 (470.0-940.0)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cardiac enzyme CK-MB (NUML)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.5 (1.7-6.2)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cardiac enzyme TnI (NUML)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">9.1 (3.5-19.5)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Postoperative acute kidney injury [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">88 (40.9)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Renal injury requiring dialysis [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">21 (9.8)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Stroke [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">9 (4.2)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Paraplegia [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1 (0.5)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Postoperative 30-day death [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">21 (9.8)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Follow-up time (months)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">19.9 ± 13.2</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Follow-up rate (%)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">99% (192/194)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Late death [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">16 (8.3)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Reoperation [<italic>n</italic> (%)]</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1 (0.5)</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>MVS, mechanical ventilation support; ICU, intensive care unit; RBC, red blood cells; FFP, fresh frozen plasma</italic>.</p>
+            <fn id="TN1">
+              <label>a</label>
+              <p><italic>During surgery and the first 24 h after surgery. NUML, multiples the upper normal limit</italic>.</p>
+            </fn>
+            <p><italic>Postoperative Renal injury was defined using the Kidney Disease Improving Global Outcomes criteria (divide into three groups)</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+        <table-wrap position="float" id="T4">
+          <label>Table 4</label>
+          <caption>
+            <p>Patient characteristics categorized by KDIGO criteria.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Patient population (<italic>n</italic>)</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>No postoperative AKI [<italic>n</italic> (%)]</bold>
+</th>
+                <th valign="top" align="center" style="border-bottom: thin solid #000000;" colspan="3" rowspan="1"><bold>Postoperative AKI [</bold><italic><bold>n</bold></italic>
+<bold>(%)]</bold></th>
+              </tr>
+              <tr>
+                <th rowspan="1" colspan="1"/>
+                <th rowspan="1" colspan="1"/>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>Stage 1</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>Stage 2</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>Stage 3</bold>
+</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Whole cohort (215)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">127 (59.1)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">41 (19.1)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">15 (7.0)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">32 (14.9)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Patients with preoperative renal injury (39)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">20 (51.3)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3 (7.7)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3 (7.7)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">13 (33.3)</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>KDIGO, Kidney Disease Improving Global Outcomes; AKI, Acute Kidney Injury</italic>.</p>
+            <p><italic>Preoperative renal injury was defined creatinine clearance rate &lt; 50 ml/min</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Follow-Up Data</title>
+        <p>Of the 215 patients, 21 were died in 30 days after surgery. For the other 194 patients, 2 were lost to follow-up; 192 (99.0%) completing an average follow-up of 19.9 ± 13.2 months, 16 of which died during follow-up (2 unidentified sudden deaths and 14 non- ADIAD-associated deaths), resulting in a survival rate of 91.7% (176/192 patients). There was 1 (0.5%) requirement for reoperation (aortic valve replacement due to recurrent moderate-severe aortic regurgitation during the David procedure). No other patients need reintervention for the progressive descending aorta enlargement or anastomotic leak. The patients with postoperative paraplegia who survived had their physical strength recovered to normal gradually after cerebrospinal fluid drainage.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s4">
+      <title>Discussion</title>
+      <p>The conventional TAR with FET procedure for patients with ADIAD requires deep or moderate hypothermic circulatory arrest (HCA) in the absence of hybrid procedures or new devices, which means longer cooling and rewarming phase and brings specific challenges in cardiac, neurologic, and distal organ protection (<xref rid="B2" ref-type="bibr">2</xref>–<xref rid="B6" ref-type="bibr">6</xref>). Our new surgical strategy reported satisfactory outcomes which were comparable to the published results of extensive surgical repair by the high-volume centers (<xref rid="B2" ref-type="bibr">2</xref>–<xref rid="B5" ref-type="bibr">5</xref>). Two main modifications were made in the new strategy to achieve the purpose of better protection to the brain, heart and other vital organs: one on the order of anastomosis; the other on the management of CPB (including perfusion flow, temperature and the basis of the management of CPB).</p>
+      <p>As we known, type I aortic dissection extends from the aortic root (even from the aortic valve, coronary arteries, or sinus) through the ascending aorta and aortic arch to the descending aorta. Conventionally, it was considered that the heart was far easier to be protected than the brain. Therefore, during the past decades, most surgeons give priority attention to the reconstruction of the arch and distal aorta. The reconstruction of the proximal aorta is started after the completion of the arch and distal aorta repair (<xref rid="B3" ref-type="bibr">3</xref>, <xref rid="B4" ref-type="bibr">4</xref>), which would prolong cardiac cross-clamping time unnecessarily. In our new strategy, the order of anastomosis was modified. The proximal ascending aorta and/or aortic root would be repaired and reconstructed first, and then the LCCA was anastomosed. The major technical difficulties of this surgical procedure were the repair of the proximal aorta or aortic root actually, such as valve sparing, sinus plasty and CABG, especially in complex cases. By creative usage of the first branch as a perfusion tube, the perfusion of cardiac and LCCA was resumed after the anastomosis of the LCCA and was maintained during the reconstruction of the aortic arch and implantation of the stent graft. The procedures mentioned above would significantly shorten the duration of cardiac and cerebral ischemia (<xref rid="B3" ref-type="bibr">3</xref>–<xref rid="B5" ref-type="bibr">5</xref>). As we know, continuous cardiac perfusion could reduce myocardial damage, improve cardiac outcomes, and decrease 30-day mortality (<xref rid="B1" ref-type="bibr">1</xref>, <xref rid="B16" ref-type="bibr">16</xref>). In the present study, the ACC time was significantly shorter, similar results were reported by other high-volume centers using hybrid procedure and new devices (<xref rid="B7" ref-type="bibr">7</xref>, <xref rid="B11" ref-type="bibr">11</xref>, <xref rid="B13" ref-type="bibr">13</xref>).</p>
+      <p>In addition to deep or moderate HCA which is essential for conventional TAR, antegrade and retrograde as well as unilateral and bilateral cerebral perfusion have been adopted with satisfactory results (<xref rid="B17" ref-type="bibr">17</xref>–<xref rid="B20" ref-type="bibr">20</xref>). However, no standards for the application of cerebral perfusion are available. Bilateral carotid arteries are known to be crucial for cerebral blood supply (<xref rid="B17" ref-type="bibr">17</xref>–<xref rid="B20" ref-type="bibr">20</xref>). In the present study, the cerebral ischemic time was minimized in patients who underwent TAR with FET using the Brain-Heart-first strategy. As mentioned above, continuous perfusion to the LCCA and the heart was achieved simultaneously through the first branch of the 4-branched graft after the LCCA was anastomosed, while the right common carotid artery had continuous perfusion <italic>via</italic> the right axillary artery. Therefore, sufficient cerebral perfusion through bilateral carotid arteries was achieved during the process of the arch and descending aorta repair. The only potential cerebral ischemic injury was existed in the anastomotic phase of LCCA. However, the right common carotid artery and LSA had continuous perfusion in this phase. Meanwhile, the temperature was decreased around to 30.0°C and the time for LCCA anastomosis was 10.3 ± 2.9 min, which would be safe for the cerebral perfusion. Furthermore, the blood pressure of the LCCA was monitored and was adjusted to balance the cerebral perfusion flow and avoid hypo/hyper-perfusion in bilateral common carotid arteries. As we known, a high perfusion pressure allows collateral flow from the brain to the spinal cord, with similar outcomes to those observed under a low perfusion pressure (<xref rid="B21" ref-type="bibr">21</xref>). In our new strategy, a high perfusion pressure (60-80 mmHg) was adopted. Different from the artificial setting in the conventional ACP (8-15 ml·kg<sup>−1</sup>·min<sup>−1</sup>) (<xref rid="B3" ref-type="bibr">3</xref>, <xref rid="B4" ref-type="bibr">4</xref>, <xref rid="B7" ref-type="bibr">7</xref>, <xref rid="B9" ref-type="bibr">9</xref>, <xref rid="B18" ref-type="bibr">18</xref>–<xref rid="B20" ref-type="bibr">20</xref>, <xref rid="B22" ref-type="bibr">22</xref>), the upper body perfusion flow in the new strategy (1.00-1.23 L/m<sup>2</sup>/min) was produced naturally by the blood pressure, conforming with the physiological characteristics of cerebral perfusion. The perfusion flow rate during ACP/LBA was significantly increased, and effective cerebral protection was achieved as demonstrated with NIRS monitoring, without increasing the rate of stroke.</p>
+      <p>The lower body arrest time depends on the duration of anastomosis of the 4-branched graft with the FET graft. The most sensitive distal organ to ischemia is the spinal cord. Evidence showed that warmer cerebral perfusion might help to improve the collateral flow from the brain to the spinal cord, and this blood backflow may contribute to the protection of the spinal cord, which could tolerate ischemia under hypothermia at 30-32°C for 30 min (<xref rid="B23" ref-type="bibr">23</xref>). In our new strategy, the trunk of the 4-branched graft was cross-clamped between the second and the third branches, and the distal anastomotic area was forward to the end part of zone-0 or the initial part of zone-1, which would significantly reduce the technical difficulty of anastomosis and provide enough operation space to complete the anastomosis while ensuring sufficient heart and brain perfusion. The mean duration of anastomosis in the present study was only 14.1 ± 3.1 min without increasing the risk of postoperative paraplegia under mild hypothermia. Therefore, it is not difficult for an experienced surgeon to complete the anastomosis under this condition.</p>
+      <p>With these modifications, deep or moderate HCA is no longer needed, and the CPB time would be shortened naturally (<xref rid="B23" ref-type="bibr">23</xref>). It is known that a long CPB time was associated with increased postoperative complications and 30-day mortality (<xref rid="B24" ref-type="bibr">24</xref>, <xref rid="B25" ref-type="bibr">25</xref>). In our cohort, the setting of temperature raises up to mild hypothermia. Shortened CPB and operation time were achieved, which brought satisfactory organ protection and less postoperative complications: the rates of postoperative AKI, renal injury requiring dialysis, stroke, and paraplegia was 40.9, 9.8, 4.2, and 0.5%, respectively. The rate of postoperative AKI in the present study was relatively lower than that in another large cohort in China (40.9 vs. 77.6%) (<xref rid="B26" ref-type="bibr">26</xref>). As we known, stage 3 AKI was associated with higher rates of major adverse events and in-hospital and 90-day deaths (<xref rid="B26" ref-type="bibr">26</xref>). Stage 3 postoperative AKI occurred in 14.9% of patients in the present study. For the 39 patients with preoperative renal injury, 20 (51.3%) had their renal function recovered to normal, and only 13 (33.3%) had stage 3 postoperative AKI, demonstrating the safety and effectiveness of the Brain-Heart-first strategy. The clotting disorders related to prolonged CPB was also alleviated. The amounts of RBC and FFP transfusion during surgery and within 24 h after surgery were 4.0 u and 200.0 ml, respectively; the drainage within 24 h after surgery was 640 ml. Furthermore, during follow-up, the reintervention rate was relatively low. Only 1 patient (0.5%) who underwent the David procedure in the aortic root needed reintervention for moderate-severe aortic valve insufficiency. No other patients needed reintervention for the progressive distal aorta enlargement or anastomotic leak. These satisfactory outcomes are comparable to those observed after proximal or extensive repair, stent grafting, or hybrid procedure performed at high-volume centers (<xref rid="B2" ref-type="bibr">2</xref>–<xref rid="B5" ref-type="bibr">5</xref>, <xref rid="B7" ref-type="bibr">7</xref>, <xref rid="B9" ref-type="bibr">9</xref>, <xref rid="B11" ref-type="bibr">11</xref>, <xref rid="B13" ref-type="bibr">13</xref>, <xref rid="B23" ref-type="bibr">23</xref>).</p>
+      <p>In our opinion, the application of the Brain-Heart-first strategy in TAR with FET technique for patients with ADIAD may be able to end the dispute related to cerebral perfusion strategy (unilateral/bilateral and antegrade/retrograde cerebral perfusion) to some extent, and the arch replacement and cerebral protection are no longer the bottleneck. The surgical difficulties are transferred from the “arch” to the “root,” and a surgeon with skills to perform the Bentall procedure may be easily trained to perform this extensive repair. After the reconstruction/repair of the proximal aorta/aortic root, what remains to be done is the four routine graft-arterial anastomoses to reconstruct the arch and descending aorta, including the 2nd branch of the 4-branched graft with LCCA, the trunk of 4-branched graft with the stented graft, the 1st and 3rd branches of the 4-branched graft with LSA and IA, respectively. What's more, the procedure can be performed in a routine operation room with no need of expensive devices or complex operations involving interventional cardiologists and radiologists. For some complex cases or under particular circumstances, or for some surgeons who are not experienced enough, we suggest the Brain-Heart-first strategy be performed under moderate or even deep hypothermia to ensure patient safety. Therefore, we think it may be possible to transfer the results 1:1 to other centers, especially for high-volume centers.</p>
+      <p>In conclusion, the Brain-Heart-first strategy can be widely used with low technical and resource requirements and can provide a safe alternative for conventional TAR with FET technique in ADIAD patients with satisfactory operative results.</p>
+    </sec>
+    <sec sec-type="data-availability" id="s5">
+      <title>Data Availability Statement</title>
+      <p>The raw data supporting the conclusions of this article will be made available by the authors, without undue reservation.</p>
+    </sec>
+    <sec id="s6">
+      <title>Ethics Statement</title>
+      <p>The studies involving human participants were reviewed and approved by the Ethics Committee of the Second Xiangya Hospital. The patients/participants provided their written informed consent to participate in this study.</p>
+    </sec>
+    <sec id="s7">
+      <title>Author Contributions</title>
+      <p>KS, LT, and HT: conception, study design, protocol, and writing. KS, LT, JX, DX, JL, SW, and YC: data collection and assessment. HT and XZ: project oversight and supervision. KS, LT, HT, and XZ: critical revisions for important intellectual content. All authors read and approved the final manuscript.</p>
+    </sec>
+    <sec sec-type="funding-information" id="s8">
+      <title>Funding</title>
+      <p>This study was funded by the Key Research and Development Program of Hunan Province (No. 2019SK2022).</p>
+    </sec>
+    <sec sec-type="COI-statement" id="conf1">
+      <title>Conflict of Interest</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+    <sec sec-type="disclaimer" id="s9">
+      <title>Publisher's Note</title>
+      <p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="supplementary-material" id="s10">
+      <title>Supplementary Material</title>
+      <p>The Supplementary Material for this article can be found online at: <ext-link xlink:href="https://www.frontiersin.org/articles/10.3389/fcvm.2022.806822/full#supplementary-material" ext-link-type="uri">https://www.frontiersin.org/articles/10.3389/fcvm.2022.806822/full#supplementary-material</ext-link></p>
+      <supplementary-material position="float" content-type="local-data">
+        <media xlink:href="Video_1.MP4" mimetype="video" mime-subtype="mp4">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <label>1.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Czerny</surname><given-names>M</given-names></name><name><surname>Schmidli</surname><given-names>J</given-names></name><name><surname>Adler</surname><given-names>S</given-names></name><name><surname>van den Berg</surname><given-names>JC</given-names></name><name><surname>Bertoglio</surname><given-names>L</given-names></name><name><surname>Carrel</surname><given-names>T</given-names></name><etal/></person-group>. <article-title>Editor's Choice – current options and recommendations for the treatment of thoracic aortic pathologies involving the aortic arch: an expert consensus document of the European Association for Cardio-Thoracic Surgery (EACTS) and the European Society for Vascular Surgery (ESVS)</article-title>. <source>Eur J Vasc Endovasc Surg.</source> (<year>2019</year>) <volume>57</volume>:<fpage>165</fpage>-<lpage>98</lpage>. <pub-id pub-id-type="doi">10.1016/j.ejvs.2018.09.016</pub-id><pub-id pub-id-type="pmid">30318395</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smith</surname><given-names>HN</given-names></name><name><surname>Boodhwani</surname><given-names>M</given-names></name><name><surname>Ouzounian</surname><given-names>M</given-names></name><name><surname>Saczkowski</surname><given-names>R</given-names></name><name><surname>Gregory</surname><given-names>AJ</given-names></name><name><surname>Herget</surname><given-names>EJ</given-names></name><etal/></person-group>. <article-title>Classification and outcomes of extended arch repair for acute Type A aortic dissection: a systematic review and meta-analysis</article-title>. <source>Interact Cardiovasc Thorac Surg.</source> (<year>2017</year>) <volume>24</volume>:<fpage>450</fpage>-<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1093/icvts/ivw355</pub-id><pub-id pub-id-type="pmid">28040765</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shrestha</surname><given-names>M</given-names></name><name><surname>Martens</surname><given-names>A</given-names></name><name><surname>Krüger</surname><given-names>H</given-names></name><name><surname>Maeding</surname><given-names>I</given-names></name><name><surname>Ius</surname><given-names>F</given-names></name><name><surname>Fleissner</surname><given-names>F</given-names></name><etal/></person-group>. <article-title>Total aortic arch replacement with the elephant trunk technique: single-centre 30-year results</article-title>. <source>Eur J Cardiothorac Surg.</source> (<year>2014</year>) <volume>45</volume>:<fpage>289</fpage>-<lpage>95</lpage>; discussion 295-6. <pub-id pub-id-type="doi">10.1093/ejcts/ezt359</pub-id><pub-id pub-id-type="pmid">23872461</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <label>4.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ma</surname><given-names>WG</given-names></name><name><surname>Zheng</surname><given-names>J</given-names></name><name><surname>Zhang</surname><given-names>W</given-names></name><name><surname>Sun</surname><given-names>K</given-names></name><name><surname>Ziganshin</surname><given-names>BA</given-names></name><name><surname>Wang</surname><given-names>LF</given-names></name><etal/></person-group>. <article-title>Frozen elephant trunk with total arch replacement for type A aortic dissections: Does acuity affect operative mortality?</article-title>
+<source>J Thorac Cardiovasc Surg.</source> (<year>2014</year>) <volume>148</volume>:<fpage>963</fpage>-<lpage>70</lpage>; discussion 970-2. <pub-id pub-id-type="doi">10.1016/j.jtcvs.2014.06.005</pub-id><pub-id pub-id-type="pmid">25043867</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <label>5.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Larsen</surname><given-names>M</given-names></name><name><surname>Trimarchi</surname><given-names>S</given-names></name><name><surname>Patel</surname><given-names>HJ</given-names></name><name><surname>Di Eusanio</surname><given-names>M</given-names></name><name><surname>Greason</surname><given-names>KL</given-names></name><name><surname>Peterson</surname><given-names>MD</given-names></name><etal/></person-group>. <article-title>Extended versus limited arch replacement in acute Type A aortic dissection</article-title>. <source>Eur J Cardiothorac Surg.</source> (<year>2017</year>) <volume>52</volume>:<fpage>1104</fpage>-<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1093/ejcts/ezx214</pub-id><pub-id pub-id-type="pmid">28977503</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <label>6.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rudarakanchana</surname><given-names>N</given-names></name><name><surname>Jenkins</surname><given-names>MP</given-names></name></person-group>. <article-title>Hybrid and total endovascular repair of the aortic arch</article-title>. <source>Br J Surg.</source> (<year>2018</year>) <volume>105</volume>:<fpage>315</fpage>-<lpage>27</lpage>. <pub-id pub-id-type="doi">10.1002/bjs.10713</pub-id><pub-id pub-id-type="pmid">29488648</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <label>7.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>LW</given-names></name><name><surname>Dai</surname><given-names>XF</given-names></name><name><surname>Wu</surname><given-names>XJ</given-names></name><name><surname>Liao</surname><given-names>DS</given-names></name><name><surname>Hu</surname><given-names>YN</given-names></name><name><surname>Zhang</surname><given-names>H</given-names></name><etal/></person-group>. <article-title>Ascending aorta and hemiarch replacement combined with modified triple-branched stent graft implantation for repair of acute DeBakey Type I aortic dissection</article-title>. <source>Ann Thorac Surg.</source> (<year>2017</year>) <volume>103</volume>:<fpage>595</fpage>-<lpage>601</lpage>. <pub-id pub-id-type="doi">10.1016/j.athoracsur.2016.06.017</pub-id><pub-id pub-id-type="pmid">27553503</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <label>8.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bertoglio</surname><given-names>L</given-names></name><name><surname>Castiglioni</surname><given-names>A</given-names></name><name><surname>Grandi</surname><given-names>A</given-names></name><name><surname>Cambiaghi</surname><given-names>T</given-names></name><name><surname>Verzini</surname><given-names>A</given-names></name><name><surname>Chiesa</surname><given-names>R</given-names></name></person-group>. <article-title>Custom-Made E-Vita graft for frozen elephant trunk with arch-first technique</article-title>. <source>Ann Thorac Surg.</source> (<year>2017</year>) <volume>104</volume>:<fpage>e467</fpage>-<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/j.athoracsur.2017.07.022</pub-id><pub-id pub-id-type="pmid">29153821</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Roselli</surname><given-names>EE</given-names></name><name><surname>Idrees</surname><given-names>JJ</given-names></name><name><surname>Bakaeen</surname><given-names>FG</given-names></name><name><surname>Tong</surname><given-names>MZ</given-names></name><name><surname>Soltesz</surname><given-names>EG</given-names></name><name><surname>Mick</surname><given-names>S</given-names></name><etal/></person-group>. <article-title>Evolution of simplified frozen elephant trunk repair for acute debakey type I dissection: midterm outcomes</article-title>. <source>Ann Thorac Surg.</source> (<year>2018</year>) <volume>105</volume>:<fpage>749</fpage>-<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1016/j.athoracsur.2017.08.037</pub-id><pub-id pub-id-type="pmid">29217087</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Okamura</surname><given-names>H</given-names></name><name><surname>Arakawa</surname><given-names>M</given-names></name><name><surname>Takeuchi</surname><given-names>T</given-names></name><name><surname>Adachi</surname><given-names>H</given-names></name></person-group>. <article-title>Total fenestrated frozen elephant trunk technique for aortic repair of acute type A aortic dissection</article-title>. <source>J Thorac Cardiovasc Surg.</source> (<year>2019</year>) <volume>157</volume>:<fpage>e71</fpage>-<lpage>3</lpage>. <pub-id pub-id-type="doi">10.1016/j.jtcvs.2018.09.022</pub-id><pub-id pub-id-type="pmid">30360933</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Esposito</surname><given-names>G</given-names></name><name><surname>Cappabianca</surname><given-names>G</given-names></name><name><surname>Bichi</surname><given-names>S</given-names></name><name><surname>Cricco</surname><given-names>A</given-names></name><name><surname>Albano</surname><given-names>G</given-names></name><name><surname>Anzuini</surname><given-names>A</given-names></name></person-group>. <article-title>Hybrid repair of type A acute aortic dissections with the Lupiae technique: ten-year results</article-title>. <source>J Thorac Cardiovasc Surg.</source> (<year>2015</year>) <volume>149</volume>(<issue>2 Suppl</issue>):<fpage>S99</fpage>-<lpage>104</lpage>. <pub-id pub-id-type="doi">10.1016/j.jtcvs.2014.07.099</pub-id><pub-id pub-id-type="pmid">25256081</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lin</surname><given-names>H</given-names></name><name><surname>Du</surname><given-names>Y</given-names></name><name><surname>Yu</surname><given-names>C</given-names></name><name><surname>Qian</surname><given-names>X</given-names></name><name><surname>Sun</surname><given-names>X</given-names></name><name><surname>Tian</surname><given-names>C</given-names></name><etal/></person-group>. <article-title>Single stage hybrid repair for DeBakey Type I aortic dissection in high risk patients</article-title>. <source>Eur J Vasc Endovasc Surg.</source> (<year>2018</year>) <volume>56</volume>:<fpage>363</fpage>-<lpage>72</lpage>. <pub-id pub-id-type="doi">10.1016/j.ejvs.2018.05.023</pub-id><pub-id pub-id-type="pmid">30077437</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>L</given-names></name><name><surname>Yu</surname><given-names>C</given-names></name><name><surname>Yang</surname><given-names>X</given-names></name><name><surname>Sun</surname><given-names>X</given-names></name><name><surname>Qiu</surname><given-names>J</given-names></name><name><surname>Jiang</surname><given-names>W</given-names></name><etal/></person-group>. <article-title>Hybrid and frozen elephant trunk for total arch replacement in DeBakey type I dissection</article-title>. <source>J Thorac Cardiovasc Surg.</source> (<year>2019</year>) <volume>158</volume>:<fpage>1285</fpage>-<lpage>92</lpage>. <pub-id pub-id-type="doi">10.1016/j.jtcvs.2019.01.020</pub-id><pub-id pub-id-type="pmid">30824349</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shen</surname><given-names>K</given-names></name><name><surname>Zhou</surname><given-names>X</given-names></name><name><surname>Tan</surname><given-names>L</given-names></name><name><surname>Li</surname><given-names>F</given-names></name><name><surname>Xiao</surname><given-names>J</given-names></name><name><surname>Tang</surname><given-names>H</given-names></name></person-group>. <article-title>An innovative arch-first surgical procedure under moderate hypothermia for acute type A aortic dissection</article-title>. <source>J Cardiovasc Surg.</source> (<year>2020</year>) <volume>61</volume>:<fpage>214</fpage>-<lpage>9</lpage>. <pub-id pub-id-type="doi">10.23736/S0021-9509.18.10180-7</pub-id><pub-id pub-id-type="pmid">29532651</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rylski</surname><given-names>B</given-names></name><name><surname>Pacini</surname><given-names>D</given-names></name><name><surname>Beyersdorf</surname><given-names>F</given-names></name><name><surname>Quintana</surname><given-names>E</given-names></name><name><surname>Schachner</surname><given-names>T</given-names></name><name><surname>Tsagakis</surname><given-names>K</given-names></name><etal/></person-group>. <article-title>Standards of reporting in open and endovascular aortic surgery (STORAGE guidelines)</article-title>. <source>Eur J Cardiothorac Surg.</source> (<year>2019</year>) <volume>56</volume>:<fpage>10</fpage>-<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1093/ejcts/ezz145</pub-id><pub-id pub-id-type="pmid">31102528</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martens</surname><given-names>A</given-names></name><name><surname>Koigeldiyev</surname><given-names>N</given-names></name><name><surname>Beckmann</surname><given-names>E</given-names></name><name><surname>Fleissner</surname><given-names>F</given-names></name><name><surname>Kaufeld</surname><given-names>T</given-names></name><name><surname>Krueger</surname><given-names>H</given-names></name><etal/></person-group>. <article-title>Do not leave the heart arrested. Non-cardioplegic continuous myocardial perfusion during complex aortic arch repair improves cardiac outcome</article-title>. <source>Eur J Cardiothorac Surg.</source> (<year>2016</year>) <volume>49</volume>:<fpage>141</fpage>-<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1093/ejcts/ezv009</pub-id><pub-id pub-id-type="pmid">25669649</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <label>17.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Spielvogel</surname><given-names>D</given-names></name><name><surname>Kai</surname><given-names>M</given-names></name><name><surname>Tang</surname><given-names>GH</given-names></name><name><surname>Malekan</surname><given-names>R</given-names></name><name><surname>Lansman</surname><given-names>SL</given-names></name></person-group>. <article-title>Selective cerebral perfusion: a review of the evidence</article-title>. <source>J Thorac Cardiovasc Surg.</source> (<year>2013</year>) <volume>145</volume>(<issue>3 Suppl</issue>):<fpage>S59</fpage>-<lpage>62</lpage>. <pub-id pub-id-type="doi">10.1016/j.jtcvs.2012.11.073</pub-id><pub-id pub-id-type="pmid">23266253</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>De Paulis</surname><given-names>R</given-names></name><name><surname>Czerny</surname><given-names>M</given-names></name><name><surname>Weltert</surname><given-names>L</given-names></name><name><surname>Bavaria</surname><given-names>J</given-names></name><name><surname>Borger</surname><given-names>MA</given-names></name><name><surname>Carrel</surname><given-names>TP</given-names></name><etal/></person-group>. <article-title>Current trends in cannulation and neuroprotection during surgery of the aortic arch in Europe</article-title>. <source>Eur J Cardiothorac Surg.</source> (<year>2015</year>) <volume>47</volume>:<fpage>917</fpage>-<lpage>23</lpage>. <pub-id pub-id-type="doi">10.1093/ejcts/ezu284</pub-id><pub-id pub-id-type="pmid">25035412</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Preventza</surname><given-names>O</given-names></name><name><surname>Simpson</surname><given-names>KH</given-names></name><name><surname>Cooley</surname><given-names>DA</given-names></name><name><surname>Cornwell</surname><given-names>L</given-names></name><name><surname>Bakaeen</surname><given-names>FG</given-names></name><name><surname>Omer</surname><given-names>S</given-names></name><etal/></person-group>. <article-title>Unilateral versus bilateral cerebral perfusion for acute type A aortic dissection</article-title>. <source>Ann Thorac Surg.</source> (<year>2015</year>) <volume>99</volume>:<fpage>80</fpage>-<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1016/j.athoracsur.2014.07.049</pub-id><pub-id pub-id-type="pmid">25442989</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <label>20.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Norton</surname><given-names>EL</given-names></name><name><surname>Wu</surname><given-names>X</given-names></name><name><surname>Kim</surname><given-names>KM</given-names></name><name><surname>Patel</surname><given-names>HJ</given-names></name><name><surname>Deeb</surname><given-names>GM</given-names></name><name><surname>Yang</surname><given-names>B</given-names></name></person-group>. <article-title>Unilateral is comparable to bilateral antegrade cerebral perfusion in acute type A aortic dissection repair</article-title>. <source>J Thorac Cardiovasc Surg.</source> (<year>2020</year>) <volume>160</volume>:<fpage>617</fpage>-<lpage>25</lpage>.e5. <pub-id pub-id-type="doi">10.1016/j.jtcvs.2019.07.108</pub-id><pub-id pub-id-type="pmid">31587891</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <label>21.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vedel</surname><given-names>AG</given-names></name><name><surname>Holmgaard</surname><given-names>F</given-names></name><name><surname>Rasmussen</surname><given-names>LS</given-names></name><name><surname>Langkilde</surname><given-names>A</given-names></name><name><surname>Paulson</surname><given-names>OB</given-names></name><name><surname>Lange</surname><given-names>T</given-names></name><etal/></person-group>. <article-title>High-target versus low-target blood pressure management during cardiopulmonary bypass to prevent cerebral injury in cardiac surgery patients: a randomized controlled trial</article-title>. <source>Circulation.</source> (<year>2018</year>) <volume>137</volume>:<fpage>1770</fpage>–<lpage>80</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.117.030308</pub-id><pub-id pub-id-type="pmid">29339351</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <label>22.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>David</surname><given-names>TE</given-names></name></person-group>. <article-title>Surgery for acute type A aortic dissection</article-title>. <source>J Thorac Cardiovasc Surg.</source> (<year>2015</year>) <volume>150</volume>:<fpage>279</fpage>-<lpage>83</lpage>. <pub-id pub-id-type="doi">10.1016/j.jtcvs.2015.06.009</pub-id><pub-id pub-id-type="pmid">26204863</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <label>23.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zierer</surname><given-names>A</given-names></name><name><surname>El-Sayed Ahmad</surname><given-names>A</given-names></name><name><surname>Papadopoulos</surname><given-names>N</given-names></name><name><surname>Detho</surname><given-names>F</given-names></name><name><surname>Risteski</surname><given-names>P</given-names></name><name><surname>Moritz</surname><given-names>A</given-names></name><etal/></person-group>. <article-title>Fifteen years of surgery for acute type A aortic dissection in moderate-to-mild systemic hypothermia†</article-title>. <source>Eur J Cardiothorac Surg.</source> (<year>2017</year>) <volume>51</volume>:<fpage>97</fpage>-<lpage>103</lpage>. <pub-id pub-id-type="doi">10.1093/ejcts/ezw289</pub-id><pub-id pub-id-type="pmid">27694252</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <label>24.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Conzelmann</surname><given-names>LO</given-names></name><name><surname>Hoffmann</surname><given-names>I</given-names></name><name><surname>Blettner</surname><given-names>M</given-names></name><name><surname>Kallenbach</surname><given-names>K</given-names></name><name><surname>Karck</surname><given-names>M</given-names></name><name><surname>Dapunt</surname><given-names>O</given-names></name><etal/></person-group>. <article-title>Analysis of risk factors for neurological dysfunction in patients with acute aortic dissection type A: data from the German Registry for Acute Aortic Dissection type A (GERAADA)</article-title>. <source>Eur J Cardiothorac Surg.</source> (<year>2012</year>) <volume>42</volume>:<fpage>557</fpage>-<lpage>65</lpage>. <pub-id pub-id-type="doi">10.1093/ejcts/ezs025</pub-id><pub-id pub-id-type="pmid">22389344</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <label>25.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sasabuchi</surname><given-names>Y</given-names></name><name><surname>Kimura</surname><given-names>N</given-names></name><name><surname>Shiotsuka</surname><given-names>J</given-names></name><name><surname>Komuro</surname><given-names>T</given-names></name><name><surname>Mouri</surname><given-names>H</given-names></name><name><surname>Ohnuma</surname><given-names>T</given-names></name><etal/></person-group>. <article-title>Long-term survival in patients with acute kidney injury after acute type A aortic dissection repair</article-title>. <source>Ann Thorac Surg.</source> (<year>2016</year>) <volume>102</volume>:<fpage>2003</fpage>-<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/j.athoracsur.2016.05.006</pub-id><pub-id pub-id-type="pmid">27372373</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <label>26.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhou</surname><given-names>H</given-names></name><name><surname>Wang</surname><given-names>G</given-names></name><name><surname>Yang</surname><given-names>L</given-names></name><name><surname>Shi</surname><given-names>S</given-names></name><name><surname>Li</surname><given-names>J</given-names></name><name><surname>Wang</surname><given-names>M</given-names></name><etal/></person-group>. <article-title>Acute kidney injury after total arch replacement combined with frozen elephant trunk implantation: incidence, risk factors, and outcome</article-title>. <source>J Cardiothorac Vasc Anesth.</source> (<year>2018</year>) <volume>32</volume>:<fpage>2210</fpage>-<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1053/j.jvca.2018.02.026</pub-id><pub-id pub-id-type="pmid">29571643</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+    <glossary>
+      <def-list>
+        <title>Abbreviations</title>
+        <def-item>
+          <term>TAR</term>
+          <def>
+            <p>total arch replacement</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>FET</term>
+          <def>
+            <p>frozen elephant trunk</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>ADIAD</term>
+          <def>
+            <p>acute DeBakey type I aortic dissection</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>DHCA</term>
+          <def>
+            <p>Deep hypothermia circulatory arrest</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>CPB</term>
+          <def>
+            <p>cardiopulmonary bypass</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>HCA</term>
+          <def>
+            <p>hypothermic circulatory arrest</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>NIRS</term>
+          <def>
+            <p>near-infrared spectroscopy</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>LCCA</term>
+          <def>
+            <p>left common carotid artery</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>LSA</term>
+          <def>
+            <p>left subclavian artery</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>IA</term>
+          <def>
+            <p>innominate artery</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>ACC</term>
+          <def>
+            <p>aortic cross clamping</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>ACP</term>
+          <def>
+            <p>antegrade cerebral perfusion</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>LBA</term>
+          <def>
+            <p>lower body arrest</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>ICU</term>
+          <def>
+            <p>intensive care unit</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>RBC</term>
+          <def>
+            <p>red blood cells</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>FFP</term>
+          <def>
+            <p>fresh frozen plasma</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>CCR</term>
+          <def>
+            <p>creatinine clearance rate</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>NUML</term>
+          <def>
+            <p>multiples the upper normal limit</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>KDIGO</term>
+          <def>
+            <p>Kidney Disease Improving Global Outcomes</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>AKI</term>
+          <def>
+            <p>Acute Kidney Injury.</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+  </back>
+</article>

@@ -1,0 +1,1506 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Med (Lausanne)</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Med (Lausanne)</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Med.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Medicine</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2296-858X</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">35273980</article-id>
+      <article-id pub-id-type="pmc">8902311</article-id>
+      <article-id pub-id-type="doi">10.3389/fmed.2022.821418</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Medicine</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Serum Myoglobin Is Associated With Postoperative Acute Kidney Injury in Stanford Type A Aortic Dissection</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yang</surname>
+            <given-names>Chen</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="fn002" ref-type="author-notes">
+<sup>†</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hou</surname>
+            <given-names>Peng</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="fn002" ref-type="author-notes">
+<sup>†</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Dongxu</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="fn002" ref-type="author-notes">
+<sup>†</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Zhenguo</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="fn002" ref-type="author-notes">
+<sup>†</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Duan</surname>
+            <given-names>Weixun</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <uri xlink:href="http://loop.frontiersin.org/people/965991/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Jincheng</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yu</surname>
+            <given-names>Shiqiang</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fu</surname>
+            <given-names>Feng</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Jin</surname>
+            <given-names>Zhenxiao</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="c001" ref-type="corresp">
+<sup>*</sup>
+</xref>
+          <uri xlink:href="http://loop.frontiersin.org/people/1144950/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1"><sup>1</sup><institution>Department of Cardiovascular Surgery, Xijing Hospital, Fourth Military Medical University</institution>, <addr-line>Xi'an</addr-line>, <country>China</country></aff>
+      <aff id="aff2"><sup>2</sup><institution>Department of Biomedical Engineering, Fourth Military Medical University</institution>, <addr-line>Xi'an</addr-line>, <country>China</country></aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: Marcos Ferreira Minicucci, São Paulo State University, Brazil</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: Luis Gustavo Modelli De Andrade, São Paulo State University, Brazil; Daijiro Hori, Jichi Medical University Saitama Medical Center, Japan</p>
+        </fn>
+        <corresp id="c001">*Correspondence: Zhenxiao Jin <email>zhenxiaojin210@126.com</email></corresp>
+        <fn fn-type="other" id="fn001">
+          <p>This article was submitted to Intensive Care Medicine and Anesthesiology, a section of the journal Frontiers in Medicine</p>
+        </fn>
+        <fn fn-type="equal" id="fn002">
+          <p>†These authors have contributed equally to this work</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>22</day>
+        <month>2</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2022</year>
+      </pub-date>
+      <volume>9</volume>
+      <elocation-id>821418</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>11</month>
+          <year>2021</year>
+        </date>
+        <date date-type="accepted">
+          <day>31</day>
+          <month>1</month>
+          <year>2022</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2022 Yang, Hou, Wang, Wang, Duan, Liu, Yu, Fu and Jin.</copyright-statement>
+        <copyright-year>2022</copyright-year>
+        <copyright-holder>Yang, Hou, Wang, Wang, Duan, Liu, Yu, Fu and Jin</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Background</title>
+          <p>The correlation between rhabdomyolysis and postoperative acute kidney injury has been reported in several surgical procedures. As a good predictor of rhabdomyolysis-related acute kidney injury, an elevated serum myoglobin level was often observed after total aortic arch replacement combined with frozen elephant trunk implantation. However, the correlation between serum myoglobin and acute kidney injury in such patients had not been established.</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p>Totally 398 stanford type A aortic dissection patients who underwent total aortic arch replacement combined with frozen elephant trunk implantation were enrolled in this retrospective study. The correlations between serum myoglobin and acute kidney injury as well as the 30-day mortality were assessed.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>Overall, 268(67.3%) patients had acute kidney injury (KDIGO stage 1 or higher) and 75(18.8%) had severe acute kidney injury (KDIGO stage 2&amp;3). Patients who developed acute kidney injury had higher level of perioperative serum myoglobin than patients without acute kidney injury. After adjusting for known acute kidney injury risk factors, logarithmically transformed preoperative serum myoglobin [<italic>OR</italic> = 1.58 (95% CI, 1.26–1.95), <italic>P</italic> &lt; 0.001] and postoperative day 1 serum myoglobin [<italic>OR</italic> = 3.47 (95%CI, 2.27–5.29), <italic>P</italic> &lt; 0.001] were associated with severe acute kidney injury. These correlation persisted after adjustment for decline in filtration via change in serum creatinine (ΔCr) and biomarkers of cardiac and kidney injury, including N-terminal prohormone of brain natriuretic peptide, cardiac troponin I, creatine kinase-MB, serum creatinine and Cystatin C. Compared with the clinical model, sMb considerably improved the risk discrimination and reclassification for AKI.</p>
+        </sec>
+        <sec>
+          <title>Conclusion</title>
+          <p>For stanford type A aortic dissection patients underwent total aortic arch replacement with frozen elephant trunk implantation, serum myoglobin can improve postoperative acute kidney injury risk classification. Rhabdomyolysis may be an important supplement to the existing knowledge on the mechanism of acute kidney injury.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>aortic dissection</kwd>
+        <kwd>total aortic arch replacement</kwd>
+        <kwd>acute kidney injury</kwd>
+        <kwd>myoglobin</kwd>
+        <kwd>rhabdomyolysis</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn001">
+            <institution-wrap>
+              <institution>National Natural Science Foundation of China</institution>
+              <institution-id institution-id-type="doi">10.13039/501100001809</institution-id>
+            </institution-wrap>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn002">
+            <institution-wrap>
+              <institution>Shaanxi Key Science and Technology Innovation Team Project</institution>
+              <institution-id institution-id-type="doi">10.13039/501100012270</institution-id>
+            </institution-wrap>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="2"/>
+        <table-count count="5"/>
+        <equation-count count="0"/>
+        <ref-count count="36"/>
+        <page-count count="9"/>
+        <word-count count="6810"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="s1">
+      <title>Introduction</title>
+      <p>Type A aortic dissection (TAAD) is a life-threatening cardiovascular disease. Total arch replacement (TAR) with the frozen elephant trunk (FET) implantation is an effective treatment for TAAD and produces favorable clinical outcomes (<xref rid="B1" ref-type="bibr">1</xref>). However, postoperative acute kidney injury (AKI) exhibits high morbidity (50–70%) and indexes poor prognosis (<xref rid="B2" ref-type="bibr">2</xref>, <xref rid="B3" ref-type="bibr">3</xref>). Since the mechanism of AKI has not been fully clarified, researches on the relationship between postoperative AKI and biomarkers with different pathophysiological backgrounds received extensive attention. Furthermore, pathophysiology-guided strategies are expected to translate into improvements in AKI clinical prevention, diagnosis and therapy (<xref rid="B4" ref-type="bibr">4</xref>). Among them, the relevance of Cystatin C (CysC), a renal biomarker of glomerular filtration, with AKI has been demonstrated (<xref rid="B5" ref-type="bibr">5</xref>). Meanwhile, several studies have shown that cardiac injury biomarkers can improve risk discrimination and reclassification for AKI, including N-terminal prohormone of brain natriuretic peptide (NT-proBNP), creatine kinase-MB (CK-MB) (<xref rid="B6" ref-type="bibr">6</xref>, <xref rid="B7" ref-type="bibr">7</xref>).</p>
+      <p>Myoglobin is a small-molecule oxygen-binding protein (18 kD) which is abundant in myocardial and skeletal muscle. However, sMb has been forsaken by cardiac troponin I (cTnI) for diagnosing myocardial injury (<xref rid="B8" ref-type="bibr">8</xref>). A recent study showed that myoglobin is an excellent skeletal muscle damage marker which could serve as an early diagnostic index for pressure induced deep tissue injury (<xref rid="B9" ref-type="bibr">9</xref>). Simultaneously, with the nephrotoxicity of myoglobin elucidated, the predictive value of serum myoglobin (sMb) for rhabdomyolysis-related AKI was reported in many surgical procedures (<xref rid="B10" ref-type="bibr">10</xref>–<xref rid="B14" ref-type="bibr">14</xref>). However, its correlation with AKI in the TAAD patients following TAR with FET had not been established. The purposes of this study were: (1) detect the relationship between sMb and postoperative AKI, (2) determine whether sMb level can improve risk prediction of AKI, and (3) screen the risk factors of elevated sMb.</p>
+    </sec>
+    <sec sec-type="materials and methods" id="s2">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Patients</title>
+        <p>This retrospective study was approved by the Ethics Committee of Xijing Hospital and the requirement for informed consent was waived off. This study was registered in the Chinese Clinical Trial Registry (ChiCTR2100042849).</p>
+        <p>From December 2017 to January 2020, 411 consecutive TAAD patients who underwent TAR with FET at Xijing Hospital. Exclusion criteria was the followings: (1) a history of end stage renal disease (ESRD) requiring dialysis; (2) pregnant women; (3) patients died within 48 h after surgery; (4) patients with incomplete data. Finally, a total of 398 patients were included in the analysis (<xref rid="SM1" ref-type="supplementary-material">Supplementary Figure 1</xref>). Clinical data were collected retrospectively from the clinical database of Xijing hospital.</p>
+      </sec>
+      <sec>
+        <title>Sample Size Calculation</title>
+        <p>The risk of AKI after TAR with FET was estimated to be 60% based on the literatures (<xref rid="B2" ref-type="bibr">2</xref>, <xref rid="B3" ref-type="bibr">3</xref>). The sample size calculation was intended to detect a proportion of 60% with a margin of error of 10% and a confidence interval of 95%, leading to a sample size calculation of 387 participants. Finally, 398 patients were included. Sample size calculation was determined with PASS 11.</p>
+      </sec>
+      <sec>
+        <title>Surgical Technique</title>
+        <p>All study participants underwent TAR with FET implantation. This procedure integrates total arch replacement using 4-branch arch Gelweave graft (Vascutek Terumo Inc, Scotland, England) with implantation of a frozen elephant trunk (MicroPort Medical, Shanghai, China) (<xref rid="SM2" ref-type="supplementary-material">Supplementary Figure 2</xref>) in the descending aorta as the treatment for extensive dissections or aneurysms involving the ascending aorta, the aortic arch, and the descending aorta. Moderate hypothermic circulatory arrest (MHCA, 25–28°C) and selective cerebral perfusion (ACP, 5-10 mL/kg/min) were performed routinely in the procedure. Sufentanil, rocuronium, propofol and midazolam were administered intravenously at the beginning of anesthesia induction, and sufentanil, pipecuronium, midazolam were used for maintaining anesthesia during the operation. Postoperative analgesia was carried out with sufentanil and remifentanil. All surgical procedures were performed by the same surgical team.</p>
+      </sec>
+      <sec>
+        <title>Biomarker Assays</title>
+        <p>Conventional serological tests of cardiac injury biomarkers (NT-proBNP, cTnI, CK-MB) and myoglobin were performed before surgery and on the 3 days after the operation. Serum CysC and creatinine were continuously monitored at least 7 days after surgery. The preoperative biomarkers were measured at induction of anesthesia. Creatinine kinase (CK) which failed to be proved as a reliable predictor of rhabdomyolysis-related AKI is not assayed (<xref rid="B15" ref-type="bibr">15</xref>). All laboratory assays were conducted in the Department of Laboratory Medicine of Xijing Hospital, using the commercial kits provided by the same company with the analyzers. CK-MB, cTnI and sMb were tested by BECKMAN DXI800 analyzer (Beckman Coulter, America). NT-proBNP tested by Cobas8000 C701 analyzer (Roche, Germany). H7180 analyzer (Hitachi, Japan) was used for CysC test.</p>
+      </sec>
+      <sec>
+        <title>Definition</title>
+        <p>Postoperative AKI was defined according to the Kidney Disease Improving Global Outcomes (KDIGO) criteria (<xref rid="B16" ref-type="bibr">16</xref>). The primary outcomes were any AKI (KDIGO stage 1 or higher) and severe AKI (KDIGO stage 2 and 3). Any AKI corresponded to serum creatinine increase ≥26.5 μmol/L (within 48 h) or serum creatinine 1.5 times the baseline (within 7 days), while severe AKI corresponded to doubling of serum creatinine (within 7 days) or AKI requiring dialysis. Urine output was not used to evaluate the level of AKI in this study. Creatinine changes within 7 days after surgery was used to define AKI as most articles focused on the CSA-AKI (<xref rid="B16" ref-type="bibr">16</xref>–<xref rid="B18" ref-type="bibr">18</xref>). Therefore, the internationally recognized diagnostic criterion of AKI was applied to ensure clinical significance. The second outcome was 30-day mortality which were collected with clinical records review or telephone follow-up. Estimated glomerular filtration rate (eGFR) was calculated using the CKD Epidemiology Collaboration (CKD-EPI) formula (<xref rid="B19" ref-type="bibr">19</xref>). Oliguria was defined as a urine output &lt;125 ml/6 h or 400 mL/24 h.</p>
+      </sec>
+      <sec>
+        <title>Statistical Methods</title>
+        <p>All normally distributed continuous variables were described with means [±standard deviation (SD)] and compared across groups with Student's <italic>t</italic>-test. Median [interquartile range (IQR)] and the Wilcoxon rank sum test were used for non-normally distributed continuous variables. Categorical variables were described with frequencies (%) and compared with chi-square test or Fisher's exact test. NT-proBNP, cTnI, CK-MB, CysC, and sMb were transformed by natural logarithm due to skewed distributions. Multivariate logistic regression was used to predict the standardized odds ratios (OR) of AKI. Two models which include the important clinical covariates in common clinical prediction scores for AKI after cardiac surgery were constructed to adjust (<xref rid="B20" ref-type="bibr">20</xref>–<xref rid="B22" ref-type="bibr">22</xref>). The preoperative model (Model<sup>a</sup>) includes age, sex, body mass index (BMI), hypertension, preoperative eGFR, preoperative white blood cell (WBC) and preoperative lactate. In addition to all covariates of the Model<sup>a</sup>, the postoperative model (Model<sup>b</sup>) includes surgery duration, cardiopulmonary bypass (CPB) duration, MHCA temperature and lactate. Then, the ORs of AKI were further adjusted for changes in serum creatinine (the value at the same time point as sMb minus preoperative value) (ΔCr) and logarithmically transformed cardiac biomarkers and renal biomarker, including NT-proBNP, cTnI, CK-MB and CysC. The ability of the postoperative day 1 (POD1) sMb level to discriminate risk for AKI based on the Model<sup>b</sup> was evaluated using area under the receiver operating characteristic curve (AUC), net reclassification improvement (NRI), and integrated discrimination improvement (IDI) (<xref rid="B23" ref-type="bibr">23</xref>). Pairwise comparison of AUC values was performed by DeLong test. In addition, receiver operating characteristic (ROC) curve analysis was performed to determine a cut-off value of the POD1 Ln(sMb) to predict AKI and severe AKI. We demonstrated the non-linear relationship between POD1 Ln(sMb) and severe AKI with adjustment for Model<sup>b</sup> using restricted cubic spline. Furthermore, stepwise linear regression analysis was used to assess independent predictors for the POD1 Ln(sMb) levels. A <italic>P</italic>-value of &lt;0.05 was considered statistically significant. Small amouts of missing values were statistically imputed using mean imputation. All analyses were performed with SPSS 19.0 and R (version 4.0.0.0).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="s3">
+      <title>Results</title>
+      <sec>
+        <title>Patient Characteristics</title>
+        <p>Baseline characteristics of patients without AKI, with any AKI and with severe AKI are presented in <xref rid="T1" ref-type="table">Table 1</xref>. Overall, 268 patients (67.3%) experienced any AKI and 75 patients (18.8%) had severe AKI during hospital stay. 57 patients (14.3%) received renal replacement therapy (RRT) which includes 20 patients (5.0%) received RRT between POD1 and POD3. 30-day mortality was 11.8%. Notably, 60% of our patients are diagnosed in local hospitals and transferred to our institution. In this cohort of patients, 114 (28.6%) patients were operated in &lt;24 h after event occurrence, 168 (42.2%) patients were operated in 24–48 h after event occurrence, 52 (13.1%) patients were operated in 48–72 h and 64 patients were operated in &gt;72 h after event occurrence.</p>
+        <table-wrap position="float" id="T1">
+          <label>Table 1</label>
+          <caption>
+            <p>Patient characteristics by different AKI severity.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Characteristic</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>All (<italic>n</italic> = 398)</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>No AKI (<italic>n</italic> = 130)</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>Any AKI (<italic>n</italic> = 268)</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>Severe AKI</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold><italic>P</italic>-value</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold><italic>P</italic>-value</bold>
+</th>
+              </tr>
+              <tr>
+                <th rowspan="1" colspan="1"/>
+                <th rowspan="1" colspan="1"/>
+                <th rowspan="1" colspan="1"/>
+                <th rowspan="1" colspan="1"/>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>(<italic>n</italic> = 75)</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>(Any AKI vs. NOT)<xref rid="TN1" ref-type="table-fn"><sup>a</sup></xref></bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>(Severe AKI vs. NOT)<xref rid="TN2" ref-type="table-fn"><sup>b</sup></xref></bold>
+</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" colspan="7" rowspan="1">
+<bold>Demographics</bold>
+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Gender (Male)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">318 (79.9)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">98 (75.4)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">220 (82.1)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">67 (89.3)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.117</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.015</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Age (y)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">48.4 ± 9.8</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">47.2 ± 10.5</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">49.0 ± 9.4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">47.0 ± 9.2</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.089</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.850</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">25.3 ± 3.6</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">24.3 ± 3.5</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">25.8 ± 3.6</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">27.1 ± 3.9</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" colspan="7" rowspan="1">
+<bold>Comorbidities</bold>
+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hypertension</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">295 (74.1)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">91 (70.0)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">204 (76.1)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">52 (69.3)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.191</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.920</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Diabetes</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5 (1.3)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0 (0)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5 (1.9)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2 (2.7)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.178</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.133</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CAD</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">9 (2.3)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2 (1.5)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7 (1.9)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1 (1.3)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.724</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.000</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Marfan syndrome</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7 (1.8)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4 (3.1)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3 (1.1)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1 (1.3)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.222</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.654</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">History of cardiac surgery</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">14 (3.5)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4 (3.1)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">10 (3.7)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2 (2.2)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.000</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.000</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">COPD</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5 (1.3)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3 (2.3)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2 (0.7)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1 (1.5)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.336</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.000</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Iliac artery involvement</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">225 (56.5)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">67 (51.5)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">158 (58.9)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">45 (60.0)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.162</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.532</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" colspan="7" rowspan="1">
+<bold>Marker at baseline</bold>
+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">WBC counts (10<sup>9</sup>/L)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">11.3 (9.0, 14.1)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">10.7 (8.3, 12.4)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">11.7 (9.3, 14.6)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">13.0 (9.4,15.4)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cr (μmoI/L)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">90 (70, 111)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">88 (73, 108)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">92 (75, 115)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">98 (76, 134)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.162</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.075</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">eGFR (ml/min/1.73m<sup>2</sup>)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">78.8 (61.3, 99.1)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">81.4 (63.6, 99.8)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">77.2 (56.8,98.0)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">76.3 (49.6, 102.0)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.379</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.437</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">LVEF (%)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">57 (54,60)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">57 (53, 60)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">58 (54, 61)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">57 (53,59)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.160</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" colspan="7" rowspan="1">
+<bold>Surgical characteristics</bold>
+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">No-elective surgery</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">167 (42.0)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">50 (38.5)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">117 (43.7)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">41 (54.7)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.325</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.024</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Femoral cannulation</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">207 (52.0)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">64 (49.2)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">143 (53.4)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">47 (62.7)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.440</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.040</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Combined with Bentall</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">167 (42.0)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">56 (43.1)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">111 (41.4)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">36 (48.0)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.753</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.495</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Combined with CABG</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">195 (49.0)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">66 (50.8)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">129 (48.1)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">32 (42.7)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.622</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.263</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Operation time (min)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">385 (349, 431)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">365 (330, 405)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">395 (355, 450)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">415 (370, 485)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CPB duration (min)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">215 (195, 236)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">201 (183, 227)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">220 (200, 240)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">230 (209, 252)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">ACC duration (min)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">67 (84, 110)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">93 (82, 107)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">100 (84, 111)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">99 (85, 118)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.041</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.065</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">MHCA duration (min)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">31 (27, 36)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">31 (26, 35)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">32 (27, 36)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">33 (27, 37)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.087</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.131</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">MHCA temperature (°C)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">26.0 (25.6, 26.5)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">26.0 (25.6, 26.3)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">26.0 (25.6, 26.6)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">26.0 (25.5, 26.7)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.309</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.518</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">pRBC transfusion (U)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">9.0 (5.0, 13.5)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7.0 (4.0, 10.5)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">10.3 (6.0, 16.0)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">14.0 (8.0,22.5)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">pH on ICU admission</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7.42 ± 0.10</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7.45 ± 0.09</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7.41 ± 0.09</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7.37 ± 0.08</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" colspan="7" rowspan="1">
+<bold>Postoperative complication</bold>
+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ventilator duration (h)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">21 (16, 46)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">18 (16, 22)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">37 (17, 59)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">63 (37,88)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">ICU LOS (d)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3 (2,5)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2 (2, 3)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3 (2, 5)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6 (4,10)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">30-day mortality</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">47 (11.8)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1 (0.8)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">46 (17.2)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35 (46.7)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Oliguria in POD1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">16 (4.0)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5 (3.8)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">11 (4.1)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4 (5.3)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.902</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.520</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cardiovascular complications</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">56 (14.1)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5 (3.8)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">51 (19.0)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">32 (42.7)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Respiratory complications</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">60 (15.1)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">18 (3.8)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">42 (15.7)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">14 (18.6)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.460</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.268</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Neurological complications</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">63 (15.8)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6 (4.6)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">57 (21.3)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">29 (38.7)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hepatic dysfunction</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">38 (9.50)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4 (3.1)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34 (12.7)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">23 (30.7)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.002</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Sepsis</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">20 (5.0)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2 (1.5)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">18 (6.7)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">10 (13.3)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.027</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.002</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Re-exploration for bleeding</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3 (0.8)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1 (0.8)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2 (0.7)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2 (1.1)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.000</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.556</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>
+<italic>BMI, Body mass index; CAD, Coronary artery disease; COPD, Chronic obstructive pulmonary disease; WBC, White blood cell; eGFR, estimated glomerular filtration rate; LVEF, Left ventricular ejection fraction; CPB, cardiopulmonary bypass; ACC, Aortic cross-clamp; MHCA, Moderate hypothermic circulatory arrest; pRBC, packed red blood cells; ICU LOS, ICU length of stay.</italic>
+</p>
+            <p>
+<italic>Any AKI is KDIGO stage 1 or higher. Severe AKI is KDIGO stage 2 and 3. All normally distributed continuous variables were described with means (±standard deviation [SD]) and compared across groups with Student t-test. Median (interquartile range [IQR]) and the Wilcoxon rank sum test were used for non-normally distributed continuous variables. Categorical variables were described with frequencies (%) and compared with chi-square test or Fisher's exact test. 5 missing BMI values were imputed using mean imputation in different gender.</italic>
+</p>
+            <fn id="TN1">
+              <label>a</label>
+              <p>
+<italic>(Any AKI vs. NOT), Patients with any AKI (KDIGO stage1 or higher) compared with patients without AKI.</italic>
+</p>
+            </fn>
+            <fn id="TN2">
+              <label>b</label>
+              <p><italic>(Severe AKI vs.NOT), Patients with severe AKI (KDIGO stage 2 and 3) compared with patients without AKI and patients with mild AKI (KDIGO stage1)</italic>.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>Patients who developed any AKI were with higher BMI and WBC. Additionally, they were more likely to experience longer operation time, CPB duration and more packed red blood cells (pRBC) transfusion. They also had more complicated postoperative course including longer ventilation time and ICU stays as well as higher rates of complications and 30-day mortality.</p>
+      </sec>
+      <sec>
+        <title>Perioperative Kinetics of sMb and Correlation Between Different Biomarkers</title>
+        <p>Patients with any AKI had higher perioperative sMb levels than those without AKI. While patients with severe AKI had the highest levels in the three groups (<xref rid="F1" ref-type="fig">Figure 1</xref>). The POD1 sMb level increased by 34-fold in severe AKI patients, 19-fold in any AKI patients, and 10-fold in patients without AKI when compared with preoperative sMb levels. The sMb level in patients without AKI reached peak on POD1. Then a rapid elimination was observed that the sMb level was decreased from peak concentration to 27% on POD 3. In patients with any AKI, sMb level reached peak on POD1 and eliminated to 42% of the peak on POD 3. In patients with severe AKI, the sMb level rose to peak on POD 2 and the concentration kept high on POD 3 (<xref rid="F1" ref-type="fig">Figure 1</xref>). Patients with any AKI and severe AKI have a higher peak sMb level and a slower elimination rate. Meanwhile, the figure of daily changes in eGFR is shown as <xref rid="SM3" ref-type="supplementary-material">Supplementary Figure 3</xref>.</p>
+        <fig position="float" id="F1">
+          <label>Figure 1</label>
+          <caption>
+            <p>Perioperative sMb levels by AKI status. Each bar represents the interquartile range (25th percentile to 75th percentile) and the black line represents the median. Any AKI is KDIGO stage 1 or higher. Severe AKI is KDIGO stage 2 and 3.</p>
+          </caption>
+          <graphic xlink:href="fmed-09-821418-g0001" position="float"/>
+        </fig>
+        <p>The POD1 values of all cardiac and renal biomarkers, including NT-proBNP, cTnI, CK-MB, CysC and sMb were significantly higher in patients with any AKI than in patients without AKI (<xref rid="SM5" ref-type="supplementary-material">Supplementary Table 1</xref>). Notably, we found weakly correlations between sMb and cardiac biomarkers. The renal biomarkers (AUC<sub>CysC</sub>) were also weakly correlated with cardiac biomarkers but strongly correlated with AUC<sub>sMb</sub> (<italic>r</italic> = 0.639, <italic>P</italic> &lt; 0.001) (<xref rid="SM6" ref-type="supplementary-material">Supplementary Table 2</xref>).</p>
+      </sec>
+      <sec>
+        <title>Association of sMb With AKI</title>
+        <p>Both preoperative and postoperative logarithmically transformed sMb [Ln(sMb)] were associated with the different AKI severity in univariate models. The association persisted after adjusting for clinical covariates and changes of serum creatinine levels (ΔCr). Each unit increased in POD1 Ln(sMb) was independently associated with any AKI [adjusted OR 3.41 (95%CI, 1.67–6.98)] and severe AKI [adjusted OR 2.33 (95%CI, 1.49–3.65)]. Notably, the association of Ln(sMb) and patients with any AKI or severe AKI persisted after adjustment for logarithmically transformed NT-proBNP, cTnI, CK-MB, and CysC (<xref rid="T2" ref-type="table">Tables 2</xref>, <xref rid="T3" ref-type="table">3</xref>). Thus, it indicated that sMb was capturing an unique aspect of the pathophysiology of AKI which differed from the above cardiac biomarkers and renal biomarker. And the adjusted ORs of Ln(sMb) for severe AKI on POD2 and POD3 are higher than the values on POD1.</p>
+        <table-wrap position="float" id="T2">
+          <label>Table 2</label>
+          <caption>
+            <p>Association of Ln(sMb) with any AKI.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Any AKI</bold>
+</th>
+                <th valign="top" align="center" style="border-bottom: thin solid #000000;" colspan="2" rowspan="1">
+<bold>Preoperative</bold>
+</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Any AKI</bold>
+</th>
+                <th valign="top" align="center" style="border-bottom: thin solid #000000;" colspan="2" rowspan="1">
+<bold>POD1</bold>
+</th>
+                <th valign="top" align="center" style="border-bottom: thin solid #000000;" colspan="2" rowspan="1">
+<bold>POD2</bold>
+</th>
+                <th valign="top" align="center" style="border-bottom: thin solid #000000;" colspan="2" rowspan="1">
+<bold>POD3</bold>
+</th>
+              </tr>
+              <tr>
+                <th rowspan="1" colspan="1"/>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>OR (95% IC)</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold><italic>P</italic>-value</bold>
+</th>
+                <th rowspan="1" colspan="1"/>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>OR (95% IC)</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold><italic>P</italic>-value</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>OR (95% IC)</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold><italic>P</italic>-value</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>OR (95% IC)</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold><italic>P</italic>-value</bold>
+</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.45 (1.20, 1.76)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.56 (3.16, 6.59)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.34 (3.62, 7.88)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.35 (2.51, 4.47)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.45 (1.16, 1.81)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.53 (2.90, 7.07)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.65 (3.53, 9.05)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.15 (2.27, 4.36)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model+ΔCr</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model+ΔCr</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.41 (1.67, 6.98)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.29 (1.24, 4.22)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.008</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.02 (1.37, 2.98)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model+ Ln(NT-proBNP)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.45 (1.16, 1.81)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model+ΔCr +Ln(NT-proBNP)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.88 (1.42, 5.85)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.003</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.28 (1.22, 4.27)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.010</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.97 (1.33, 2.93)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Mode+ Ln(cTnI)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.46 (1.16, 1.85)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model+ΔCr +Ln(cTnI)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.90 (1.38, 6.09)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.005</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.07 (1.09, 3.93)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.026</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.90 (1.27, 2.83)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.002</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model+ Ln(CK-MB)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.50 (1.11, 2.03)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.008</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model+ΔCr +Ln(CK-MB)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.01 (1.43, 6.35)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.004</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.20 (1.08, 4.52)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.031</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.77 (1.13, 2.77)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.013</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model+ Ln(CysC)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.37 (1.18, 1.71)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.005</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model+ΔCr +Ln(CysC)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.36 (1.30, 5.77)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.013</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.18 (1.18, 4.01)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.013</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.82 (1.22, 2.71)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.003</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>Any AKI is KDIGO stage 1 or higher. Results are shown with continuous log-transformed sMb as the predictor variable. All odds ratios expressed as per unit increase in Ln(sMb). Preoperative Ln(sMb) was adjusted for Model<sup>a</sup>. Postoperative Ln(sMb) was adjusted for Model<sup>b</sup>. Model<sup>a</sup>, age, sex, BMI, hypertension, preoperative eGFR, preoperative WBC and preoperative lactate; Model<sup>b</sup>, age, sex, BMI, hypertension, preoperative eGFR and preoperative WBC, surgery duration, cardiopulmonary bypass duration, MHCA temperature and lactate</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+        <table-wrap position="float" id="T3">
+          <label>Table 3</label>
+          <caption>
+            <p>Association of Ln(sMb) with severe AKI.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Severe AKI</bold>
+</th>
+                <th valign="top" align="center" style="border-bottom: thin solid #000000;" colspan="2" rowspan="1">
+<bold>Preoperative</bold>
+</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Severe AKI</bold>
+</th>
+                <th valign="top" align="center" style="border-bottom: thin solid #000000;" colspan="2" rowspan="1">
+<bold>POD1</bold>
+</th>
+                <th valign="top" align="center" style="border-bottom: thin solid #000000;" colspan="2" rowspan="1">
+<bold>POD2</bold>
+</th>
+                <th valign="top" align="center" style="border-bottom: thin solid #000000;" colspan="2" rowspan="1">
+<bold>POD3</bold>
+</th>
+              </tr>
+              <tr>
+                <th rowspan="1" colspan="1"/>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>OR (95% IC)</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold><italic>P</italic>-value</bold>
+</th>
+                <th rowspan="1" colspan="1"/>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>OR (95% IC)</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold><italic>P</italic>-value</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>OR (95% IC)</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold><italic>P</italic>-value</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>OR (95% IC)</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold><italic>P</italic>-value</bold>
+</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.51 (1.25, 1.82)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.70 (2.68, 5.11)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.22 (3.08, 5.79)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.30 (3.13, 5.90)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.58 (1.26, 1.95)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.47 (2.27, 5.29)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.00 (2.72, 5.79)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.84 (2.70, 5.45)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model +Δ Cr</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model+ΔCr</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.33 (1.49, 3.65)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.56 (1.66, 3.94)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.00 (2.05, 4.38)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model+ Ln(NT-proBNP)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.56 (1.25, 1.95)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model+ΔCr +Ln(NT-proBNP)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.36 (1.47, 3.78)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.46 (1.60, 3.80)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.12 (2.12, 4.61)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model+ Ln(cTnI)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.54 (1.22, 1.95)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model+ΔCr +Ln(cTnI)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.15 (1.34, 3.44)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.50 (1.57, 3.97)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.95 (1.96, 4.43)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb) + Model + Ln(CK-MB)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.68 (1.23, 2.29)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model+ΔCr +Ln(CK-MB)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.28 (1.39, 3.75)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.95 (1.74, 5.03)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.84 (1.78, 4.53)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model+Ln(CysC)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.48 (1.17, 1.86)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(sMb)+Model+ΔCr +Ln(CysC)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.15 (1.37, 3.39)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.56 (1.66, 3.95)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.02 (2.05, 4.43)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>Severe AKI is KDIGO stage 2 and 3. Results are shown with continuous log-transformed sMb as the predictor variable. All odds ratios expressed as per unit increase in Ln(sMb). Preoperative Ln(sMb) was adjusted for Model<sup>a</sup>. Postoperative Ln(sMb) was adjusted for Model<sup>b</sup>. Model<sup>a</sup>, age, sex, BMI, hypertension, preoperative eGFR, preoperative WBC and preoperative lactate; Model<sup>b</sup>, age, sex, BMI, hypertension, preoperative eGFR and preoperative WBC, surgery duration, cardiopulmonary bypass duration, MHCA temperature and lactate</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Association of sMb With Mortality</title>
+        <p>The postoperative 30-day mortality of the entire cohort was 11.8%. The mortality (35/75, 46.7%) of the patients with severe AKI is significantly higher than patients without AKI (1/130, 0.8%) (<italic>P</italic> &lt; 0.001). The postoperative Ln(sMb) was associated with 30-day mortality after adjusted for logarithmically transformed individual renal biomarker and cardiac biomarkers. The relationship between preoperative Ln(sMb) and 30-day mortality was attenuated after adjusted for Ln(CK-MB) and Ln(CysC) (<xref rid="SM8" ref-type="supplementary-material">Supplementary Table 3</xref>). Multicollinearity is examined using the variance inflation factor (VIF) statistic and was found to be acceptable (<xref rid="SM9" ref-type="supplementary-material">Supplementary Table 5</xref>).</p>
+      </sec>
+      <sec>
+        <title>Diagnostic Value of sMb for Clincial Outcomes</title>
+        <p>The area under the curve (AUC), event and non-event NRI and IDI for the different AKI severity and 30-day mortality of POD1 Ln(sMb) are presented in <xref rid="T4" ref-type="table">Table 4</xref>. POD1 Ln(sMb) improved the reclassification and discrimination of any AKI [ΔAUC = 0.08, (95% CI, 0.04–0.12), NRI = 0.74 (95% CI, 0.55–0.94), IDI = 0.13 (95%CI, 0.11–0.16)]. The same effect is observed for severe AKI and 30-day mortality.</p>
+        <table-wrap position="float" id="T4">
+          <label>Table 4</label>
+          <caption>
+            <p>Prediction performance of the POD1 Ln(sMb).</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th rowspan="1" colspan="1"/>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>Any AKI</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>Severe AKI</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>30-day mortality</bold>
+</th>
+              </tr>
+              <tr>
+                <th rowspan="1" colspan="1"/>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>(95% IC)</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>(95% IC)</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>(95% IC)</bold>
+</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" colspan="4" rowspan="1">
+<bold>AUC (95%IC)</bold>
+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Model<xref rid="TN3" ref-type="table-fn"><sup>b</sup></xref></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.75 (0.71, 0.79)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.79 (0.75, 0.83)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.74 (0.70, 0.78)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Model<xref rid="TN3" ref-type="table-fn"><sup>b</sup></xref>+Ln(sMb)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.83 (0.79, 0.87)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.83 (0.81, 0.89)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.79 (0.74, 0.82)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">ΔAUC</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.08<xref rid="TN5" ref-type="table-fn"><sup>**</sup></xref> (0.04, 0.12)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.08<xref rid="TN4" ref-type="table-fn"><sup>*</sup></xref> (0.04, 0.12)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.05 (0.04, 0.12)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" colspan="4" rowspan="1">
+<bold>Continuous NRI (95%)</bold>
+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">All NRI</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.74<xref rid="TN5" ref-type="table-fn"><sup>**</sup></xref> (0.55, 0.94)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.63<xref rid="TN5" ref-type="table-fn"><sup>**</sup></xref> (0.46, 0.81)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.63<xref rid="TN5" ref-type="table-fn"><sup>**</sup></xref> (0.46, 0.81)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">NRI+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.29<xref rid="TN5" ref-type="table-fn"><sup>**</sup></xref> (0.21, 0.44)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.31<xref rid="TN5" ref-type="table-fn"><sup>**</sup></xref> (0.15, 0.46)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.34<xref rid="TN5" ref-type="table-fn"><sup>**</sup></xref> (0.03, 0.60)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">NRI-</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.45<xref rid="TN5" ref-type="table-fn"><sup>**</sup></xref> (0.31, 0.59)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.32<xref rid="TN5" ref-type="table-fn"><sup>**</sup></xref> (0.18, 0.47)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.29<xref rid="TN5" ref-type="table-fn"><sup>**</sup></xref> (0.14, 0.43)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">IDI</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.13<xref rid="TN5" ref-type="table-fn"><sup>**</sup></xref> (0.11, 0.16)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.07<xref rid="TN5" ref-type="table-fn"><sup>**</sup></xref> (0.06, 0.09)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.07<xref rid="TN5" ref-type="table-fn"><sup>**</sup></xref> (0.04, 0.09)</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>
+<italic>Any AKI is KDIGO stage 1 or higher. Severe AKI is KDIGO stage 2 and 3.</italic>
+</p>
+            <fn id="TN3">
+              <p>
+<italic>Model<sup>b</sup>, age, sex, BMI, hypertension, preoperative eGFR and preoperative WBC, surgery duration, cardiopulmonary bypass duration, MHCA temperature and lactate.</italic>
+</p>
+            </fn>
+            <fn id="TN4">
+              <label>*</label>
+              <p>
+<italic>P-value &lt; 0.05.</italic>
+</p>
+            </fn>
+            <fn id="TN5">
+              <label>**</label>
+              <p><italic>P-value &lt; 0.001</italic>.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>ROC curve analysis showed that an POD1 Ln(sMb) concentration of &gt;6.36 (corresponds to sMb = 580 ng/ml) predicted severe AKI with a sensitivity of 76.5% and a specificity of 72.3% [AUC = 0.796 (95% CI, 0.75–0.84)], and a value &gt;7.22 (corresponds to sMb = 1380 ng/ml) predicted severe AKI with a sensitivity of 70.7% and a specificity of 79.9% [AUC = 0.809 (95% CI, 0.77–0.85)]. We found an inverse, but not J-shaped/U-shaped relationship between POD1 Ln(sMb) and severe AKI (<italic>P</italic> &lt; 0.001) which suggest that the risk of severe AKI are positively correlated with the level of sMb (<xref rid="F2" ref-type="fig">Figure 2</xref>). The diagnostic values of other other mentioned biomarkers are showed as <xref rid="SM10" ref-type="supplementary-material">Supplementary Table 6</xref>.</p>
+        <fig position="float" id="F2">
+          <label>Figure 2</label>
+          <caption>
+            <p>Multivariable-adjusted restricted cubic spline demonstrating that the adjusted association of POD1 Ln(sMb) with severe AKI was non-linear in persons underwent TAR with FET. Solid line represents ORs; dotted lines, 95% CIs. The extreme 5% of the data distribution was excluded to avoid implausible extrapolation from the extremes of the data. The spline function was adjusted for Model<sup>b</sup>. Model<sup>b</sup>: age, sex, BMI, hypertension, preoperative Egfr and preoperative WBC, surgery duration, cardiopulmonary bypass duration, the lowest rectal temperature and lactate.</p>
+          </caption>
+          <graphic xlink:href="fmed-09-821418-g0002" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Predictors of Postoperative sMb Concentration</title>
+        <p>Covariates with a <italic>P</italic>-value of &lt;0.05 in univariate analysis were included into the multivariable analysis (<italic>F</italic> = 47.67, <italic>P</italic> &lt; 0.001, adjusted <italic>R</italic><sup>2</sup> = 0.49) in terms of association with elevated POD1 Ln(sMb) level. Only weight, iliac artery involvement, preoperative eGFR, preoperative Ln(sMb), the lowest rectal temperature, surgery duration, pRBC transfusion and pH at ICU admission revealed significant influence on the POD1 Ln(sMb) level (<xref rid="T5" ref-type="table">Table 5</xref>). All other clinical factors mentioned in this article had no significant influence on postoperative sMb levels. The independent predictors of preoperative Ln(sMb) were gender, weight, preoperative WBC, preoperative eGFR and iliac artery involvement (<xref rid="SM7" ref-type="supplementary-material">Supplementary Table 4</xref>).</p>
+        <table-wrap position="float" id="T5">
+          <label>Table 5</label>
+          <caption>
+            <p>Multiple linear regression of factors related to the POD1 Ln(sMb).</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th rowspan="1" colspan="1"/>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>
+<italic>B</italic>
+</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>Std. error</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>β</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold><italic>P</italic>-value</bold>
+</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">(Constart)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">9.663</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.308</td>
+                <td rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.004</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Weight (kg)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.007</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.003</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.081</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.039</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Preoperative eGFR (ml/min/1.73m<sup>2</sup>)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−0.003</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−0.103</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.012</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ln(Pre-op sMb) (ng/mL)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.227</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.031</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.292</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Iliac artery involvement</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.260</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.076</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.129</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">MHCA temperature (°C)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.247</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.047</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.203</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Surgery duration (min)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.004</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.284</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">pRBC transfusion (U)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.023</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.004</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.216</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">pH on ICU admission (mmol/L)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−1.694</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.396</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−0.161</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&lt;0.001</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>
+<italic>F = 47.665, P-value &lt; 0.001, adjusted R<sup>2</sup> = 0.485.</italic>
+</p>
+            <p><italic>eGFR, estimated glomerular filtration rate; Pre-op, preoperative; sMb, serum myoglobin; MHCA, Moderate hypothermic circulatory arrest; pRBC, packed red blood cells; ICU, Intensive Care Unit</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s4">
+      <title>Discussion</title>
+      <p>This study demonstrated that elevated preoperative and postoperative sMb were associated with AKI and 30-day mortality in TAAD patients underwent TAR with FET. After adjustment for clinical covariates, decline in filtration (via change in serum creatinine (ΔCr), cardiac biomarkers (via NT-proBNP, cTnI and CK-MB) and renal biomarker (via CysC), the statistical significance still existed. This argues that immediate myocardial injury and kindey injury can not fully explain this correlation. Moreover, only 3% patients developed oliguria in POD1, so it is unlikely that the immediate elevation of sMb levels postoperatively can be explained by impaired renal filtration. In addition, POD1 sMb improve the reclassification and discrimination of clinical model for the different AKI severity and 30-day mortality. The analysis by ROC revealed an adequate predictive accuracy of POD1 sMb to detect severe AKI for the optimal cut-off 1,380 ng/ml. The longer duration and higher level of sMb, the increased risk of severe AKI.</p>
+      <p>The pressure-related muscle injury causing rhabdomyolysis recognized in the patients undergoing prolonged surgeries, including the spinal, urological, bariatric and some cardiac surgeries (<xref rid="B10" ref-type="bibr">10</xref>–<xref rid="B14" ref-type="bibr">14</xref>). In these situations, skeletal muscle (mainly gluteal and back muscles) is more prone to hypoxic injury and vascular compromise because of its peripheral location and long-term compression (<xref rid="B24" ref-type="bibr">24</xref>). Consequently, many intracellular and often toxic components (e.g., CK, potassium and myoglobin among others) leak into the blood. Then, the myoglobin triggers the toxin causing renal dysfunction (<xref rid="B25" ref-type="bibr">25</xref>). Although, rhabdomyolysis is currently defined on the basis of CK which has a longer half-time. sMb has been proved to be more sensitive and specific than CK for predicting AKI (<xref rid="B15" ref-type="bibr">15</xref>, <xref rid="B26" ref-type="bibr">26</xref>). In addition, compared with off-pump procedures, on-pump procedures were associated with significantly higher sMb peak concentrations following coronary artery bypass grafting (CABG) (<xref rid="B13" ref-type="bibr">13</xref>). This suggested that CPB might exacerbate rhabdomyolysis and increase sMb. It is notable that one study found that sMb is associated with renal dysfunction following thoracoabdominal aortic repairment (<xref rid="B14" ref-type="bibr">14</xref>). However, the study did not adjust for the occurrence of AKI as we did in our models. Hemodynamic management is not only related to rhabdomyolysis but plays a major role in development of AKI. Lactate was added in the Model for adjustment in regression to provide information on low perfusion. The correlation between lactate and sMb (<italic>r</italic> = 0.469, <italic>P</italic> &lt; 0.001) is provided as <xref rid="SM4" ref-type="supplementary-material">Supplementary Figure 4</xref>.</p>
+      <p>This is the first study demonstrated that an elevated sMb level related to rhabdomyolysis is associated with AKI following TAR with FET. Current literatures provide several explanations for the association between sMb and AKI after TAR with FET. First, several studies have illustrated multiple pathologic factors, such as ischemia, compression and thrombosis result in rhabdomyolysis and release myoglobin (<xref rid="B27" ref-type="bibr">27</xref>). As a small-molecule protein, myoglobin can precipitate in the glomerular filtrate, particular in the acidic condition and hypovolemia, finally causing severe kidney damage. The mechanisms of myoglobin nephrotoxicity include: (1) formation of intratubular casts, (2) renal vasoconstriction, (3) heme-induced oxidative damage (<xref rid="B27" ref-type="bibr">27</xref>). Second, TAR with FET could only be accomplished with the aid of sophisticated CPB techniques, including variable arterial cannulation strategy, hypothermic circulatory arrest and selective cerebral perfusion. All these operations may worsen the hemodynamic instability and exacerbate skeletal muscle damage. It has been suggested that femoral arterial cannulation contribute to leg malperfusion (<xref rid="B28" ref-type="bibr">28</xref>, <xref rid="B29" ref-type="bibr">29</xref>). Third, there is a paucity of data regarding AKI undergoing arch surgery. Current accepted mechanisms of cardiac surgery–associated acute kidney injury (CS-AKI) involve hemodynamic perturbation, inflammation and oxidative stress, CPB-related hemolysis etc. (<xref rid="B17" ref-type="bibr">17</xref>). Previous studies have demonstrated skeletal muscle damage is more prominent in aortic surgery than cardiac surgery which further suggested that rhabdomyolysis may be important supplement to the existing knowledge on the mechanism of AKI after aortic surgery (<xref rid="B30" ref-type="bibr">30</xref>). Moreover, study have shown that the highest concentration of serum myoglobin can be detected between 4 and 12 h following muscle injury which correspond to POD1 timepoint (<xref rid="B30" ref-type="bibr">30</xref>). As the results show, the preoperative and postoperative day 1–3 sMb were related with AKI which suggest rhabdomyolysis may contribute to AKI preoperatively, intraoperatively and postoperatively. Especially for those with persistently elevated sMb may stand for more serious rhabdomyolysis and greater harm on kidney.</p>
+      <p>Therefore, a sMb targeted strategy to lower the sMb level might be a potential treatment for preventing AKI following TAR with FET. Firstly, to reduce the risk of rhabdomyolysis in high-risk patients, such as obese subjects with the dissection iliac artery involvement, higher preoperative sMb and lower preoperative estimated glomerular filtration rate (eGFR), it might be useful to optimize cannulation strategy (e.g., sidearm cannulation), avoid hypotension, shorten operation time and MHCA duration (<xref rid="B31" ref-type="bibr">31</xref>–<xref rid="B33" ref-type="bibr">33</xref>). Secondly, alleviation vasoconstriction and reduction of sMb accumulation by administration of nitric oxide, avoidance of acidosis and volume depletion (<xref rid="B25" ref-type="bibr">25</xref>, <xref rid="B34" ref-type="bibr">34</xref>). Most cases of limb ischemia can be solved after TAR with FET. For patients with sustained elevated myoglobin levels, blood purification with a cytokine adsorber might be a therapeutic option (<xref rid="B35" ref-type="bibr">35</xref>). Last but not least, longitudinal monitoring of sMb is essential to more closely monitor disease activity and therapeutic efficiency (<xref rid="B26" ref-type="bibr">26</xref>).</p>
+      <p>There are several limitations of the present study. First, due to the correlational nature of this study, a causal interpretation between the elevated sMb and postoperative AKI can not be drawn in this cohort of patients. But our results do suggest a possible causal relationship between rhabdomyolysis and AKI after TAR with FET. Second, despite all of these relationships persisted after adjustment for the decline in filtration and renal biomarker, the renal injury secondary to the renal malperfusion or free hemoglobin due to hemolysis could also work in the strong relationship between sMb and AKI (<xref rid="B36" ref-type="bibr">36</xref>). Although iliac involvement which related with sMb in this study always stands for extensive aortic dissection. We do not have detailed clinical data about the preoperative and postoperative status of the renal arteries.</p>
+    </sec>
+    <sec sec-type="conclusions" id="s5">
+      <title>Conclusion</title>
+      <p>This is the first study to demonstrate that sMb could improve postoperative AKI risk classification for TAAD patients underwent TAR with FET. Rhabdomyolysis may be an important supplement to the existing knowledge on the mechanism of AKI. A sMb targeted strategy might be useful in the management of AKI after TAR with FET. However, future studies with more detailed clinical data are needed to further validate the relationship between sMb and AKI in this cohort of patients.</p>
+    </sec>
+    <sec sec-type="data-availability" id="s6">
+      <title>Data Availability Statement</title>
+      <p>The original contributions presented in the study are included in the article/<xref rid="s11" ref-type="sec">Supplementary Materials</xref>, further inquiries can be directed to the corresponding author.</p>
+    </sec>
+    <sec id="s7">
+      <title>Ethics Statement</title>
+      <p>The studies involving human participants were reviewed and approved by the Ethics Committee of Xijing Hospital. Written informed consent for participation was not required for this study in accordance with the national legislation and the institutional requirements.</p>
+    </sec>
+    <sec id="s8">
+      <title>Author Contributions</title>
+      <p>ZJ, WD, SY, and JL designed the clinical study. CY, PH, DW, and ZW collected clinical data and specimens. FF, CY, and PH analyzed the data. ZJ, SY, CY, and PH wrote the article. All authors read and approved the final manuscript.</p>
+    </sec>
+    <sec sec-type="funding-information" id="s9">
+      <title>Funding</title>
+      <p>This work was supported by grants from Shaanxi Key Science and Technology Innovation Team Project (2019ZDLSF01-01-02, 2020SF-250) and the National Natural Science Foundation of China (51837011, 81870218, 82070503).</p>
+    </sec>
+    <sec sec-type="COI-statement" id="conf1">
+      <title>Conflict of Interest</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflictof interest.</p>
+    </sec>
+    <sec sec-type="disclaimer" id="s10">
+      <title>Publisher's Note</title>
+      <p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="supplementary-material" id="s11">
+      <title>Supplementary Material</title>
+      <p>The Supplementary Material for this article can be found online at: <ext-link xlink:href="https://www.frontiersin.org/articles/10.3389/fmed.2022.821418/full#supplementary-material" ext-link-type="uri">https://www.frontiersin.org/articles/10.3389/fmed.2022.821418/full#supplementary-material</ext-link></p>
+      <supplementary-material id="SM5" position="float" content-type="local-data">
+        <media xlink:href="Table_1.DOCX">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="SM6" position="float" content-type="local-data">
+        <media xlink:href="Table_2.DOCX">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="SM7" position="float" content-type="local-data">
+        <media xlink:href="Table_3.DOCX">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="SM8" position="float" content-type="local-data">
+        <media xlink:href="Table_4.DOCX">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="SM9" position="float" content-type="local-data">
+        <media xlink:href="Table_5.DOCX">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="SM10" position="float" content-type="local-data">
+        <media xlink:href="Table_6.DOCX">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="SM1" position="float" content-type="local-data">
+        <label>Supplementary Figure 1</label>
+        <caption>
+          <p>Flow chart of study exclusion and inclusion. TAAD, Type A aortic dissection; TAR, total arch replacement; FET, frozen elephant trunk; ESRD: AKI: acute kidney injury.</p>
+        </caption>
+        <media xlink:href="Image_1.TIF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="SM2" position="float" content-type="local-data">
+        <label>Supplementary Figure 2</label>
+        <caption>
+          <p>Frozen elephant trunk (MicroPort Medical, Shanghai, China).</p>
+        </caption>
+        <media xlink:href="Image_2.TIF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="SM3" position="float" content-type="local-data">
+        <label>Supplementary Figure 3</label>
+        <caption>
+          <p>Daily changes in eGFR.</p>
+        </caption>
+        <media xlink:href="Image_3.TIF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="SM4" position="float" content-type="local-data">
+        <label>Supplementary Figure 4</label>
+        <caption>
+          <p>Correlation between lactate and Ln(sMb) on POD1.</p>
+        </caption>
+        <media xlink:href="Image_4.TIF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <label>1.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Iino</surname><given-names>K</given-names></name><name><surname>Takago</surname><given-names>S</given-names></name><name><surname>Saito</surname><given-names>N</given-names></name><name><surname>Ueda</surname><given-names>H</given-names></name><name><surname>Yamamoto</surname><given-names>Y</given-names></name><name><surname>Kato</surname><given-names>H</given-names></name><etal/></person-group>
+<article-title>Total arch replacement and frozen elephant trunk for acute type A aortic dissection.</article-title>
+<source>J Thorac Cardiovasc Surg</source>. (<year>2020</year>). <pub-id pub-id-type="doi">10.1016/j.jtcvs.2020.10.135</pub-id> [Epub ahead of print].</mixed-citation>
+      </ref>
+      <ref id="B2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Erbel</surname><given-names>R</given-names></name><name><surname>Aboyans</surname><given-names>V</given-names></name><name><surname>Boileau</surname><given-names>C</given-names></name><name><surname>Bossone</surname><given-names>E</given-names></name><name><surname>Bartolomeo</surname><given-names>RD</given-names></name><name><surname>Eggebrecht</surname><given-names>H</given-names></name><etal/></person-group>. <article-title>2014 ESC guidelines on the diagnosis and treatment of aortic diseases: document covering acute and chronic aortic diseases of the thoracic and abdominal aorta of the adult. The task force for the diagnosis and treatment of aortic diseases of the European Society of Cardiology (ESC)</article-title>. <source>Eur Heart J.</source> (<year>2014</year>) <volume>35</volume>:<fpage>2873</fpage>–<lpage>926</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehu281</pub-id><pub-id pub-id-type="pmid">25173340</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nakamura</surname><given-names>T</given-names></name><name><surname>Mikamo</surname><given-names>A</given-names></name><name><surname>Matsuno</surname><given-names>Y</given-names></name><name><surname>Fujita</surname><given-names>A</given-names></name><name><surname>Kurazumi</surname><given-names>H</given-names></name><name><surname>Suzuki</surname><given-names>R</given-names></name><etal/></person-group>. <article-title>Impact of acute kidney injury on prognosis of chronic kidney disease after aortic arch surgery</article-title>. <source>Interact Cardiovasc Thorac Surg.</source> (<year>2020</year>) <volume>30</volume>:<fpage>273</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1093/icvts/ivz247</pub-id><pub-id pub-id-type="pmid">31642907</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <label>4.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Scholz</surname><given-names>H</given-names></name><name><surname>Boivin</surname><given-names>FJ</given-names></name><name><surname>Schmidt-Ott</surname><given-names>KM</given-names></name><name><surname>Bachmann</surname><given-names>S</given-names></name><name><surname>Eckardt</surname><given-names>KU</given-names></name><name><surname>Scholl</surname><given-names>UI</given-names></name><etal/></person-group>. <article-title>Kidney physiology and susceptibility to acute kidney injury: implications for renoprotection</article-title>. <source>Nat Rev Nephrol.</source> (<year>2021</year>) <volume>17</volume>:<fpage>335</fpage>–<lpage>49</lpage>. <pub-id pub-id-type="doi">10.1038/s41581-021-00394-7</pub-id><pub-id pub-id-type="pmid">33547418</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <label>5.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lassus</surname><given-names>JP</given-names></name><name><surname>Nieminen</surname><given-names>MS</given-names></name><name><surname>Peuhkurinen</surname><given-names>K</given-names></name><name><surname>Pulkki</surname><given-names>K</given-names></name><name><surname>Siiril Waris</surname><given-names>K</given-names></name><name><surname>Sund</surname><given-names>R</given-names></name><etal/></person-group>. <article-title>Markers of renal function and acute kidney injury in acute heart failure: definitions and impact on outcomes of the cardiorenal syndrome</article-title>. <source>Eur Heart J.</source> (<year>2010</year>) <volume>31</volume>:<fpage>2791</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehq293</pub-id><pub-id pub-id-type="pmid">20801926</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <label>6.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Patel</surname><given-names>UD</given-names></name><name><surname>Garg</surname><given-names>AX</given-names></name><name><surname>Krumholz</surname><given-names>HM</given-names></name><name><surname>Shlipak</surname><given-names>MG</given-names></name><name><surname>Coca</surname><given-names>SG</given-names></name><name><surname>Sint</surname><given-names>K</given-names></name><etal/></person-group>. <article-title>Preoperative serum brain natriuretic peptide and risk of acute kidney injury after cardiac surgery</article-title>. <source>Circulation.</source> (<year>2012</year>) <volume>125</volume>:<fpage>1347</fpage>–<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.111.029686</pub-id><pub-id pub-id-type="pmid">22322531</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <label>7.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bucholz</surname><given-names>EM</given-names></name><name><surname>Whitlock</surname><given-names>RP</given-names></name><name><surname>Zappitelli</surname><given-names>M</given-names></name><name><surname>Devarajan</surname><given-names>P</given-names></name><name><surname>Eikelboom</surname><given-names>J</given-names></name><name><surname>Garg</surname><given-names>AX</given-names></name><etal/></person-group>. <article-title>Cardiac biomarkers and acute kidney injury after cardiac surgery</article-title>. <source>Pediatrics.</source> (<year>2015</year>) <volume>135</volume>:<fpage>e945</fpage>–<lpage>56</lpage>. <pub-id pub-id-type="doi">10.1542/peds.2014-2949</pub-id><pub-id pub-id-type="pmid">25755241</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <label>8.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jarolim</surname><given-names>P</given-names></name></person-group>. <article-title>High sensitivity cardiac troponin assays in the clinical laboratories</article-title>. <source>Clin Chem Lab Med.</source> (<year>2015</year>) <volume>53</volume>:<fpage>635</fpage>–<lpage>52</lpage>. <pub-id pub-id-type="doi">10.1515/cclm-2014-0565</pub-id><pub-id pub-id-type="pmid">25252753</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Traa</surname><given-names>WA</given-names></name><name><surname>Strijkers</surname><given-names>GJ</given-names></name><name><surname>Bader</surname><given-names>DL</given-names></name><name><surname>Oomens</surname><given-names>C</given-names></name></person-group>. <article-title>Myoglobin and troponin concentrations are increased in early stage deep tissue injury</article-title>. <source>J Mech Behav Biomed Mater.</source> (<year>2019</year>) <volume>92</volume>:<fpage>50</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1016/j.jmbbm.2018.12.026</pub-id><pub-id pub-id-type="pmid">30658240</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brede</surname><given-names>CM</given-names></name><name><surname>Lane</surname><given-names>BR</given-names></name></person-group>. <article-title>Prevention, diagnosis and treatment of rhabdomyolysis after urological surgery</article-title>. <source>J Urol.</source> (<year>2016</year>) <volume>195</volume>:<fpage>245</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1016/j.juro.2015.11.017</pub-id><pub-id pub-id-type="pmid">26585678</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tolone</surname><given-names>S</given-names></name><name><surname>Pilone</surname><given-names>V</given-names></name><name><surname>Musella</surname><given-names>M</given-names></name><name><surname>Rossetti</surname><given-names>G</given-names></name><name><surname>Milone</surname><given-names>M</given-names></name><name><surname>Fei</surname><given-names>L</given-names></name><etal/></person-group>. <article-title>Rhabdomyolysis after bariatric surgery: a multicenter, prospective study on incidence, risk factors, and therapeutic strategy in a cohort from South Italy</article-title>. <source>Surg Obes Relat Dis.</source> (<year>2016</year>) <volume>12</volume>:<fpage>384</fpage>–<lpage>90</lpage>. <pub-id pub-id-type="doi">10.1016/j.soard.2015.11.005</pub-id><pub-id pub-id-type="pmid">26833184</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Portella</surname><given-names>ST</given-names></name><name><surname>Acioly</surname><given-names>MA</given-names></name></person-group>. <article-title>Rhabdomyolysis and spine surgery: a systematic review of the literature</article-title>. <source>J Clin Neurosci.</source> (<year>2019</year>) <volume>70</volume>:<fpage>178</fpage>–<lpage>82</lpage>. <pub-id pub-id-type="doi">10.1016/j.jocn.2019.08.034</pub-id><pub-id pub-id-type="pmid">31447366</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>SH</given-names></name><name><surname>Xue</surname><given-names>FS</given-names></name><name><surname>Zheng</surname><given-names>L</given-names></name><name><surname>Hou</surname><given-names>HJ</given-names></name></person-group>. <article-title>Development of a risk prediction model for acute kidney injury after coronary artery bypass grafting: methodological issues</article-title>. <source>Int Urol Nephrol.</source> (<year>2020</year>) <volume>52</volume>:<fpage>803</fpage>–<lpage>4</lpage>. <pub-id pub-id-type="doi">10.1007/s11255-020-02428-8</pub-id><pub-id pub-id-type="pmid">32124235</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Miller</surname><given-names>CC</given-names></name><name><surname>Villa</surname><given-names>MA</given-names></name><name><surname>Sutton</surname><given-names>J</given-names></name><name><surname>Lau</surname><given-names>D</given-names></name><name><surname>Keyhani</surname><given-names>K</given-names></name><name><surname>Estrera</surname><given-names>AL</given-names></name><etal/></person-group>. <article-title>Serum myoglobin and renal morbidity and mortality following thoracic and thoraco-abdominal aortic repair: does rhabdomyolysis play a role?</article-title>
+<source>Eur J Vasc Endovasc Surg.</source> (<year>2009</year>) <volume>37</volume>:<fpage>388</fpage>–<lpage>94</lpage>. <pub-id pub-id-type="doi">10.1016/j.ejvs.2008.12.020</pub-id><pub-id pub-id-type="pmid">19232502</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Raju</surname><given-names>NA</given-names></name><name><surname>Rao</surname><given-names>SV</given-names></name><name><surname>Joel</surname><given-names>JC</given-names></name><name><surname>Jacob</surname><given-names>GG</given-names></name><name><surname>Anil</surname><given-names>AK</given-names></name><name><surname>Gowri</surname><given-names>SM</given-names></name><etal/></person-group>. <article-title>Predictive value of serum myoglobin and creatine phosphokinase for development of acute kidney injury in traumatic rhabdomyolysis</article-title>. <source>Indian J Crit Care Med.</source> (<year>2017</year>) <volume>21</volume>:<fpage>852</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.4103/ijccm.IJCCM_186_17</pub-id><pub-id pub-id-type="pmid">29307967</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Birnie</surname><given-names>K</given-names></name><name><surname>Verheyden</surname><given-names>V</given-names></name><name><surname>Pagano</surname><given-names>D</given-names></name><name><surname>Bhabra</surname><given-names>M</given-names></name><name><surname>Tilling</surname><given-names>K</given-names></name><name><surname>Sterne</surname><given-names>JA</given-names></name><etal/></person-group>. <article-title>Predictive models for kidney disease: improving global outcomes (KDIGO) defined acute kidney injury in UK cardiac surgery</article-title>. <source>Crit Care.</source> (<year>2014</year>) <volume>18</volume>:<fpage>606</fpage>. <pub-id pub-id-type="doi">10.1186/s13054-014-0606-x</pub-id><pub-id pub-id-type="pmid">25673427</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <label>17.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Bellomo</surname><given-names>R</given-names></name></person-group>. <article-title>Cardiac surgery-associated acute kidney injury: risk factors, pathophysiology and treatment</article-title>. <source>Nat Rev Nephrol.</source> (<year>2017</year>) <volume>13</volume>:<fpage>697</fpage>–<lpage>711</lpage>. <pub-id pub-id-type="doi">10.1038/nrneph.2017.119</pub-id><pub-id pub-id-type="pmid">28869251</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nadim</surname><given-names>MK</given-names></name><name><surname>Forni</surname><given-names>LG</given-names></name><name><surname>Bihorac</surname><given-names>A</given-names></name><name><surname>Hobson</surname><given-names>C</given-names></name><name><surname>Koyner</surname><given-names>JL</given-names></name><name><surname>Shaw</surname><given-names>A</given-names></name><etal/></person-group>. <article-title>Cardiac and vascular surgery-associated acute kidney injury: the 20th international consensus conference of the ADQI (Acute Disease Quality Initiative) group</article-title>. <source>J Am Heart Assoc</source>. (<year>2018</year>) <volume>7</volume>:<fpage>e008834</fpage>. <pub-id pub-id-type="doi">10.1161/JAHA.118.008834</pub-id><pub-id pub-id-type="pmid">29858368</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Levey</surname><given-names>AS</given-names></name><name><surname>Stevens</surname><given-names>LA</given-names></name></person-group>. <article-title>Estimating GFR using the CKD epidemiology collaboration (CKD-EPI) creatinine equation: more accurate GFR estimates, lower CKD prevalence estimates, and better risk predictions</article-title>. <source>Am J Kidney Dis.</source> (<year>2010</year>) <volume>55</volume>:<fpage>622</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1053/j.ajkd.2010.02.337</pub-id><pub-id pub-id-type="pmid">20338463</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <label>20.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ghincea</surname><given-names>CV</given-names></name><name><surname>Reece</surname><given-names>TB</given-names></name><name><surname>Eldeiry</surname><given-names>M</given-names></name><name><surname>Roda</surname><given-names>GF</given-names></name><name><surname>Bronsert</surname><given-names>MR</given-names></name><name><surname>Jarrett</surname><given-names>MJ</given-names></name><etal/></person-group>. <article-title>Predictors of acute kidney injury following aortic?</article-title>
+<source>Arch Surgery J Surg Res.</source> (<year>2019</year>) <volume>242</volume>:<fpage>40</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1016/j.jss.2019.03.055</pub-id><pub-id pub-id-type="pmid">31063910</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <label>21.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dong</surname><given-names>N</given-names></name><name><surname>Piao</surname><given-names>H</given-names></name><name><surname>Du</surname><given-names>Y</given-names></name><name><surname>Li</surname><given-names>B</given-names></name><name><surname>Xu</surname><given-names>J</given-names></name><name><surname>Wei</surname><given-names>S</given-names></name><etal/></person-group>. <article-title>Development of a practical prediction score for acute renal injury after surgery for Stanford type A aortic dissection</article-title>. <source>Interact Cardiovasc Thorac Surg.</source> (<year>2020</year>) <volume>30</volume>:<fpage>746</fpage>–<lpage>53</lpage>. <pub-id pub-id-type="doi">10.1093/icvts/ivaa011</pub-id><pub-id pub-id-type="pmid">32044962</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <label>22.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhou</surname><given-names>H</given-names></name><name><surname>Wang</surname><given-names>G</given-names></name><name><surname>Yang</surname><given-names>L</given-names></name><name><surname>Shi</surname><given-names>S</given-names></name><name><surname>Li</surname><given-names>J</given-names></name><name><surname>Wang</surname><given-names>M</given-names></name><etal/></person-group>. <article-title>Acute kidney injury after total arch replacement combined with frozen elephant trunk implantation: incidence, risk factors, and outcome</article-title>. <source>J Cardiothorac Vasc Anesth.</source> (<year>2018</year>) <volume>32</volume>:<fpage>2210</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1053/j.jvca.2018.02.026</pub-id><pub-id pub-id-type="pmid">29571643</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <label>23.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pencina</surname><given-names>MJ</given-names></name><name><surname>D'Agostino</surname><given-names>RB</given-names></name><name><surname>Steyerberg</surname><given-names>EW</given-names></name></person-group>. <article-title>Extensions of net reclassification improvement calculations to measure usefulness of new biomarkers</article-title>. <source>Stat Med.</source> (<year>2011</year>) <volume>30</volume>:<fpage>11</fpage>–<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1002/sim.4085</pub-id><pub-id pub-id-type="pmid">21204120</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <label>24.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zimmerman</surname><given-names>JL</given-names></name><name><surname>Shen</surname><given-names>MC</given-names></name></person-group>. <article-title>Rhabdomyolysis</article-title>. <source>Chest.</source> (<year>2013</year>) <volume>144</volume>:<fpage>1058</fpage>–<lpage>65</lpage>. <pub-id pub-id-type="doi">10.1378/chest.12-2016</pub-id><pub-id pub-id-type="pmid">24008958</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <label>25.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cote</surname><given-names>DR</given-names></name><name><surname>Fuentes</surname><given-names>E</given-names></name><name><surname>Elsayes</surname><given-names>AH</given-names></name><name><surname>Ross</surname><given-names>JJ</given-names></name><name><surname>Quraishi</surname><given-names>SA</given-names></name></person-group>. <article-title>A “crush” course on rhabdomyolysis: risk stratification and clinical management update for the perioperative clinician</article-title>. <source>J Anesth.</source> (<year>2020</year>) <volume>34</volume>:<fpage>585</fpage>–<lpage>98</lpage>. <pub-id pub-id-type="doi">10.1007/s00540-020-02792-w</pub-id><pub-id pub-id-type="pmid">32424487</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <label>26.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lippi</surname><given-names>G</given-names></name><name><surname>Plebani</surname><given-names>M</given-names></name></person-group>. <article-title>Serum myoglobin immunoassays: obsolete or still clinically useful?</article-title>
+<source>Clin Chem Lab Med.</source> (<year>2016</year>) <volume>54</volume>:<fpage>1541</fpage>–<lpage>3</lpage>. <pub-id pub-id-type="doi">10.1515/cclm-2016-0472</pub-id><pub-id pub-id-type="pmid">27341565</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <label>27.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Petejova</surname><given-names>N</given-names></name><name><surname>Martinek</surname><given-names>A</given-names></name></person-group>. <article-title>Acute kidney injury due to rhabdomyolysis and renal replacement therapy: a critical review</article-title>. <source>Crit Care.</source> (<year>2014</year>) <volume>18</volume>:<fpage>224</fpage>. <pub-id pub-id-type="doi">10.1186/cc13897</pub-id><pub-id pub-id-type="pmid">25043142</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <label>28.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Miller</surname><given-names>CC</given-names></name><name><surname>Villa</surname><given-names>MA</given-names></name><name><surname>Achouh</surname><given-names>P</given-names></name><name><surname>Estrera</surname><given-names>AL</given-names></name><name><surname>Azizzadeh</surname><given-names>A</given-names></name><name><surname>Coogan</surname><given-names>SM</given-names></name><etal/></person-group>. <article-title>Intraoperative skeletal muscle ischemia contributes to risk of renal dysfunction following thoracoabd ominal aortic repair</article-title>. <source>Eur J Cardiothorac Surg.</source> (<year>2008</year>) <volume>33</volume>:<fpage>691</fpage>–<lpage>4</lpage>. <pub-id pub-id-type="doi">10.1016/j.ejcts.2008.01.006</pub-id><pub-id pub-id-type="pmid">18261919</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <label>29.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bongert</surname><given-names>M</given-names></name><name><surname>Gehron</surname><given-names>J</given-names></name><name><surname>Geller</surname><given-names>M</given-names></name><name><surname>Böning</surname><given-names>A</given-names></name><name><surname>Grieshaber</surname><given-names>P</given-names></name></person-group>. <article-title>Cannula position and Bernoulli effect contribute to leg malperfusion during extracorporeal life support with femoral arterial cannulation-an in silico simulation study?</article-title>
+<source>Interact Cardiovasc Thorac Surg</source>. (<year>2019</year>) <volume>29</volume>:<fpage>312</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1093/icvts/ivz048</pub-id><pub-id pub-id-type="pmid">30879059</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <label>30.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Van Nieuwenhoven</surname><given-names>FA</given-names></name><name><surname>Kleine</surname><given-names>AH</given-names></name><name><surname>Wodzig</surname><given-names>WH</given-names></name><name><surname>Hermens</surname><given-names>WT</given-names></name><name><surname>Kragten</surname><given-names>HA</given-names></name><name><surname>Maessen</surname><given-names>JG</given-names></name><etal/></person-group>. <article-title>Discrimination between myocardial and skeletal muscle injury by assessment of the plasma ratio of myoglobin over fatty acid-binding protein</article-title>. <source>Circulation.</source> (<year>1995</year>) <volume>92</volume>:<fpage>2848</fpage>–<lpage>54</lpage>. <pub-id pub-id-type="doi">10.1161/01.CIR.92.10.2848</pub-id><pub-id pub-id-type="pmid">7586251</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <label>31.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Miller</surname><given-names>CC</given-names></name><name><surname>Grimm</surname><given-names>JC</given-names></name><name><surname>Estrera</surname><given-names>AL</given-names></name><name><surname>Azizzadeh</surname><given-names>A</given-names></name><name><surname>Coogan</surname><given-names>SM</given-names></name><name><surname>Walkes</surname><given-names>JC</given-names></name><etal/></person-group>. <article-title>Postoperative renal function preservation with nonischemic femoral arterial cannulation for thoracoab dominal aortic repair</article-title>. <source>J Vasc Surg.</source> (<year>2010</year>) <volume>51</volume>:<fpage>38</fpage>–<lpage>42</lpage>. <pub-id pub-id-type="doi">10.1016/j.jvs.2009.08.044</pub-id><pub-id pub-id-type="pmid">19853401</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <label>32.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vanmassenhove</surname><given-names>J</given-names></name><name><surname>Kielstein</surname><given-names>J</given-names></name></person-group>. <article-title>J Rres A, Biesen WV. Management of patients at risk of acute kidney injury</article-title>. <source>Lancet.</source> (<year>2017</year>) <volume>389</volume>:<fpage>2139</fpage>–<lpage>51</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(17)31329-6</pub-id><pub-id pub-id-type="pmid">28561005</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <label>33.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Charlton-Ouw</surname><given-names>KM</given-names></name><name><surname>Sritharan</surname><given-names>K</given-names></name><name><surname>Leake</surname><given-names>SS</given-names></name><name><surname>Sandhu</surname><given-names>HK</given-names></name><name><surname>Miller</surname><given-names>CC</given-names></name><name><surname>Azizzadeh</surname><given-names>A</given-names></name><etal/></person-group>. <article-title>Management of limb ischemia in acute proximal aortic dissection</article-title>. <source>J Vasc Surg.</source> (<year>2013</year>) <volume>57</volume>:<fpage>1023</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/j.jvs.2012.10.079</pub-id><pub-id pub-id-type="pmid">23332986</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <label>34.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lei</surname><given-names>C</given-names></name><name><surname>Berra</surname><given-names>L</given-names></name><name><surname>Rezoagli</surname><given-names>E</given-names></name><name><surname>Yu</surname><given-names>B</given-names></name><name><surname>Dong</surname><given-names>H</given-names></name><name><surname>Yu</surname><given-names>S</given-names></name><etal/></person-group>. <article-title>Nitric oxide decreases acute kidney injury and stage 3 chronic kidney disease after cardiac surgery</article-title>. <source>Am J Respir Crit Care Med.</source> (<year>2018</year>) <volume>198</volume>:<fpage>1279</fpage>–<lpage>87</lpage>. <pub-id pub-id-type="doi">10.1164/rccm.201710-2150OC</pub-id><pub-id pub-id-type="pmid">29932345</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <label>35.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Scharf</surname><given-names>C</given-names></name><name><surname>Liebchen</surname><given-names>U</given-names></name><name><surname>Paal</surname><given-names>M</given-names></name><name><surname>Irlbeck</surname><given-names>M</given-names></name><name><surname>Zoller</surname><given-names>M</given-names></name><name><surname>Schroeder</surname><given-names>I</given-names></name></person-group>. <article-title>Blood purification with a cytokine adsorber for the elimination of myoglobin in critically ill patients with severe rhabdomyolysis</article-title>. <source>Crit Care.</source> (<year>2021</year>) <volume>25</volume>:<fpage>41</fpage>. <pub-id pub-id-type="doi">10.1186/s13054-021-03468-x</pub-id><pub-id pub-id-type="pmid">33509234</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <label>36.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vermeulen Windsant</surname><given-names>IC</given-names></name><name><surname>Snoeijs</surname><given-names>MG</given-names></name><name><surname>Hanssen</surname><given-names>SJ</given-names></name><name><surname>Altintas</surname><given-names>S</given-names></name><name><surname>Heijmans</surname><given-names>JH</given-names></name><name><surname>Koeppel</surname><given-names>TA</given-names></name><etal/></person-group>. <article-title>Hemolysis is associated with acute kidney injury during major aortic surgery</article-title>. <source>Kidney Int.</source> (<year>2010</year>) <volume>77</volume>:<fpage>913</fpage>–<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1038/ki.2010.24</pub-id><pub-id pub-id-type="pmid">20182411</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
