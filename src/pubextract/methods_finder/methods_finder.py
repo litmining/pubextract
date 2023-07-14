@@ -15,7 +15,8 @@ def method_yn_from_term_search(docs, methods_labels=[]):
     results_df
         results dataframe, with the input documents' pmcids as the index,
         and the methods_labels as the columns.
-        If the value in a cell is 1, that means we found at least one term for that method (column name) in the document with that pmcid (index).
+        If the value in a cell is 1, that means we found at least one term for
+        that method (column name) in the document with that pmcid (index).
     """
     terms_path = Path(__file__).resolve().parent / "_data" / "methods_terms.csv"
     terms_df = pd.read_csv(terms_path)
@@ -25,7 +26,7 @@ def method_yn_from_term_search(docs, methods_labels=[]):
     results_df = pd.DataFrame(index=docs["pmcid"], columns=methods_labels)
 
     for method in methods_labels:
-        terms = list(terms_df.loc[:, method])
+        terms = list(terms_df.loc[:, method].dropna())
         terms.sort()
 
         # neuroquery object
@@ -52,7 +53,9 @@ def method_value_from_term_search(docs, methods_labels=[]):
     results_df
         results dataframe, with the input documents' pmcids as the index,
         and the methods_labels as the columns.
-        The value in the cell is the last number found in the sentence where we found a term related to the given method (column name) in the document with that pmcid (index).
+        The value in the cell is the last number found in the sentence where
+        we found a term related to the given method (column name) in the
+        document with that pmcid (index).
     """
 
     terms_path = Path(__file__).resolve().parent / "_data" / "methods_terms.csv"

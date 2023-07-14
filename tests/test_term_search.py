@@ -19,7 +19,7 @@ TERMS = list(pd.read_csv(terms_path)["cluster_inference"])
 TERMS.sort()
 
 docs_path = (
-    Path(__file__).resolve().parent / "data" / "documents" / "test_documents.jsonl"
+    Path(__file__).resolve().parent / "data" / "labelbuddy_documents" / "test_documents.jsonl"
 )
 DOCS = pd.read_json(docs_path, lines=True)
 for index, row in DOCS.iterrows():
