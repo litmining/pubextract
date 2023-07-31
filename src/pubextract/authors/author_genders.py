@@ -20,6 +20,7 @@ def add_author_genders_to_csv(csv_path):
             df.loc[i, "gender"] = gender
     new_csv_path = str(csv_path)[:-4] + "_with_genders.csv"
     df.to_csv(new_csv_path, index=False)
+    print(new_csv_path)
     return new_csv_path
 
 
@@ -99,3 +100,4 @@ def make_author_gender_figure_and_csv(csv_path):
     fig.tight_layout()
     fig_path = str(csv_path)[:-4] + "_gender_figure.png"
     fig.savefig(fig_path)
+    return fig, r, df, new_csv_path, fig_path
